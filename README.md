@@ -2,6 +2,9 @@
 
 > a curated list of tools, resources, and rabbit holes — personal, opinionated, and actually useful.
 
+<!--ts-->
+<!--te-->
+
 ---
 
 ## 🛠 tools & utilities
