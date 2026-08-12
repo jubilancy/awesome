@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [✦ awesome-eliana ✦](#%E2%9C%A6-awesome-eliana-%E2%9C%A6)
+  - [🛠 tools & utilities](#-tools--utilities)
+  - [🐙 github-powered & self-hostable](#-github-powered--self-hostable)
+  - [🎨 design & typography](#-design--typography)
+  - [🎵 music & audio](#-music--audio)
+  - [🧠 knowledge management & note-taking](#-knowledge-management--note-taking)
+  - [🌐 indie web & personal sites](#-indie-web--personal-sites)
+  - [💻 web dev resources](#-web-dev-resources)
+  - [✨ creative coding & generative art](#-creative-coding--generative-art)
+  - [⬛ monospace & terminal aesthetic](#-monospace--terminal-aesthetic)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # ✦ awesome-eliana ✦
 
 > a curated list of tools, resources, and rabbit holes — personal, opinionated, and actually useful
