@@ -1079,5 +1079,923 @@ _the look you clearly have taste for_
 - [Enchanted Tools Pack](https://isopod.cool/stuff/EnchantedToolsPack_v1.zip) - Minecraft resource pack for enchanted gear
 - [status.cafe Latte](https://userstyles.world/style/5238/status-cafe-latte) - Stylus theme for status.cafe
 
+# Awesome Webcraft
+
+> A curated list of resources for handmade websites, HTML/CSS learning, typefaces, image tools, and accessibility testing
+
+## Contents
+- [Guides & Tutorials](#guides--tutorials)
+- [HTML/CSS/JS References](#htmlcssjs-references)
+- [CSS Patterns](#css-patterns)
+- [Typefaces](#typefaces)
+- [Image Tools](#image-tools)
+- [Accessibility](#accessibility)
+- [Modify Other Sites](#modify-other-sites)
+- [Link Maintenance](#link-maintenance)
+
+## Guides & Tutorials
+- [Sharing Your Art Online](https://ribo.zone/free/guides/artsite) - Beginner guide to building a free, handmade HTML/CSS portfolio site
+- [Dithering + Image Editing Workflow](https://ribo.zone/blog/blaugust-2025/dithering) - Blog post explaining a dithered image-editing workflow
+- [100 Questions for Webmasters](https://ribo.zone/blog/100q) - Opinions and links on making websites, in Q&A format
+
+## HTML/CSS/JS References
+- [MDN Web Docs — Learn](https://developer.mozilla.org/en-US/docs/Learn) - Well-written guides for HTML, CSS, and JavaScript
+- [CSS-Tricks](https://css-tricks.com/) - Long-running reference for CSS-only techniques and snippets
+- [HTML Cheatsheet](https://htmlcheatsheet.com/) - Quick-reference HTML tag cheatsheet
+- [CSS Cheatsheet](https://htmlcheatsheet.com/css/) - Quick-reference CSS property cheatsheet
+
+## CSS Patterns
+- [Simple CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds) - Generator for simple CSS-only background patterns
+- [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/) - Gallery of more complex CSS-only background patterns
+
+## Typefaces
+- [The Oldschool PC Font Resource](https://int10h.org/oldschool-pc-fonts/fontlist/) - Archive of classic DOS/PC bitmap fonts
+- [Velvetyne](https://velvetyne.fr/) - Free and open-source type foundry
+- [Collletttivo](https://www.collletttivo.it/) - Open-source fonts from an Italian type collective
+- [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) - Braille Institute's ultra-readable free font
+- [Cava's Pixel Resources](https://caveras.net/) - Video game–style pixel fonts
+- [Disaster Fonts](http://disasterfonts.co.uk/) - Science fiction–inspired display fonts
+- [Act Select](http://actselect.chips.jp/fonts/font.htm) - Replica Sega arcade fonts
+- [BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/) - Browser-based bitmap font creation tool
+- [BitFontMaker2 Gallery](https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/) - Gallery of fonts made with BitFontMaker2
+
+## Image Tools
+- [Squoosh](https://squoosh.app/) - Browser-based image compression tool
+- [Birme](https://www.birme.net/) - Bulk image resizing tool
+- [Dithermark](https://app.dithermark.com/) - Photo dithering tool (Bayer 16x16 style)
+
+## Accessibility
+- [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool
+- [WCAG 2.1 Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) - Official Web Content Accessibility Guidelines reference
+- [Photosensitive Epilepsy Analysis Tool](https://trace.umd.edu/peat/) - Identifies seizure-risk content in videos/animations
+- [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter) - Simulates colorblindness and checks contrast
+
+## Modify Other Sites
+- [Userstyles Guide](https://ribo.zone/free/snippets/userstyles) - How to apply your own CSS to any website
+- [Bookmarklets Guide](https://ribo.zone/free/snippets/bookmarklets) - How to run your own JavaScript on any website
+
+## Link Maintenance
+- [Dead Link Checker](https://www.deadlinkchecker.com/website-dead-link-checker.asp) - Scans a site for broken/404 links
+
+# Awesome Online Tools
+
+> A curated list of free online tools, converters, generators, and utility sites — covering media downloading, file conversion, developer/data utilities, and music/playlist tools.
+
+## Contents
+- [Video & Media Downloading](#video--media-downloading)
+- [Obsidian Plugins](#obsidian-plugins)
+- [Music & Playlist Tools](#music--playlist-tools)
+- [File Format Converters (Aspose)](#file-format-converters-aspose)
+- [Design & Dev Utilities (shadcn.io)](#design--dev-utilities-shadcnio)
+- [Text, Data & Encoding Tools](#text-data--encoding-tools)
+- [JSON Tools](#json-tools)
+- [URL Conversion Tools](#url-conversion-tools)
+- [Markdown Tools](#markdown-tools)
+- [Klipy (GIFs, Memes, Stickers)](#klipy-gifs-memes-stickers)
+- [Research & Academic](#research--academic)
+- [Wepplication Utility Suite](#wepplication-utility-suite)
+
+## Video & Media Downloading
+- [SaveTumblr](https://savetumblr.com/) - Downloads videos and media from Tumblr posts
+
+## Obsidian Plugins
+- [Media Extended](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/media-extended) - Enhances video/audio playback inside Obsidian notes
+- [Media Extended BiliBili Plugin](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/mx-bili-plugin) - Adds Bilibili video support to Media Extended
+- [Podcast Note](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/podcast-note) - Auto-adds podcast info and notes to Obsidian
+
+## Music & Playlist Tools
+- [Last.fm Extra Stats](http://c26k.com/lastfmextrastats/) - Additional statistics dashboard for Last.fm listening data
+- [Explr](https://mold.github.io/explr) - Music discovery/exploration tool built on Last.fm data
+- [Last.fm Labs](https://www.last.fm/labs) - Official Last.fm experimental tools and visualizations
+- [Dahlsjoo](https://dahlsjoo.com/) - Personal music/listening stats site
+- [Last Hop](https://lasthop.holidaypuzzles.co.za/) - Last.fm-based listening stats tool
+- [Bijou.fm (Instagram)](https://instagram.com/bijou.fm) - Instagram account for the Bijou.fm music tool
+- [Magic Playlist](https://magicplaylist.co/) - AI-assisted Spotify playlist generator
+- [Playlist Genius](https://playlistgenius.app/) - Smart playlist creation and curation app
+- [Organize Your Music](https://organizeyourmusic.playlistmachinery.com/) - Sorts and organizes Spotify libraries
+- [Smarter Playlists](https://smarterplaylists.playlistmachinery.com/) - Node-based playlist generation engine
+- [Playlist Randomizer](https://playlistrandomizer.app/) - Randomizes track order in Spotify playlists
+- [Playlist Sorter](https://playlistsorter.com/) - Sorts Spotify playlists by various criteria
+- [Playlost.fm](https://playlost.fm/) - Recovers or finds lost/removed Spotify tracks
+- [Skiley](https://skiley.net/) - Spotify playlist cleanup and management tool
+- [Spotify Tools](https://spotifytools.com/) - Collection of Spotify utility tools
+- [Timelineify](https://timelineify.com/) - Visualizes Spotify listening history as a timeline
+- [Spotlistr](https://www.spotlistr.com/wizard) - Converts YouTube, Reddit, SoundCloud, and more into Spotify playlists; also offers cover art, stats, and dedupe tools
+
+## File Format Converters (Aspose)
+- [Aspose Free Online Tools](https://www.aspose.app/) - Free online converters/editors for 3D, Office, PDF, image, audio, and CAD file formats
+- [Aspose Product Families](https://products.aspose.app/) - Directory of all Aspose format-specific tool families (PDF, Words, Cells, Slides, etc.)
+
+## Design & Dev Utilities (shadcn.io)
+- [shadcn.io Tools](https://www.shadcn.io/tools/) - Large collection of free dev/design utilities: hashing, encoding, image color/format conversion, QR codes, calculators, and more
+- [shadcn.io MCP Tools](https://www.shadcn.io/mcp/tools/list-tools) - MCP server tools for querying the shadcn component/icon registry
+
+## Text, Data & Encoding Tools
+- [Browserling Online Text Tools](https://www.browserling.com/tools/my-ip) - Large suite of free browser-based utilities: encoding, formatting, converters, hashing, random generators, and unit converters
+
+## JSON Tools
+- [JSON Lint - All JSON Tools](https://jsonlint.com/) - 42 free tools to validate, format, convert, and transform JSON data
+
+## URL Conversion Tools
+- [URL to Any](https://www.urltoany.com/) - Converts URLs to Markdown, PDF, image, QR code, JSON, XML, and more
+- [URL to Any (Chrome Extension)](https://chromewebstore.google.com/detail/url-to-any/hdeahdocfpdpkenicokmgpialipomphf) - Browser extension version of URL to Any
+- [AnyToURL](https://anytourl.com/) - Companion tool for converting content to and from URLs
+- [URL to MP3](https://urltomp3.com/?ref=urltoany) - Extracts audio as MP3 from a given URL
+
+## Markdown Tools
+- [Markdown Space](https://app.markdown.space/) - Build websites directly from Markdown documents
+- [Drafts](https://getdrafts.com/) - Quick-capture text and Markdown writing app
+- [TinyMD](https://www.tinymd.io/) - Free online Markdown editor, converter, and viewer
+- [WikiBonsai Usage Docs](https://github.com/wikibonsai/wikibonsai/blob/main/docs/USE.md) - Usage documentation for the WikiBonsai knowledge-graph toolkit
+
+## Klipy (GIFs, Memes, Stickers)
+- [Klipy](https://klipy.com/) - GIF, meme, clip, and sticker platform with app/plugin integrations
+- [Klipy Developers](https://klipy.com/developers) - Developer/API documentation for Klipy
+- [Klipy for Slack](https://klipy.com/documentation/slack.html) - Klipy integration docs for Slack
+- [Klipy on Miro](http://klipy.com/miro) - Klipy plugin for the Miro whiteboard app
+- [Klipy iOS App](https://apps.apple.com/us/app/klipy-memes-clips-gifs/id1598936040) - Klipy app on the Apple App Store
+- [Klipy Chrome Extension](https://chromewebstore.google.com/detail/klipy-memes-clips-gifs/eecamihehojmibkhhpfijgpmnbikhjgi) - Klipy extension for Chrome
+- [Klipy Figma Plugin](https://www.figma.com/community/plugin/1426524974287039991/klipy-gifs-clips-and-stickers) - Klipy plugin for Figma
+- [Klipy on Zapier](https://zapier.com/apps/klipy/integrations) - Automation integrations for Klipy via Zapier
+
+## Research & Academic
+- [JSTOR](https://about.jstor.org/) - Digital library of academic journals, books, and primary sources
+- [JSTOR Labs](https://labs.jstor.org/) - Experimental research and text-analysis tools from JSTOR
+- [JSTOR Daily](https://daily.jstor.org/) - Editorial site connecting JSTOR research to current events
+- [JSTOR Advanced Search](https://www.jstor.org/action/showAdvancedSearch) - Advanced search interface for the JSTOR database
+- [JSTOR Support](https://support.jstor.org/) - Help center and access support for JSTOR
+
+## Wepplication Utility Suite
+- [Wepplication Tools](https://wepplication.github.io/tools/) - Free browser utility suite: ASCII art, barcodes, encoding/encryption, TTS/STT, UUID generation, and more
+
+# Awesome Free Online Developer & Testing Tools
+
+> A curated list of free browser-based tools for developers, testers, and data wranglers — formatters, converters, generators, diagnostics, web scraping, and cloud browser testing.
+
+## Contents
+
+- [Web Scraping Tools](#web-scraping-tools)
+- [Web Scraping Guides](#web-scraping-guides)
+- [Web Scraping Tutorials](#web-scraping-tutorials)
+- [Testing & Browser Automation](#testing--browser-automation)
+- [Code Formatters, Validators & Minifiers](#code-formatters-validators--minifiers)
+- [Code Converters & Compilers](#code-converters--compilers)
+- [Compare & Diff Tools](#compare--diff-tools)
+- [Data Format Converters](#data-format-converters)
+- [Number Base Converters](#number-base-converters)
+- [Encoders & Decoders](#encoders--decoders)
+- [Color & CSS Tools](#color--css-tools)
+- [Image & File Converters](#image--file-converters)
+- [Image Stitching](#image-stitching)
+- [Text Tools](#text-tools)
+- [Calculators & Unit Converters](#calculators--unit-converters)
+- [Network & Web Diagnostics](#network--web-diagnostics)
+- [Browser & System Info](#browser--system-info)
+- [Random & Test Data Generators](#random--test-data-generators)
+- [Security & Hashing](#security--hashing)
+
+## Web Scraping Tools
+
+- [ScrapetoAI](https://simplescraper.io/scrapetoai) - Convert websites to LLM-Ready Markdown for free
+- [Free URL Extractor](https://simplescraper.io/extracturls) - Extract all links from any website
+- [Perfectly Screenshot Any Website in Seconds](https://simplescraper.io/features/screenshot-api) - Capture pixel-perfect screenshots via API or dashboard
+- [AI-Powered Web Scraping](https://simplescraper.io/features/ai-extraction-and-enhance) - Extract data automatically with AI. No CSS selectors needed
+- [Scrape Websites Behind a Login](https://simplescraper.io/features/scrape-behind-login) - Access password-protected sites with secure authentication
+- [Bulk Scrape Multiple URLs at Scale](https://simplescraper.io/features/batch-scraping) - Scrape thousands of URLs in parallel efficiently
+- [Automated Web Scraping & Monitoring](https://simplescraper.io/features/schedule-and-monitor) - Run scrapes automatically and monitor for changes
+- [Scrape Data Directly to Google Sheets](https://simplescraper.io/features/google-sheets-integration) - Send data directly to Google Sheets in real-time
+- [Turn Any Website Into Structured Data](https://simplescraper.io/features/extract-structured-data) - Auto-detect tables, lists, and structured content
+- [Extract All Links from Any Website](https://simplescraper.io/features/url-extractor) - Find every link on a page instantly
+- [Remove Duplicate Scraped Data Automatically](https://simplescraper.io/features/deduplication) - Remove duplicates automatically for clean data
+- [Send Scraped Data Anywhere With Webhooks & Zapier](https://simplescraper.io/features/webhooks-integration) - Connect to 5000+ apps via webhooks
+- [AI Agent Automation (MCP)](https://simplescraper.io/features/ai-agent-automation-mcp-server) - Enable AI agents to scrape live web data
+- [Turn Websites into Live APIs](https://simplescraper.io/features/realtime-api-endpoints) - Turn any website into a live API
+- [Scrape Multi-Page & Infinite Scroll Sites](https://simplescraper.io/features/pagination-and-infinite-scroll) - Handle multi-page sites automatically
+
+## Web Scraping Guides
+
+- [Getting started and FAQ](https://simplescraper.io/docs) - Simplescraper getting-started documentation and FAQ
+- [How to use the extension](https://simplescraper.io/docs/how-scrape-save-recipes) - Using the browser extension to build and save scraping recipes
+- [Batch scraping URLs](https://simplescraper.io/docs/crawling-lists-of-urls) - Batch-scraping a list of URLs in one run
+- [Scraping multiple pages](https://simplescraper.io/docs/multiple-page-infinite-scroll) - Handling pagination and infinite-scroll pages
+- [Scraping behind a login](https://simplescraper.io/docs/scrape-behind-login) - Scraping pages that sit behind authentication
+- [Scheduling your web scraping](https://simplescraper.io/docs/scheduling-webscraping) - Scheduling recurring scrapes and change monitoring
+- [Extracting Markdown data](https://simplescraper.io/docs/extract-markdown) - Extracting page content as clean Markdown
+- [Using readymade recipes](https://simplescraper.io/docs/ready-made-recipes) - Using prebuilt scraping recipes for common sites
+- [API guide](https://simplescraper.io/docs/api-guide) - API reference for triggering scrapes programmatically
+- [Saving data to Google Sheets](https://simplescraper.io/docs/saving-data-google-sheets) - Piping scraped data straight into Google Sheets
+- [Saving data to Airtable](https://simplescraper.io/docs/scraping-data-into-airtable) - Piping scraped data straight into Airtable
+- [Saving data to Zapier](https://simplescraper.io/docs/scraping-data-into-zapier) - Sending scraped data to Zapier workflows
+- [Saving data to Make (Integromat)](https://simplescraper.io/docs/scraping-data-into-integromat) - Sending scraped data to Make (formerly Integromat)
+- [Blog](https://simplescraper.io/blog) - Simplescraper blog with scraping and automation walkthroughs
+
+## Web Scraping Tutorials
+
+- [How to Create Automated CVE Email Alerts for Your Security Stack](https://simplescraper.io/blog/how-to-build-email-cve-alerts) - How to Create Automated CVE Email Alerts for Your Security Stack
+- [How to Analyze Competitors' SEO Strategy For Free Using AI](https://simplescraper.io/blog/analyze-competitors-seo-strategy-free) - How to Analyze Competitors' SEO Strategy For Free Using AI
+- [The Complete Guide to Airtable Scripting](https://simplescraper.io/blog/complete-guide-airtable-scripting) - The Complete Guide to Airtable Scripting
+- [How to find business opportunities using Simplescraper AI](https://simplescraper.io/blog/analyze-business-listing-simplescraper-ai) - How to find business opportunities using Simplescraper AI
+- [How to transform Twitter lists into email digests using Simplescraper, AI and Airtable](https://simplescraper.io/blog/how-turn-twitter-lists-email-summary-simplescraper-ai-airtable) - How to transform Twitter lists into email digests using Simplescraper, AI…
+- [How to scrape Indeed Job listings into Airtable with no code](https://simplescraper.io/blog/scrape-indeed-jobs-website-to-airtable) - How to scrape Indeed Job listings into Airtable with no code
+- [How to scrape your Airbnb wishlist into Airtable with no code](https://simplescraper.io/blog/scrape-airbnb-website-to-airtable) - How to scrape your Airbnb wishlist into Airtable with no code
+- [How to scrape data into Webflow to create a job board with no code](https://simplescraper.io/blog/scrape-nocode-simplescraper-webflow) - How to scrape data into Webflow to create a job board with no code
+- [How to Scrape Website data into Google Sheets with no code](https://simplescraper.io/blog/scrape-website-to-google-sheet) - How to Scrape Website data into Google Sheets with no code
+
+## Testing & Browser Automation
+
+- [Automation Testing Cloud](https://www.testmuai.com/automation-cloud/) - Cloud grid for running automated test suites at scale
+- [KaneAI - GenAI-Native Testing Agent](https://www.testmuai.com/kane-ai/) - GenAI-native agent that authors and runs tests from plain language
+- [Kane CLI](https://www.testmuai.com/kane-cli/) - Command-line browser automation runner for tests
+- [Agent Testing](https://www.testmuai.com/agent-testing/) - Testing harness aimed at AI agent behaviour
+- [AI Agents](https://www.testmuai.com/agents/) - AI agents for authoring, triaging, and maintaining tests
+- [MCP Server](https://www.testmuai.com/mcp/) - MCP server exposing the testing platform to AI agents
+- [Cross Browser Testing](https://www.testmuai.com/cross-browser-testing/) - Run tests across browser and OS combinations in the cloud
+- [Real Device Cloud](https://www.testmuai.com/real-device-cloud/) - Test on real physical phones and tablets remotely
+- [Test Management](https://www.testmuai.com/test-management/) - Plan, organise, and track test cases and runs
+- [Mobile App Testing](https://www.testmuai.com/mobile-app-testing/) - Manual and automated testing for iOS and Android apps
+- [AI Testing](https://www.testmuai.com/ai-testing/) - AI-assisted test authoring, healing, and analysis
+- [HyperExecute](https://www.testmuai.com/hyperexecute/) - Parallel test orchestration for faster CI pipelines
+- [Performance Testing](https://www.testmuai.com/performance-testing/) - Load and performance testing for web applications
+- [LT Browser](https://www.testmuai.com/lt-browser/) - Desktop browser built for responsive development and debugging
+- [LT Debug](https://www.testmuai.com/lt-debug/) - Browser extension for debugging headers, cookies, and caching
+- [Local Page Testing](https://www.testmuai.com/local-page-testing/) - Test locally hosted or private pages on the cloud grid
+- [Automated Screenshots](https://www.testmuai.com/automated-screenshot/) - Bulk screenshots of a page across browsers and resolutions
+- [Geo-Location Testing](https://www.testmuai.com/geolocation-testing/) - Test how a site behaves from different countries
+- [Accessibility Testing](https://www.testmuai.com/accessibility-testing/) - Automated accessibility audits against WCAG rules
+- [Responsive Testing](https://www.testmuai.com/responsive-test-online/) - Preview a site across device widths side by side
+- [Localization Testing](https://www.testmuai.com/localization-testing/) - Verify translations and locale formatting in the browser
+- [Visual Testing Tool](https://www.testmuai.com/visual-testing-tool/) - Pixel-diff visual regression testing across builds
+- [Test Analytics](https://www.testmuai.com/test-analytics/) - Dashboards and flakiness analytics for test runs
+- [iPhone 17](https://www.testmuai.com/test-on-iphone-17/) - Test websites and apps on iPhone 17 remotely
+- [List of Browsers](https://www.testmuai.com/list-of-browsers/) - Reference list of browser versions available for testing
+- [List of Real Devices](https://www.testmuai.com/list-of-real-devices/) - Reference list of real devices available for testing
+- [Internet Explorer](https://www.testmuai.com/test-on-internet-explorer-browsers/) - Legacy Internet Explorer testing in the cloud
+- [Firefox](https://www.testmuai.com/test-on-firefox-browsers/) - Test on multiple Firefox versions online
+- [Chrome](https://www.testmuai.com/test-on-chrome-browsers/) - Test on multiple Chrome versions online
+- [Safari Browser Online](https://www.testmuai.com/test-on-safari-browsers/) - Test on Safari without owning a Mac
+- [Microsoft Edge](https://www.testmuai.com/test-on-edge-browsers/) - Test on multiple Microsoft Edge versions online
+- [Opera](https://www.testmuai.com/test-on-opera-browsers/) - Test on multiple Opera versions online
+- [Yandex](https://www.testmuai.com/test-on-yandex-browsers/) - Test on Yandex Browser online
+- [Mac OS](https://www.testmuai.com/test-on-macos-browsers/) - Test macOS browser versions from any machine
+- [Mobile Devices](https://www.testmuai.com/test-on-mobile-devices/) - Test on a broad matrix of mobile devices
+- [iOS Simulator](https://www.testmuai.com/ios-simulator-online/) - Run an iOS simulator in the browser
+- [Android Emulator](https://www.testmuai.com/android-emulator-online/) - Run an Android emulator in the browser
+- [Browser Emulator](https://www.testmuai.com/browser-emulator-online/) - Emulate browsers and devices without local setup
+- [Selenium Testing](https://www.testmuai.com/selenium-automation/) - Run Selenium suites against the cloud grid
+- [Selenium Grid](https://www.testmuai.com/selenium-grid-online/) - Hosted Selenium Grid with no infrastructure to manage
+- [Cypress Testing](https://www.testmuai.com/cypress-testing/) - Run Cypress specs in parallel on hosted browsers
+- [Playwright Testing](https://www.testmuai.com/playwright-testing/) - Run Playwright tests across hosted browsers
+- [Puppeteer Testing](https://www.testmuai.com/puppeteer-testing/) - Run Puppeteer scripts on hosted Chrome instances
+- [Taiko Testing](https://www.testmuai.com/taiko-automation/) - Run Taiko browser automation scripts in the cloud
+- [Appium Testing](https://www.testmuai.com/appium-mobile-testing/) - Appium mobile automation on real devices
+- [Espresso Testing](https://www.testmuai.com/espresso-automation-testing/) - Run Espresso Android instrumentation tests remotely
+- [XCUITest Testing](https://www.testmuai.com/xcuitest-app-testing/) - Run XCUITest iOS suites on hosted devices
+- [Blogs](https://www.testmuai.com/blog/) - Blog covering testing practice, tooling, and releases
+- [Community](https://community.testmuai.com/) - Community forum for testers and automation engineers
+- [Software Testing [Glossary]](https://www.testmuai.com/learning-hub/glossary/) - Glossary of software testing terminology
+- [Software Testing Questions](https://www.testmuai.com/software-testing-questions/) - Question bank covering common testing interview topics
+- [Free Online Tools](https://www.testmuai.com/free-online-tools/) - Index of the free developer and tester tool collection
+- [AI Testing Tools](https://www.testmuai.com/blog/ai-testing-tools/) - Blog covering testing practice, tooling, and releases
+- [TestMu AI](https://www.testmuai.com/) - Cloud testing platform behind the free tool collection (formerly LambdaTest)
+
+## Code Formatters, Validators & Minifiers
+
+- [JSON Prettify](https://www.testmuai.com/free-online-tools/json-prettify/) - Format and prettify JSON content
+- [JSON Minify](https://www.testmuai.com/free-online-tools/json-minify/) - Minify JSON Content
+- [HTML Prettify](https://www.testmuai.com/free-online-tools/html-prettify/) - HTML Prettify
+- [HTML Minify](https://www.testmuai.com/free-online-tools/html-minify/) - Minify HTML Data
+- [JS Minify](https://www.testmuai.com/free-online-tools/js-minify/) - Minify JS Data
+- [CSS Minify](https://www.testmuai.com/free-online-tools/css-minify/) - Help your site load faster by reducing the size of script files
+- [CSS Prettify](https://www.testmuai.com/free-online-tools/css-prettify/) - CSS Prettify
+- [XML Minify](https://www.testmuai.com/free-online-tools/xml-minify/) - Minify XML
+- [XML Prettify](https://www.testmuai.com/free-online-tools/xml-prettify/) - XML Prettify
+- [JS Obfuscator](https://www.testmuai.com/free-online-tools/js-obfuscator/) - JavaScript Obfuscator
+- [YAML Formatter & Beautifier](https://www.testmuai.com/free-online-tools/yaml-beautifier/) - YAML Formatter & Beautifier
+- [SQL Formatter & Beautifier](https://www.testmuai.com/free-online-tools/sql-beautifier/) - SQL Formatter & Beautifier
+- [SQL Minify](https://www.testmuai.com/free-online-tools/sql-minify/) - Minify SQL
+- [JS Beautifier](https://www.testmuai.com/free-online-tools/js-beautifier/) - Formatter & Beautifier JavaScript
+- [Lua Beautifier](https://www.testmuai.com/free-online-tools/lua-beautifier/) - Beautifier Lua code
+- [PHP Formatter](https://www.testmuai.com/free-online-tools/php-beautifier/) - Formatter & Beautifier PHP
+- [Python Formatter & Beautifier Online](https://www.testmuai.com/free-online-tools/python-beautifier/) - Formatter & Beautifier Python
+- [GraphQL Formatter](https://www.testmuai.com/free-online-tools/graphql-formatter/) - Graph Query Language Formatter helps to format unformatted or ugly GraphQL…
+- [XML Editor](https://www.testmuai.com/free-online-tools/xml-editor/) - Edit XML online with tree view or beautified output and validate syntax…
+- [XML Formatter](https://www.testmuai.com/free-online-tools/xml-formatter/) - XML Formatter Online helps to edit, view, analyze XML data along with…
+- [WSDL Formatter](https://www.testmuai.com/free-online-tools/wsdl-formatter/) - WSDL Formatter Online helps to prettier your WSDL XML notation
+- [SOAP Formatter](https://www.testmuai.com/free-online-tools/soap-formatter/) - SOAP Formatter Online helps to edit, view, analyze SOAP data along with…
+- [Typescript Formatter](https://www.testmuai.com/free-online-tools/typescript-formatter/) - Typescript Formatter Online helps to edit, view, analyze Typescript data…
+- [Markdown Formatter](https://www.testmuai.com/free-online-tools/markdown-formatter/) - Markdown Formatter Online helps to edit, view, analyze Markdown data along…
+- [JSON Validator](https://www.testmuai.com/free-online-tools/json-validator/) - Beautify and validate JSON data
+- [XPath Tester](https://www.testmuai.com/free-online-tools/xpath-tester/) - Test and evaluate XPath expressions
+- [JSONPath Tester](https://www.testmuai.com/free-online-tools/jsonpath-tester/) - Test and evaluate JSON Path expressions
+- [HTML Validator](https://www.testmuai.com/free-online-tools/html-validator/) - Validate HTML file
+- [XML Validator](https://www.testmuai.com/free-online-tools/xml-validator/) - Validate XML file
+- [YAML Validator](https://www.testmuai.com/free-online-tools/yaml-validator/) - Validate YAML file
+- [CSS Validator](https://www.testmuai.com/free-online-tools/css-validator/) - Validate CSS file
+- [CSV Validator](https://www.testmuai.com/free-online-tools/csv-validator/) - Validate CSV file
+- [JavaScript Validator & Linter](https://www.testmuai.com/free-online-tools/js-validator/) - Validate JS file
+- [HTML Tester](https://www.testmuai.com/free-online-tools/html-tester/) - Input or upload HTML, CSS, and JavaScript, then generate and preview the…
+- [JavaScript Tester](https://www.testmuai.com/free-online-tools/javascript-tester/) - Test JavaScript code
+- [HTML Viewer](https://www.testmuai.com/free-online-tools/html-viewer/) - Input or upload HTML, CSS, and JavaScript, then generate and preview the…
+- [HTML Formatter](https://www.testmuai.com/free-online-tools/html-formatter/) - A HTML Formatter is a tool that quickly transforms your minified or…
+- [Javascript Regex Tester](https://www.testmuai.com/free-online-tools/javascript-regex-tester/) - This free Javascript regular expression tester lets you test your regular…
+
+## Code Converters & Compilers
+
+- [Text to SQL](https://www.testmuai.com/free-online-tools/text-to-sql/) - Turn plain English into SQL queries or DDL from a short description
+- [Python to JavaScript](https://www.testmuai.com/free-online-tools/python-to-javascript/) - Translate Python code to equivalent JavaScript while preserving logic
+- [Kotlin to Java](https://www.testmuai.com/free-online-tools/kotlin-to-java/) - Translate Kotlin code to equivalent Java while preserving logic
+- [Assembly to C](https://www.testmuai.com/free-online-tools/assembly-to-c/) - Translate Assembly code to equivalent C while preserving logic
+- [JSX to HTML](https://www.testmuai.com/free-online-tools/jsx-to-html/) - Convert JSX snippets into HTML with a live preview
+- [HTML to JSX](https://www.testmuai.com/free-online-tools/html-to-jsx/) - Convert HTML snippets into JSX with a live preview
+- [Pug to HTML](https://www.testmuai.com/free-online-tools/pug-to-html/) - Convert Pug templates into HTML with optional JSON locals and a live preview
+- [PostgreSQL to MySQL](https://www.testmuai.com/free-online-tools/postgresql-to-mysql/) - Convert PostgreSQL database schema or queries to MySQL format
+- [cURL to PHP](https://www.testmuai.com/free-online-tools/curl-to-php/) - Instantly convert your cURL commands to PHP code online, with our…
+- [cURL to Python](https://www.testmuai.com/free-online-tools/curl-to-python/) - Convert curl commands to Python
+- [Json to Typescript](https://www.testmuai.com/free-online-tools/json-to-typescript/) - Generate TypeScript interfaces with runtime validation code from JSON
+- [Json to Swift](https://www.testmuai.com/free-online-tools/json-to-swift/) - JSON to Swift converter is a free online JSON to Swift data converter that…
+- [Json to Kotlin](https://www.testmuai.com/free-online-tools/json-to-kotlin/) - JSON to Kotlin converter is a free online JSON to Kotlin data converter…
+- [Json to POJO](https://www.testmuai.com/free-online-tools/json-to-pojo/) - JSON to POJO converter is a free online JSON to POJO data converter that…
+- [POJO to JSON](https://www.testmuai.com/free-online-tools/pojo-to-json/) - Convert Java POJO classes to readable JSON instantly
+- [XML to JAVA Object](https://www.testmuai.com/free-online-tools/xml-to-java-object/) - XML to Java object converter is a free online that allows you convert XML…
+- [Json to GO Struct](https://www.testmuai.com/free-online-tools/json-to-go-struct/) - JSON to GO Struct converter is a free online JSON to GO Struct data…
+- [JSON to DART](https://www.testmuai.com/free-online-tools/json-to-dart/) - Generate Dart models from JSON
+- [Swift Compiler](https://www.testmuai.com/free-online-tools/swift-compiler/) - Write, compile, and run Swift code online directly from your browser
+- [JSON to C#](https://www.testmuai.com/free-online-tools/json-to-csharp/) - Instantly convert JSON data into C# classes
+- [Online Java Compiler](https://www.testmuai.com/free-online-tools/online-java-compiler/) - Compile Java code
+- [CPP Compiler](https://www.testmuai.com/free-online-tools/cpp-compiler/) - Compile cpp code
+
+## Compare & Diff Tools
+
+- [SQL Compare](https://www.testmuai.com/free-online-tools/sql-compare/) - Compare two SQL queries and view line differences
+- [JSON Compare](https://www.testmuai.com/free-online-tools/json-compare/) - Compare two JSON Files
+- [Text Compare](https://www.testmuai.com/free-online-tools/text-compare/) - Compare two Text Files
+- [XML Compare](https://www.testmuai.com/free-online-tools/xml-compare/) - Compare two XML Files
+- [YAML Compare](https://www.testmuai.com/free-online-tools/yaml-compare/) - Compare two YAML Files
+- [JS Compare](https://www.testmuai.com/free-online-tools/js-compare/) - Compare two JS Files
+- [Difference Checker (String)](https://www.testmuai.com/free-online-tools/difference-checker/) - Compare two strings and highlight the differences
+- [CSV Compare](https://www.testmuai.com/free-online-tools/csv-compare/) - Compare two CSV Files
+- [Excel Compare](https://www.testmuai.com/free-online-tools/excel-compare/) - Find the difference between two excel files
+- [Code Compare](https://www.testmuai.com/free-online-tools/code-compare/) - Allows you to compare two sets of code and identify the differences…
+
+## Data Format Converters
+
+- [XML To JSON Converter](https://www.testmuai.com/free-online-tools/xml-to-json-converter/) - Convert XML file to JSON file
+- [JSON To XML Converter](https://www.testmuai.com/free-online-tools/json-to-xml-converter/) - Convert JSON file to XML file
+- [JSON To YAML Converter](https://www.testmuai.com/free-online-tools/json-to-yaml/) - Convert JSON file to YAML file
+- [JSON To Object Converter](https://www.testmuai.com/free-online-tools/json-to-object/) - Convert JSON file to Javascipt Object
+- [JS To JSON Converter](https://www.testmuai.com/free-online-tools/js-to-json/) - Convert JS file to JSON format
+- [Python To JSON Converter](https://www.testmuai.com/free-online-tools/python-to-json/) - Convert Python dicts, lists, and class instances to JSON
+- [Convert HTML to Markdown](https://www.testmuai.com/free-online-tools/html-to-markdown-converter/) - Convert HTML to Markdown
+- [Convert Markdown to HTML](https://www.testmuai.com/free-online-tools/markdown-to-html-converter/) - Convert Markdown to HTML
+- [Convert TXT to HTML](https://www.testmuai.com/free-online-tools/txt-to-html/) - Convert TXT to HTML
+- [Convert HTML to TXT](https://www.testmuai.com/free-online-tools/html-to-txt/) - Convert HTML to TXT
+- [Bulk URL Opener](https://www.testmuai.com/free-online-tools/bulk-url-opener/) - Open multipal URLs
+- [CSV to JSON Converter](https://www.testmuai.com/free-online-tools/csv-to-json/) - Convert CSV to JSON Online
+- [CSV to TSV Converter](https://www.testmuai.com/free-online-tools/csv-to-tsv/) - Convert CSV to TSV Online
+- [CSV to Excel Converter](https://www.testmuai.com/free-online-tools/csv-to-excel/) - Convert CSV to Excel Online
+- [TSV to Excel](https://www.testmuai.com/free-online-tools/tsv-to-excel/) - Convert TSV to Excel Online
+- [JSON to TSV Converter](https://www.testmuai.com/free-online-tools/json-to-tsv/) - Convert JSON to TSV Online
+- [XML to YAML Converter](https://www.testmuai.com/free-online-tools/xml-to-yaml/) - Convert XML to YAML Online
+- [XML to HTML Converter](https://www.testmuai.com/free-online-tools/xml-to-html/) - Convert XML to HTML Online
+- [YAML to XML Converter](https://www.testmuai.com/free-online-tools/yaml-to-xml/) - Convert YAML to XML Online
+- [TOML to YAML Converter](https://www.testmuai.com/free-online-tools/toml-to-yaml/) - Convert TOML configuration data to YAML format
+- [CSV to XML Converter](https://www.testmuai.com/free-online-tools/csv-to-xml/) - Convert CSV to XML Online
+- [HTML to BBCode Converter](https://www.testmuai.com/free-online-tools/html-to-bbcode/) - Convert HTML to BBCode Online
+- [HTML to XML Converter](https://www.testmuai.com/free-online-tools/html-to-xml/) - Convert HTML to XML Online
+- [HTML to PUG Converter](https://www.testmuai.com/free-online-tools/html-to-pug/) - Convert HTML to PUG Online
+- [YAML to JSON Converter](https://www.testmuai.com/free-online-tools/yaml-to-json/) - Convert YAML to JSON Online
+- [HTML to JSON Converter](https://www.testmuai.com/free-online-tools/html-to-json/) - Convert HTML to JSON Online
+- [HTML to CSV Converter](https://www.testmuai.com/free-online-tools/html-to-csv/) - Convert HTML to CSV Online
+- [JSON to HTML Converter](https://www.testmuai.com/free-online-tools/json-to-html/) - Convert JSON to HTML Online
+- [HTML to YAML Converter](https://www.testmuai.com/free-online-tools/html-to-yaml/) - Convert HTML to YAML Online
+- [CSV to HTML Converter](https://www.testmuai.com/free-online-tools/csv-to-html/) - Convert CSV to HTML Online
+- [XML to TSV Converter](https://www.testmuai.com/free-online-tools/xml-to-tsv/) - Convert XML to TSV Online
+- [XML to CSV Converter](https://www.testmuai.com/free-online-tools/xml-to-csv/) - Convert XML to CSV Online
+- [JSON to CSV Converter](https://www.testmuai.com/free-online-tools/json-to-csv/) - Convert JSON to CSV Online
+- [VCF to CSV Converter](https://www.testmuai.com/free-online-tools/vcf-to-csv/) - Convert VCF to CSV Online
+- [YAML to CSV Converter](https://www.testmuai.com/free-online-tools/yaml-to-csv/) - Convert YAML to CSV Online
+- [HTML to DOC Converter](https://www.testmuai.com/free-online-tools/html-to-doc/) - Convert HTML code or files to DOCX format
+- [SQL to HTML](https://www.testmuai.com/free-online-tools/sql-to-html/) - Convert SQL to HTML online
+- [SQL to YAML](https://www.testmuai.com/free-online-tools/sql-to-yaml/) - Convert SQL to YAML online
+- [SQL to XML](https://www.testmuai.com/free-online-tools/sql-to-xml/) - Convert SQL to XML online
+- [SQL to JSON](https://www.testmuai.com/free-online-tools/sql-to-json/) - Convert SQL to JSON online
+- [SQL to CSV](https://www.testmuai.com/free-online-tools/sql-to-csv/) - Convert SQL to CSV online
+- [String to JSON](https://www.testmuai.com/free-online-tools/string-to-json/) - Convert String to JSON online
+- [CSV to TXT](https://www.testmuai.com/free-online-tools/csv-to-txt/) - CSV to TXT is used to convert CSV file to Txt file
+- [TXT to CSV](https://www.testmuai.com/free-online-tools/txt-to-csv/) - TXT to CSV is used to convert Txt file to CSV file
+- [JSON to Text](https://www.testmuai.com/free-online-tools/json-to-text/) - Just load your JSON in the text area and it will automatically get…
+- [JSON to BSON](https://www.testmuai.com/free-online-tools/json-to-bson/) - A JSON to BSON tool converts JSON into BSON, a binary format for efficient…
+- [TSV to CSV Converter](https://www.testmuai.com/free-online-tools/tsv-to-csv/) - Convert TSV to CSV Online
+- [JSON Parser](https://www.testmuai.com/free-online-tools/json-parser/) - Online JSON Parser helps to parse, view, analyze JSON data in Tree View
+- [JSON Size Analyzer](https://www.testmuai.com/free-online-tools/json-size-analyzer/) - Analyze JSON size by property with bytes and percentage in a tree view
+- [XML to XSD Converter](https://www.testmuai.com/free-online-tools/xml-to-xsd/) - Convert XML to XSD Online
+- [XSD to XML Converter](https://www.testmuai.com/free-online-tools/xsd-to-xml/) - Convert XSD to XML Online
+- [JSON Viewer](https://www.testmuai.com/free-online-tools/json-viewer/) - Online JSON Viewer helps to parse, view, analyze JSON data in Tree View
+- [XML Viewer](https://www.testmuai.com/free-online-tools/xml-viewer/) - Online XML Viewer helps to parse, view, analyze XML data in Tree View
+- [Yaml Parser](https://www.testmuai.com/free-online-tools/yaml-parser/) - Parse Yaml data online and instantly
+- [Yaml Viewer](https://www.testmuai.com/free-online-tools/yaml-viewer/) - Parse Yaml data online and instantly
+- [JSON Flatten](https://www.testmuai.com/free-online-tools/json-flatten/) - Flatten or unflatten JSON objects with a custom delimiter and output format
+- [Text to JSON](https://www.testmuai.com/free-online-tools/text-to-json/) - Convert plain text into structured JSON instantly
+- [JSON to Excel](https://www.testmuai.com/free-online-tools/json-to-excel/) - Allows you to instantly convert JSON to Excel online with clean,…
+- [Excel to JSON Converter](https://www.testmuai.com/free-online-tools/excel-to-json) - Excel to JSON conversion changes Excel’s row-and-column data into a JSON…
+- [XML to Excel Converter](https://www.testmuai.com/free-online-tools/xml-to-excel/) - Convert XML data to Excel spreadsheets (.xlsx/.xls) with live preview,…
+- [Excel to XML Converter](https://www.testmuai.com/free-online-tools/excel-to-xml/) - Convert Excel spreadsheets (.xlsx/.xls/.csv) to well-formatted XML with…
+- [BBCode to HTML](https://www.testmuai.com/free-online-tools/bbcode-to-html/) - BBCode to HTML Converter Online helps to convert BBCode (Bulletin Board…
+- [BSON to JSON](https://www.testmuai.com/free-online-tools/bson-to-json/) - A BSON to JSON tool converts BSON, a binary format for efficient data…
+- [XML Parser](https://www.testmuai.com/free-online-tools/xml-parser/) - Online XML Parser helps to parse, view, analyze XML data in Tree View
+- [JSON to One Line](https://www.testmuai.com/free-online-tools/json-to-one-line/) - Convert formatted JSON to a single line of text instantly
+- [JSON to Table](https://www.testmuai.com/free-online-tools/json-to-table/) - Convert JSON into a sortable, filterable, editable table with a read-only…
+- [Blob Generator](https://www.testmuai.com/free-online-tools/blob-generator/) - Generate organic SVG blob shapes
+- [Visual JSON](https://www.testmuai.com/free-online-tools/visual-json/) - Visualize JSON as an interactive collapsible tree
+- [JSON to Blob](https://www.testmuai.com/free-online-tools/json-to-blob/) - Convert JSON to Blob
+- [HAR File Viewer](https://www.testmuai.com/free-online-tools/har-file-viewer/) - View, analyze, and inspect HTTP Archive (HAR) files side-by-side like a…
+
+## Number Base Converters
+
+- [BCD To Decimal](https://www.testmuai.com/free-online-tools/bcd-to-decimal/) - Convert from base BCD to Base 10 integer
+- [HEX To Decimal](https://www.testmuai.com/free-online-tools/hex-to-decimal/) - Convert your HEX to Decimal
+- [HEX To BCD](https://www.testmuai.com/free-online-tools/hex-to-bcd/) - Convert your HEX to BCD
+- [Decimal To BCD](https://www.testmuai.com/free-online-tools/decimal-to-bcd/) - Convert from base 10 integer to base BCD
+- [Decimal To Gray Code](https://www.testmuai.com/free-online-tools/decimal-to-gray-code/) - Convert Decimal values To Gray Code values
+- [Gray To Decimal](https://www.testmuai.com/free-online-tools/gray-to-decimal/) - Convert Gray values to Decimal values
+- [Binary to Decimal Converter](https://www.testmuai.com/free-online-tools/binary-to-decimal/) - Convert Binary to Decimal Converter Online
+- [Binary to Gray Code Converter](https://www.testmuai.com/free-online-tools/binary-to-gray/) - Convert Binary to Gray code Online
+- [Binary to Octal Converter](https://www.testmuai.com/free-online-tools/binary-to-octal/) - Convert Binary to Octal Online
+- [Octal to Decimal Converter](https://www.testmuai.com/free-online-tools/octal-to-decimal/) - Convert Octal to Decimal Online
+- [Decimal to Binary Converter](https://www.testmuai.com/free-online-tools/decimal-to-binary/) - Convert Decimal to Binary Online
+- [Decimal to Octal Converter](https://www.testmuai.com/free-online-tools/decimal-to-octal/) - Convert Decimal to Octal Online
+- [Decimal to Hexadecimal Converter](https://www.testmuai.com/free-online-tools/decimal-to-hex/) - Convert Decimal to Hexadecimal Online
+- [Hexadecimal to Binary Converter](https://www.testmuai.com/free-online-tools/hex-to-binary/) - Convert Hexadecimal to Binary Online
+- [Octal to Binary Converter](https://www.testmuai.com/free-online-tools/octal-to-binary/) - Convert Octal to Binary Online
+- [Binary to Text Converter](https://www.testmuai.com/free-online-tools/binary-to-text/) - Convert Binary to Text Online
+- [Binary to Hex Converter](https://www.testmuai.com/free-online-tools/binary-to-hex/) - Convert Binary to Hex Online
+- [ASCII to Binary Converter](https://www.testmuai.com/free-online-tools/ascii-to-binary/) - Convert ASCII to Binary Online
+- [ASCII to Hex Converter](https://www.testmuai.com/free-online-tools/ascii-to-hex/) - Convert ASCII to Binary Online
+- [ASCII to Text Converter](https://www.testmuai.com/free-online-tools/ascii-to-text/) - Convert ASCII to Text Online
+- [Text to ASCII Converter](https://www.testmuai.com/free-online-tools/text-to-ascii/) - Convert Text to ASCII Online
+- [Gray Code to Binary Converter](https://www.testmuai.com/free-online-tools/gray-to-binary/) - Convert Gray Code to Binary Online
+- [Text to Binary](https://www.testmuai.com/free-online-tools/text-to-binary/) - Convert Text to Binary online
+- [Octal to Hexadecimal](https://www.testmuai.com/free-online-tools/octal-to-hexadecimal/) - Convert Octal to Hexadecimal online
+- [IP to Hex](https://www.testmuai.com/free-online-tools/ip-to-hex/) - Converts Internet Protocol (IPv4) addresses to hexadecimal form
+- [Hex to IP](https://www.testmuai.com/free-online-tools/hex-to-ip/) - Converts hexadecimal form to Internet Protocol (IPv4) addresses
+- [Hex to ASCII](https://www.testmuai.com/free-online-tools/hex-to-ascii/) - Hex to ASCII converter is used to convert Hex numbers to ASCII character
+- [Decimal to ASCII](https://www.testmuai.com/free-online-tools/decimal-to-ascii/) - Decimal to ASCII converter is used to convert Decimal numbers to ASCII…
+- [ASCII to Decimal](https://www.testmuai.com/free-online-tools/ascii-to-decimal/) - ASCII to decimal converter is used to convert ASCII character to Decimal…
+- [Unicode to ASCII](https://www.testmuai.com/free-online-tools/unicode-to-ascii/) - Unicode to ASCII Converter is a tool that transforms Unicode-encoded text…
+- [ASCII to Unicode](https://www.testmuai.com/free-online-tools/ascii-to-unicode/) - A simple browser-based utility that converts ASCII to Unicode
+- [Octal to ASCII](https://www.testmuai.com/free-online-tools/octal-to-ascii/) - A simple browser-based utility that converts octal digits to ASCII symbols
+- [Hex to UTF-8](https://www.testmuai.com/free-online-tools/hex-to-utf8/) - World's simplest browser-based hexadecimal to UTF8 converter
+- [Base64 to Hex](https://www.testmuai.com/free-online-tools/base64-to-hex/) - The “Base64 to Hex” converter is a free tool which is able to convert…
+- [Hex to Base64](https://www.testmuai.com/free-online-tools/hex-to-base64/) - The “Hex to Base64” converter is a free tool which is able to convert…
+- [Octal to Text](https://www.testmuai.com/free-online-tools/octal-to-text/) - Octal to Text converter is used to convert octal numbers to text
+- [IP to Binary](https://www.testmuai.com/free-online-tools/ip-to-binary/) - The IP Address to Binary Converter is used to convert an IP address…
+- [Binary to IP](https://www.testmuai.com/free-online-tools/binary-to-ip/) - Converts the Binary code to IPv4 address
+- [Hex to Octal](https://www.testmuai.com/free-online-tools/hex-to-octal/) - The “Hex to Octal” converter is a free tool which is able to convert…
+- [Scientific Notation Converter](https://www.testmuai.com/free-online-tools/scientific-notation-converter/) - Convert a number to and from scientific notation
+- [EBCDIC to ASCII](https://www.testmuai.com/free-online-tools/ebcdic-to-ascii/) - This free tool converts EBCDIC code into ASCII characters quickly, making…
+- [Binary to String Converter](https://www.testmuai.com/free-online-tools/binary-to-string/) - Binary to String Converter is easy to use tool to convert Binary to String…
+- [Base64 to Binary Converter](https://www.testmuai.com/free-online-tools/base64-to-binary/) - Base64 to Binary Converter Online helps to convert Base64 to plain Binary…
+- [Hex to Text](https://www.testmuai.com/free-online-tools/hex-to-text/) - Hex to Text converter is used to convert Hex numbers to Text character
+- [Decimal to IP](https://www.testmuai.com/free-online-tools/decimal-to-ip/) - Converts decimal form to Internet Protocol (IPv4) addresses
+- [IP to Decimal](https://www.testmuai.com/free-online-tools/ip-to-decimal/) - Converts Internet Protocol (IPv4) addresses to Decimal form
+- [Decimal to Text](https://www.testmuai.com/free-online-tools/decimal-to-text/) - Decimal to Text converter is used to convert Decimal numbers to Text character
+- [UTF8 to Hex](https://www.testmuai.com/free-online-tools/utf8-to-hex/) - This free tool lets you convert UTF-8 values to hexadecimal text instantly
+- [Text to Decimal](https://www.testmuai.com/free-online-tools/text-to-decimal/) - Text to Decimal converter is used to convert Text character to Decimal
+- [IPv4 to IPv6](https://www.testmuai.com/free-online-tools/ipv4-to-ipv6/) - Convert IPv4 addresses to IPv6 formats
+- [IPv6 to IPv4](https://www.testmuai.com/free-online-tools/ipv6-to-ipv4/) - Convert IPv6 addresses to IPv4 format
+- [Decimal To Roman](https://www.testmuai.com/free-online-tools/decimal-to-roman/) - Convert decimal numerals to roman numerals
+
+## Encoders & Decoders
+
+- [SQL Escape](https://www.testmuai.com/free-online-tools/sql-escape/) - Escape strings and make SQL queries safe
+- [Unstringify JSON](https://www.testmuai.com/free-online-tools/unstringify-json/) - The Unstringify JSON Tool instantly converts escaped JSON strings into…
+- [IDN Encode](https://www.testmuai.com/free-online-tools/idn-encode/) - IDN Encode your URLs
+- [IDN Decode](https://www.testmuai.com/free-online-tools/idn-decode/) - IDN Decode your URLs
+- [UTF8 Decode](https://www.testmuai.com/free-online-tools/utf8-decode/) - For variable-length character UTF8 value decoding
+- [UTF8 Encode](https://www.testmuai.com/free-online-tools/utf8-encode/) - For variable-length character UTF8 value encoding
+- [URL Decode](https://www.testmuai.com/free-online-tools/url-decode/) - Decode your URLs
+- [URL Encode](https://www.testmuai.com/free-online-tools/url-encode/) - Encode your URLs
+- [Base64 Encode](https://www.testmuai.com/free-online-tools/base64-encode/) - Encode to Base64 format
+- [Base64 Decode](https://www.testmuai.com/free-online-tools/base64-decode/) - Decode Base64 Format
+- [JWT Decoder](https://www.testmuai.com/free-online-tools/jwt-decoder/) - Decode JWT
+- [Caesar Cipher Decoder](https://www.testmuai.com/free-online-tools/ceasar-cipher-decoder/) - Decode messages with simple caesar cipher
+- [XML Stringify](https://www.testmuai.com/free-online-tools/xml-stringify/) - XML Stringify
+- [JSON Stringify](https://www.testmuai.com/free-online-tools/json-stringify/) - JSON Stringify
+- [ROT-13 Encoder/Decoder](https://www.testmuai.com/free-online-tools/rot13/) - Decrypt and convert ROT13 to text
+- [Morse Code Translator](https://www.testmuai.com/free-online-tools/morse-code-translator/) - Translate text to morse code and vice versa
+- [Unicode Text Converter](https://www.testmuai.com/free-online-tools/unicode-text-converter/) - Simply type in the text in the panel on the left and see all the range of…
+- [UUID Decoder](https://www.testmuai.com/free-online-tools/uuid-decoder/) - A UUID decoder tool converts UUIDs (Universally Unique Identifiers) into…
+- [SAML Decoder](https://www.testmuai.com/free-online-tools/saml-decoder/) - A simple SAML message decoder & parser, handling encoding, compression,…
+- [Punycode Converter](https://www.testmuai.com/free-online-tools/punycode-converter/) - ConvPunycode Converter is used to convert Punycode to Unicode
+- [TLV Decoder](https://www.testmuai.com/free-online-tools/tlv-decoder/) - This application decodes EMV records encoded in tag-length-value (TLV) format
+- [JWT Generator](https://www.testmuai.com/free-online-tools/jwt-generator/) - Generate JSON web tokens
+- [HTML Escape](https://www.testmuai.com/free-online-tools/html-escape/) - Escape an HTML file
+- [Html Unescape](https://www.testmuai.com/free-online-tools/html-unescape/) - Unescape an HTML file
+- [JSON Escape](https://www.testmuai.com/free-online-tools/json-escape/) - Convert plain JSON content to escaped HTML
+- [JSON Unescape](https://www.testmuai.com/free-online-tools/json-unescape/) - Convert escaped HTML content to plain JSON content
+- [XML Escape](https://www.testmuai.com/free-online-tools/xml-escape/) - Escape an XML file
+- [JavaScript Escape](https://www.testmuai.com/free-online-tools/js-escape/) - Escape an JavaScript
+- [Image to Base64](https://www.testmuai.com/free-online-tools/image-to-base64/) - Image to Base64 converter converts Image to base64 data
+- [Base64 to Image](https://www.testmuai.com/free-online-tools/base64-to-image/) - Convert Base64 strings into previewable image output and code
+- [File to Base64](https://www.testmuai.com/free-online-tools/file-to-base64/) - Encode file to Base64 online and embed it into any text document such as…
+
+## Color & CSS Tools
+
+- [Border Radius Generator](https://www.testmuai.com/free-online-tools/border-radius-generator/) - Generate CSS border-radius with live preview and vendor prefixes
+- [Text Shadow CSS Generator](https://www.testmuai.com/free-online-tools/text-shadow-generator/) - Create beautiful CSS text-shadow effects with multiple layers, live…
+- [Webfont Generator](https://www.testmuai.com/free-online-tools/webfont-generator/) - Upload webfont files, generate @font-face CSS, preview the family…
+- [HEX to RGB](https://www.testmuai.com/free-online-tools/convert-hex-color-to-rgb/) - Convert HEX color values to RGB color values
+- [RGB to HEX](https://www.testmuai.com/free-online-tools/convert-rgb-color-to-hex/) - Convert RGB color values to HEX values
+- [CSS to LESS](https://www.testmuai.com/free-online-tools/css-to-less/) - Convert CSS to LESS online
+- [CSS to SASS](https://www.testmuai.com/free-online-tools/css-to-sass/) - Convert CSS to SASS online
+- [CSS to SCSS](https://www.testmuai.com/free-online-tools/css-to-scss/) - Convert CSS to SCSS online
+- [CSS to Tailwind](https://www.testmuai.com/free-online-tools/css-to-tailwind/) - Convert CSS to Tailwind online
+- [SCSS to CSS Converter](https://www.testmuai.com/free-online-tools/scss-to-css/) - Convert SCSS to CSS online
+- [CSS to Stylus Converter](https://www.testmuai.com/free-online-tools/css-to-stylus/) - Convert CSS to Stylus online
+- [Tailwind to CSS Converter](https://www.testmuai.com/free-online-tools/tailwind-to-css/) - Convert Tailwind to CSS online
+- [RGB to CMYK](https://www.testmuai.com/free-online-tools/rgb-to-cmyk/) - Convert RGB to CMYK online
+- [RGB to HSL](https://www.testmuai.com/free-online-tools/rgb-to-hsl/) - Convert RGB to HSL online
+- [HSL to RGB](https://www.testmuai.com/free-online-tools/hsl-to-rgb/) - Convert HSL to RGB online
+- [HEX to HSL](https://www.testmuai.com/free-online-tools/hex-to-hsl/) - Convert HEX to HSL online
+- [CMYK to RGB](https://www.testmuai.com/free-online-tools/cmyk-to-rgb/) - Convert CMYK to RGB online
+- [HEX To CMYK](https://www.testmuai.com/free-online-tools/hex-to-cmyk/) - Convert HEX to CMYK online
+- [CMYK To HEX](https://www.testmuai.com/free-online-tools/cmyk-to-hex/) - Convert CMYK to HEX online
+- [RGBA to HEX](https://www.testmuai.com/free-online-tools/rgba-to-hex/) - Convert RGBA color values to HEX format with alpha channel support
+- [HEX to RGBA](https://www.testmuai.com/free-online-tools/hex-to-rgba/) - Convert HEX color codes to RGBA values with alpha channel support
+- [HEX to Tailwind](https://www.testmuai.com/free-online-tools/hex-to-tailwind/) - Convert HEX color values to Tailwind class
+- [Tailwind to HEX](https://www.testmuai.com/free-online-tools/tailwind-to-hex/) - Convert Tailwind class values to HEX Codes
+- [SASS to CSS](https://www.testmuai.com/free-online-tools/sass-to-css/) - SASS to CSS Converter Online helps to convert plain SASS to CSS
+- [Drop Shadow Generator](https://www.testmuai.com/free-online-tools/drop-shadow-generator/) - Generate CSS box-shadow values with live preview controls
+- [HEX To Pantone](https://www.testmuai.com/free-online-tools/hex-to-pantone/) - This free tool allows developers and designers to convert HEX codes to…
+- [CMYK To Pantone](https://www.testmuai.com/free-online-tools/cmyk-to-pantone/) - This free tool allows developers and designers to convert CMYK codes to…
+- [Pantone To Hex](https://www.testmuai.com/free-online-tools/pantone-to-hex/) - Pantone to Hex converter is an online tool to convert your PANTONE PMS…
+- [Pantone To CMYK](https://www.testmuai.com/free-online-tools/pantone-to-cmyk/) - Pantone to CMYK converter is an online tool to convert your PANTONE PMS…
+- [LESS to CSS](https://www.testmuai.com/free-online-tools/less-to-css/) - LESS to CSS helps convert LESS style format to CSS style format
+- [Hue Changer](https://www.testmuai.com/free-online-tools/hue-changer/) - Change the hue of specific colors in your image
+- [Color Picker](https://www.testmuai.com/free-online-tools/color-picker/) - Create custom color palettes from any image using this tool for free
+- [Gradient Generator](https://www.testmuai.com/free-online-tools/gradient-generator/) - Generate gradient
+
+## Image & File Converters
+
+- [PHP to PDF Converter](https://www.testmuai.com/free-online-tools/php-to-pdf/) - Convert PHP source code to beautifully formatted PDF documents with line…
+- [Python to PDF Converter](https://www.testmuai.com/free-online-tools/py-to-pdf/) - Convert Python source code to beautifully formatted PDF documents with…
+- [RAR to PDF Converter](https://www.testmuai.com/free-online-tools/rar-to-pdf/) - Converts RAR archives containing multiple files into either separate…
+- [RAR to JPG](https://www.testmuai.com/free-online-tools/rar-to-jpg/) - Convert images from RAR archives to JPG files
+- [ZIP to JPG](https://www.testmuai.com/free-online-tools/zip-to-jpg/) - Convert images from ZIP archives to JPG files instantly
+- [C++ to PDF](https://www.testmuai.com/free-online-tools/cpp-to-pdf/) - Convert C++ code to a printable PDF with configurable font size, line…
+- [SQL to PDF](https://www.testmuai.com/free-online-tools/sql-to-pdf/) - Convert SQL code to a printable PDF with configurable font size, line…
+- [ZIP to PDF Converter](https://www.testmuai.com/free-online-tools/zip-to-pdf/) - Convert ZIP files into individual PDFs and download them together as a ZIP…
+- [SRT to VTT Converter](https://www.testmuai.com/free-online-tools/srt-to-vtt/) - For converting SRT files to VTT files
+- [SVG to React Native JSX](https://www.testmuai.com/free-online-tools/svg-to-react-native/) - Convert SVG to React Native JSX with live preview and output display
+- [SVG to Code](https://www.testmuai.com/free-online-tools/svg-to-code/) - Convert SVG files to HTML, React JSX, or React Native code with instant…
+- [PNG to HTML](https://www.testmuai.com/free-online-tools/png-to-html/) - Convert PNG images to standalone HTML files with embedded Base64 data
+- [Code to PDF](https://www.testmuai.com/free-online-tools/code-to-pdf/) - Convert source code into a syntax-highlighted PDF
+- [HTML to JADE Converter](https://www.testmuai.com/free-online-tools/html-to-jade/) - Convert HTML to JADE online
+- [Word to PDF](https://www.testmuai.com/free-online-tools/word-to-pdf/) - Convert Word documents (.docx) to PDF directly in your browser
+- [Excel to PDF](https://www.testmuai.com/free-online-tools/excel-to-pdf/) - Convert excel documents (.xls) to PDF directly in your browser
+- [PSD to PDF](https://www.testmuai.com/free-online-tools/psd-to-pdf/) - Convert Adobe Photoshop (PSD) files to PDF
+- [HTML to PDF](https://www.testmuai.com/free-online-tools/html-to-pdf/) - Convert HTML files to PDF
+- [MHTML to PDF](https://www.testmuai.com/free-online-tools/mhtml-to-pdf/) - Convert MHTML files to PDF
+- [HTML to PPT](https://www.testmuai.com/free-online-tools/html-to-ppt/) - Convert HTML into PowerPoint slides directly in your browser
+- [AZW3 to PDF](https://www.testmuai.com/free-online-tools/azw3-to-pdf/) - Convert AZW3 ebooks to PDF directly in your browser
+- [PDF to AZW3](https://www.testmuai.com/free-online-tools/pdf-to-azw3/) - Convert PDF files to AZW3 directly in your browser
+- [PDF to Excel](https://www.testmuai.com/free-online-tools/pdf-to-excel/) - Convert PDF files to Excel (XLS) format
+- [ODS to Excel](https://www.testmuai.com/free-online-tools/ods-to-excel/) - Convert ODS spreadsheets to Excel (XLS) format
+- [OXPS to PDF](https://www.testmuai.com/free-online-tools/oxps-to-pdf/) - Convert OXPS documents to PDF format
+- [JSON to PDF](https://www.testmuai.com/free-online-tools/json-to-pdf/) - Convert JSON to PDF with table view, formatted JSON, or plain text
+- [HEIC to PDF](https://www.testmuai.com/free-online-tools/heic-to-pdf/) - Convert HEIC to PDF online for free
+- [JPG to PDF](https://www.testmuai.com/free-online-tools/jpg-to-pdf/) - Convert JPG to PDF online for free
+- [PDF to JPG](https://www.testmuai.com/free-online-tools/pdf-to-jpg/) - Convert PDF pages to JPG images online, for free
+- [Image Inverter](https://www.testmuai.com/free-online-tools/image-inverter/) - Invert the colors of any image instantly
+- [Darken Image](https://www.testmuai.com/free-online-tools/darken-image/) - Darken an image with a simple percentage slider
+- [Blur Image](https://www.testmuai.com/free-online-tools/blur-image/) - Blur images online with adjustable blur type and intensity
+- [Grayscale Image](https://www.testmuai.com/free-online-tools/grayscale-image/) - Convert color images to grayscale online
+- [Rotate Image](https://www.testmuai.com/free-online-tools/rotate-image/) - Our Rotate Image tool lets you rotate pictures online in just one click
+- [Crop Image](https://www.testmuai.com/free-online-tools/crop-image/) - Crop images by defining width, height, and position coordinates
+- [Pixelate Image](https://www.testmuai.com/free-online-tools/pixelate-image/) - Our Pixelate Image tool lets you pixelate pictures online in just one click
+- [Posterize Image](https://www.testmuai.com/free-online-tools/posterize/) - Reduce the color levels and tones of your images to create flat areas of…
+- [SVG to AI Converter](https://www.testmuai.com/free-online-tools/svg-to-ai/) - Convert SVG files to Adobe Illustrator (AI) format online for free
+- [AI to SVG Converter](https://www.testmuai.com/free-online-tools/ai-to-svg/) - Convert Adobe Illustrator (AI) files to SVG format online for free
+- [Vertical to Horizontal Image Converter](https://www.testmuai.com/free-online-tools/vertical-to-horizontal-image-converter/) - Convert your vertical images to horizontal images instantly with our free…
+- [BMP to PNG](https://www.testmuai.com/free-online-tools/bmp-to-png/) - Convert BMP to PNG online, for free
+- [PSD to PNG](https://www.testmuai.com/free-online-tools/psd-to-png/) - Convert PSD to PNG online, for free
+- [GIF to JPG](https://www.testmuai.com/free-online-tools/gif-to-jpg/) - Convert GIF to JPG online, for free
+- [HEIC to JPG](https://www.testmuai.com/free-online-tools/heic-to-jpg/) - Convert HEIC to JPG online, for free
+- [HEIC to PNG](https://www.testmuai.com/free-online-tools/heic-to-png/) - Convert HEIC to PNG online, for free
+- [GIF to PNG](https://www.testmuai.com/free-online-tools/gif-to-png/) - Convert GIF to PNG online, for free
+- [GIF to APNG](https://www.testmuai.com/free-online-tools/gif-to-apng/) - Convert GIF to APNG online, for free with resizing features
+- [BMP to JPG](https://www.testmuai.com/free-online-tools/bmp-to-jpg/) - Convert BMP to JPG online, for free
+- [JPG to PNG](https://www.testmuai.com/free-online-tools/jpg-to-png/) - Convert JPG to PNG online, for free
+- [JPG to SVG](https://www.testmuai.com/free-online-tools/jpg-to-svg/) - Convert JPG to SVG online, for free
+- [JPG to HTML](https://www.testmuai.com/free-online-tools/jpg-to-html/) - Convert JPG or PNG images into an HTML file
+- [STL to SVG](https://www.testmuai.com/free-online-tools/stl-to-svg/) - Convert STL to SVG online, for free
+- [ZIP to PNG](https://www.testmuai.com/free-online-tools/zip-to-png/) - Convert images in ZIP to PNG online, for free
+- [MP4 to WebM](https://www.testmuai.com/free-online-tools/mp4-to-webm/) - Convert MP4 to WebM online, for free
+- [WebM to MP4](https://www.testmuai.com/free-online-tools/webm-to-mp4/) - Convert WebM to MP4 online, for free
+- [PNG to JPG](https://www.testmuai.com/free-online-tools/png-to-jpg/) - Convert PNG to JPG online, for free
+- [SVG to PNG](https://www.testmuai.com/free-online-tools/svg-to-png) - Convert SVG to PNG online, for free
+- [AVIF to PNG](https://www.testmuai.com/free-online-tools/avif-to-png/) - Convert AVIF to PNG online, for free
+- [TIFF to PNG](https://www.testmuai.com/free-online-tools/tiff-to-png) - Convert TIFF to PNG online, for free
+- [WEBP to JPG](https://www.testmuai.com/free-online-tools/webp-to-jpg) - Convert WEBP to JPG online, for free
+- [JPG to AVIF](https://www.testmuai.com/free-online-tools/jpg-to-avif) - Convert JPG to AVIF online, for free
+- [PNG to AVIF](https://www.testmuai.com/free-online-tools/png-to-avif/) - Convert PNG to AVIF online, for free
+- [PNG to SVG](https://www.testmuai.com/free-online-tools/png-to-svg/) - Convert PNG to SVG online, for free
+- [PNG to EPS](https://www.testmuai.com/free-online-tools/png-to-eps/) - Convert PNG to EPS online, for free
+- [EPS to PNG](https://www.testmuai.com/free-online-tools/eps-to-png/) - Convert EPS to PNG online, for free
+- [JSON to JPG](https://www.testmuai.com/free-online-tools/json-to-jpg/) - Convert JSON to JPG online, for free
+- [Image Size Finder](https://www.testmuai.com/free-online-tools/image-size-finder/) - Find size of an Image
+- [YouTube Thumbnail Downloader](https://www.testmuai.com/free-online-tools/youtube-thumbnail-downloader/) - Download high-quality thumbnails from any YouTube video instantly with…
+- [PDF to JSON](https://www.testmuai.com/free-online-tools/pdf-to-json/) - Convert PDF to JSON
+- [Rainbow Filter](https://www.testmuai.com/free-online-tools/rainbow-filter/) - Add rainbow filter effects to images
+- [Code to Image](https://www.testmuai.com/free-online-tools/code-to-image/) - Input or upload code, then generate and preview an image
+- [Website to JPG Converter](https://www.testmuai.com/free-online-tools/website-to-jpg/) - Convert any website URL to a full-page JPG screenshot online for free
+- [ASS to SRT Converter](https://www.testmuai.com/free-online-tools/ass-to-srt/) - Convert ASS subtitle files to SRT format
+- [Image Splitter](https://www.testmuai.com/free-online-tools/image-splitter/) - Split any image into multiple parts instantly for editing, printing,…
+
+## Image Stitching
+
+- [https://imagestitchtools.pages.dev/](https://imagestitchtools.pages.dev/) - Https://imagestitchtools.pages.dev/
+- [PhotoJoiner](https://www.photojoiner.com/features/photo-joiner) - Online photo joiner for merging images side by side or stacked
+- [Kapwing Image Merge](https://www.kapwing.com/tools/merge/image) - Merge multiple images into one in the browser
+- [Canva Combine Image](https://www.canva.com/features/combine-image/) - Combine images into a single composition with drag-and-drop editing
+- [Adobe Express Combine Image](https://www.adobe.com/express/feature/image/combine) - Combine photos into one image with free templates and layouts
+- [https://imagen-ai.com/tools/vertical-pano-stitcher/](https://imagen-ai.com/tools/vertical-pano-stitcher/) - Https://imagen-ai.com/tools/vertical-pano-stitcher/
+- [https://hugin.sourceforge.io/](https://hugin.sourceforge.io/) - Https://hugin.sourceforge.io/
+- [StitchTool](https://github.com/Aeonss/StitchTool) - Open-source tool for stitching webtoon and long-form image strips
+
+## Text Tools
+
+- [Text To HTML Entities Converter](https://www.testmuai.com/free-online-tools/text-to-html-entities-convertor/) - Convert text to HTML Entities
+- [Text To Link Converter](https://www.testmuai.com/free-online-tools/text-to-link-converter/) - Convert text to link
+- [HTML Entities To Text Converter](https://www.testmuai.com/free-online-tools/html-entities-to-text-converter/) - Convert HTML Entities to Text
+- [Phone Letters to Numbers](https://www.testmuai.com/free-online-tools/phone-letters-to-numbers/) - Convert telephone keypad letters to digits for vanity numbers and phonewords
+- [Phone Number Extractor](https://www.testmuai.com/free-online-tools/phone-number-extractor/) - Extract Phone Number online
+- [Reverse Text Generator](https://www.testmuai.com/free-online-tools/reverse-text-generator/) - Reverse text online
+- [Small Text Generator](https://www.testmuai.com/free-online-tools/small-text-generator/) - Generate small text
+- [Word Sorter](https://www.testmuai.com/free-online-tools/word-sorter/) - Sort words in a string
+- [Number Sorter](https://www.testmuai.com/free-online-tools/number-sorter/) - Sort space sperated number string
+- [Remove Spaces](https://www.testmuai.com/free-online-tools/remove-spaces/) - Remove extra spaces from text
+- [Text to One Line](https://www.testmuai.com/free-online-tools/text-to-one-line/) - Removes line breaks and converts multi-line text into a single line
+- [Column to Comma-Separated Values (CSV)](https://www.testmuai.com/free-online-tools/column-to-comma-separated/) - Our free comma separator tool automatically converts a column to a…
+- [Rows to Columns Converter](https://www.testmuai.com/free-online-tools/rows-to-columns-converter/) - World's simplest online text data rows to columns transformer for web…
+- [Tokenizer](https://www.testmuai.com/free-online-tools/tokenizer) - Estimate token counts for different model families
+- [Bionic Reading Converter](https://www.testmuai.com/free-online-tools/bionic-reading-converter/) - Improve your reading speed and focus by highlighting fixation points in text
+- [Find And Replace String](https://www.testmuai.com/free-online-tools/find-and-replace-string/) - Find and-replace strings in browser itself
+- [Word Shuffler](https://www.testmuai.com/free-online-tools/word-shuffler/) - Randomly shuffle words in a string
+- [Shuffle Letters](https://www.testmuai.com/free-online-tools/shuffle-letters/) - Randomly shuffle letters in a string
+- [Shuffle Text Lines](https://www.testmuai.com/free-online-tools/shuffle-text-lines/) - Randomly shuffle text lines
+- [Sorting List](https://www.testmuai.com/free-online-tools/sorting-list/) - Sort a list
+- [String Split By Delimiter](https://www.testmuai.com/free-online-tools/string-split-by-delimiter/) - Split a sting by a defined delimiter
+- [Text Lowercase](https://www.testmuai.com/free-online-tools/text-lowercase/) - Convert text string into lowercase values
+- [Case Converter](https://www.testmuai.com/free-online-tools/case-converter/) - Quickly changes text between uppercase, lowercase, title case, and more
+- [Linkedin Text Formatter](https://www.testmuai.com/free-online-tools/linkedin-text-formatter/) - Quickly changes text between uppercase, lowercase, title case, and more
+- [Text Uppercase](https://www.testmuai.com/free-online-tools/text-uppercase/) - Convert text string into uppercase values
+- [Text Repeater](https://www.testmuai.com/free-online-tools/text-repeater/) - Generate strings of text and repeat them up to 25 times
+- [Text Rotater](https://www.testmuai.com/free-online-tools/text-rotater/) - Rotate any string of characters to the left or right
+- [Character Count](https://www.testmuai.com/free-online-tools/character-count/) - Count numbers in a string
+- [Word Count](https://www.testmuai.com/free-online-tools/word-count/) - Count words in a string
+- [Line Counter](https://www.testmuai.com/free-online-tools/lines-count/) - Count number of lines in your Text
+- [Tally Counter](https://www.testmuai.com/free-online-tools/tally-counter/) - A tally counter is a simple tool used to keep track of numbers or counts
+- [Sentence Count](https://www.testmuai.com/free-online-tools/sentence-count/) - Count number of sentences in text
+- [Extract Text From HTML](https://www.testmuai.com/free-online-tools/extract-text-from-html/) - Extract tags and preserve text structure
+- [Extract Text from JSON](https://www.testmuai.com/free-online-tools/extract-text-from-json/) - Extract Text from JSON
+- [Extract Text from XML](https://www.testmuai.com/free-online-tools/extract-text-from-xml/) - Extract Text from XML
+- [Strip HTML](https://www.testmuai.com/free-online-tools/strip-html/) - Return a string with all null bytes
+- [Letter Sorting](https://www.testmuai.com/free-online-tools/letter-sorting/) - Sort letters within words or an entire text block alphabetically, in…
+- [Remove Diacritics](https://www.testmuai.com/free-online-tools/remove-diacritics/) - World's simplest browser-based utility for removing accents from text
+- [Remove Duplicates Online](https://www.testmuai.com/free-online-tools/remove-duplicates-online/) - Remove duplicate lines from text
+- [Add Prefix Or Suffix](https://www.testmuai.com/free-online-tools/add-prefix-or-add-suffix/) - Adds a prefix and suffix online easily to lines of text you have
+- [Extract Numbers From Text](https://www.testmuai.com/free-online-tools/extract-numbers-from-text/) - Want to extract the numeric part from a text online?
+- [Punctuation Remover](https://www.testmuai.com/free-online-tools/punctuation-remover/) - World's simplest online punctuation remover for web developers and programmers
+
+## Calculators & Unit Converters
+
+- [XOR Calculator](https://www.testmuai.com/free-online-tools/xor-calculator/) - Calculate the XOR
+- [REM to PX Converter](https://www.testmuai.com/free-online-tools/rem-to-px-converter/) - Convert CSS unit REM values to pixels(PX)
+- [PX to REM Converter](https://www.testmuai.com/free-online-tools/px-to-rem-converter/) - Convert pixels(PX) to the CSS unit REM
+- [Length Converter](https://www.testmuai.com/free-online-tools/length-converter/) - Convert length and distance units
+- [Words to Numbers](https://www.testmuai.com/free-online-tools/words-to-numbers/) - Words to numbers converter is used to convert the descriptive form of a…
+- [Numbers to Words](https://www.testmuai.com/free-online-tools/numbers-to-words/) - Convert numbers to word
+- [Fibonacci Calculator](https://www.testmuai.com/free-online-tools/fibonacci-calculator/) - Generate Fibonacci numbers for a range or calculate a single Fibonacci…
+- [Binary Calculator](https://www.testmuai.com/free-online-tools/binary-calculator/) - Calculate the Binary operation
+- [Percentage Calculator](https://www.testmuai.com/free-online-tools/percentage-calculator/) - Calculate percentages, percentage difference, and percentage change
+- [Grade Calculator](https://www.testmuai.com/free-online-tools/grade-calculator/) - Calculate weighted average grades and find the additional grade needed for…
+- [OPS Calculator](https://www.testmuai.com/free-online-tools/ops-calculator/) - Estimate monthly pension, family pension, and retirement gratuity under…
+- [Dice Probability Calculator](https://www.testmuai.com/free-online-tools/dice-probability-calculator/) - Calculate dice roll probabilities and odds for standard and custom dice
+- [Time Calculator](https://www.testmuai.com/free-online-tools/time-calculator/) - Add or subtract time durations and calculate dates by adding or…
+- [Bitwise Calculator](https://www.testmuai.com/free-online-tools/bitwise-calculator/) - Calculate the Bitwise operation
+- [Rounding Calculator](https://www.testmuai.com/free-online-tools/rounding-calculator/) - The Rounding Calculator round to nearest number
+- [Rotation Calculator](https://www.testmuai.com/free-online-tools/rotation-calculator/) - Calculate the new coordinates of a point that has rotated about the z-axis…
+- [Miles to KM](https://www.testmuai.com/free-online-tools/miles-to-km/) - Convert Miles to Kilometers
+- [KM to Miles](https://www.testmuai.com/free-online-tools/km-to-miles/) - Convert Kilometers to Miles
+- [Knots to MPH](https://www.testmuai.com/free-online-tools/knots-to-mph/) - Convert Knots to MPH
+- [Fraction to Decimal](https://www.testmuai.com/free-online-tools/fraction-to-decimal/) - Convert simple and mixed fractions to decimal values
+- [Fraction Calculator](https://www.testmuai.com/free-online-tools/fraction-calculator/) - A fraction calculator is a tool that helps you easily perform arithmetic…
+- [Decimal to Fraction](https://www.testmuai.com/free-online-tools/decimal-to-fraction/) - Convert decimal values to simplified fractions
+- [MB to GB](https://www.testmuai.com/free-online-tools/mb-to-gb/) - Convert Megabytes to Gigabytes
+- [GB to MB](https://www.testmuai.com/free-online-tools/gb-to-mb/) - Convert Gigabytes to Megabytes
+- [Bit Shift Calculator](https://www.testmuai.com/free-online-tools/bit-shift-calculator/) - Calculate the Bit Shift operation
+- [Hours to Days](https://www.testmuai.com/free-online-tools/hours-to-days/) - Converts hours to days in the fastest way
+- [Days to Hours](https://www.testmuai.com/free-online-tools/days-to-hours/) - Converts days to hours in the fastest way
+- [Hours to Seconds](https://www.testmuai.com/free-online-tools/hours-to-seconds/) - Converts hours to seconds in the fastest way
+- [Venmo Fee Calculator](https://www.testmuai.com/free-online-tools/venmo-fee-calculator/) - Our Venmo Instant Transfer Fee Calculator makes it easy to calculate venmo…
+- [Kilograms to Pounds (lbs)](https://www.testmuai.com/free-online-tools/kg-to-lbs/) - Instantly convert Kilograms to Pounds (lbs) with ease, providing fast,…
+- [Pounds to Kilograms](https://www.testmuai.com/free-online-tools/lbs-to-kg/) - Instantly convert pounds (lbs) to kilograms with ease, providing fast,…
+- [Fahrenheit to Celsius Converter](https://www.testmuai.com/free-online-tools/fahrenheit-to-celsius/) - Convert temperature, degrees Fahrenheit to degrees Celsius and show…
+- [Celsius to Fahrenheit Converter](https://www.testmuai.com/free-online-tools/celsius-to-fahrenheit/) - Convert temperature, degrees Celsius to degrees Fahrenheit and show…
+- [Degrees to Radians](https://www.testmuai.com/free-online-tools/degrees-to-radians/) - Convert Degrees to Radians
+- [Radians to Degrees](https://www.testmuai.com/free-online-tools/radians-to-degrees/) - Convert Radians to Degrees
+- [Data Size Calculator](https://www.testmuai.com/free-online-tools/data-size-calculator/) - Convert between different data units like Bytes, KB, MB, GB, and TB with…
+- [Prime Number Calculator](https://www.testmuai.com/free-online-tools/prime-number-calculator/) - This prime number calculator will find if a number is prime or composite
+- [Unix Time Converter](https://www.testmuai.com/free-online-tools/unix-time-converter/) - Free tool to convert Unix/Epoch timestamp to readable date and time format
+- [Seconds to Hours](https://www.testmuai.com/free-online-tools/seconds-to-hours/) - Converts seconds to hours in the fastest way
+- [Thousands Separator](https://www.testmuai.com/free-online-tools/thousands-separator/) - Instantly convert number to readable text, with thousands separator
+- [Standard Deviation Calculator](https://www.testmuai.com/free-online-tools/standard-deviation-calculator/) - Calculate sample and population standard deviation with variance, mean,…
+- [Aspect Ratio Calculator](https://www.testmuai.com/free-online-tools/aspect-ratio-calculator/) - Calculate, resize, compare, and simplify aspect ratios with presets and units
+- [Exponential Growth Calculator](https://www.testmuai.com/free-online-tools/exponential-growth-calculator/) - Calculate exponential growth or decay from initial value, rate, and…
+- [Playback Speed Calculator](https://www.testmuai.com/free-online-tools/playback-speed-calculator/) - Calculate the new duration of a video or podcast at any playback speed
+- [CM To Inches](https://www.testmuai.com/free-online-tools/cm-to-inches/) - Convert cm to inches
+- [CM To Feet](https://www.testmuai.com/free-online-tools/cm-to-feet/) - Convert cm to feet
+- [Feet to CM](https://www.testmuai.com/free-online-tools/feet-to-cm/) - Convert feet to cm
+- [Inches To CM](https://www.testmuai.com/free-online-tools/inches-to-cm/) - Convert inches to cm
+
+## Network & Web Diagnostics
+
+- [IP to Hostname](https://www.testmuai.com/free-online-tools/ip-to-hostname/) - Convert any IP address to hostname for that IP
+- [Hostname to IP](https://www.testmuai.com/free-online-tools/hostname-to-ip/) - Find all DNS records for a domain name using this online tool
+- [Domain to IP](https://www.testmuai.com/free-online-tools/domain-to-ip/) - Convert multiple domain names to their IP addresses using DNS lookup
+- [DMARC Checker](https://www.testmuai.com/free-online-tools/dmarc-checker/) - Validate a domain’s DMARC DNS record for correct syntax and policy to…
+- [Cron Parser](https://www.testmuai.com/free-online-tools/cron-parser/) - This free tool lets you instantly convert any cron expression to readable…
+- [Reverse IP Lookup](https://www.testmuai.com/free-online-tools/reverse-ip-lookup/) - Convert any IP address to hostname for that IP
+- [MAC Address Lookup](https://www.testmuai.com/free-online-tools/mac-address-lookup/) - A MAC address lookup tool identifies a device's manufacturer and related…
+- [Email Extractor](https://www.testmuai.com/free-online-tools/email-extractor/) - Extract email addresses from text, HTML source, or files
+- [Uptime / SLA Calculator](https://www.testmuai.com/free-online-tools/uptime-calculator/) - Calculate downtime from a given SLA percentage, or uptime SLA from…
+- [Email Checker](https://www.testmuai.com/free-online-tools/email-checker/) - Validate email deliverability and syntax
+- [Ping IPv6](https://www.testmuai.com/free-online-tools/ping-ipv6/) - Ping IPv6 addresses or hostnames
+- [Bandwidth Calculator](https://www.testmuai.com/free-online-tools/bandwidth-calculator/) - Estimate transfer time, convert data units, and plan internet speed and…
+- [cURL Builder](https://www.testmuai.com/free-online-tools/curl-builder/) - Build cURL commands visually with headers, body, and options
+- [Subnet Calculator](https://www.testmuai.com/free-online-tools/subnet-calculator/) - An easy-to-use tool for calculating subnet information for both IPv4 and…
+- [CIDR Calculator](https://www.testmuai.com/free-online-tools/cidr-calculator/) - Calculate IP ranges, subnet masks, and network details from CIDR notation
+- [View Page Source](https://www.testmuai.com/free-online-tools/view-page-source/) - Extract the source code of a web page
+- [Certificate Decoder](https://www.testmuai.com/free-online-tools/certificate-decoder/) - Decode certificates and inspect their contents
+- [SPF Checker](https://www.testmuai.com/free-online-tools/spf-checker/) - Check SPF record of a domain
+- [Canonical Tag Checker](https://www.testmuai.com/free-online-tools/canonical-tag-checker/) - Check Canonical Tag usage on a webpage
+- [URL Parse](https://www.testmuai.com/free-online-tools/url-parse/) - Parse your URLs
+- [CORS Tester](https://www.testmuai.com/free-online-tools/cors-tester/) - Test whether an API or URL allows Cross-Origin Resource Sharing (CORS)
+- [Credit Card Validator](https://www.testmuai.com/free-online-tools/credit-card-validator/) - Validate credit card numbers to ensure they are genuine and follow the…
+- [URL Extractor](https://www.testmuai.com/free-online-tools/url-extractor/) - Extract URLs from text
+- [CVSS Calculator](https://www.testmuai.com/free-online-tools/cvss-calculator/) - Shows the components of a CVSS assessment and allows you to refine the…
+- [WebRTC Test](https://www.testmuai.com/free-online-tools/webrtc-test/) - Test WebRTC browser support, IP leaks, STUN/TURN connectivity and codec…
+
+## Browser & System Info
+
+- [Phone Vibration Test](https://www.testmuai.com/free-online-tools/phone-vibration-test/) - Test your phone's vibration motor directly from your browser
+- [What is my User Agent](https://www.testmuai.com/free-online-tools/what-is-my-user-agent/) - The “My User Agent” page shows what your web browser sends in the…
+- [What version of Chrome do I have?](https://www.testmuai.com/free-online-tools/what-version-of-chrome-do-i-have/) - Tells the Chrome version you are using
+- [What Is My IP Address](https://www.testmuai.com/free-online-tools/what-is-my-ip-address/) - Shows the IP address of the user
+- [Am I using Tor?](https://www.testmuai.com/free-online-tools/am-i-using-tor/) - A JavaScript-based tool that checks if the user's IP matches known Tor…
+- [What is My Internet Speed](https://www.testmuai.com/free-online-tools/internet-speed-test/) - Tells you the upload and download speed
+- [What Operating System do I have](https://www.testmuai.com/free-online-tools/what-operating-system-do-i-have/) - Tells the OS name and version
+- [What version of Windows do I have?](https://www.testmuai.com/free-online-tools/what-version-of-windows-do-i-have/) - Tells the Windows version you are using
+- [What Is My ISP (Internet Service Provider)?](https://www.testmuai.com/free-online-tools/what-is-my-isp/) - Detect the user's ISP (Internet Service Provider)
+- [What version of Flash do I have?](https://www.testmuai.com/free-online-tools/what-version-of-flash-do-i-have/) - Checks if Flash is insalled for the browser or not and tells its version
+- [What version of Android do I have?](https://www.testmuai.com/free-online-tools/what-version-of-android-do-i-have/) - Tells the Android version you are using
+- [What version of Safari do I have?](https://www.testmuai.com/free-online-tools/what-version-of-safari-do-i-have/) - Tells the Safari version you are using
+- [What's My Browser Size?](https://www.testmuai.com/free-online-tools/whats-my-browser-size/) - Tells the browser window size in pixels
+- [What version of iOS do I have?](https://www.testmuai.com/free-online-tools/what-version-of-ios-do-i-have/) - Tells the iOS version you are using
+- [What version of Firefox do I have?](https://www.testmuai.com/free-online-tools/what-version-of-firefox-do-i-have/) - Tells the Firefox version you are using
+- [What version of macOS do I have?](https://www.testmuai.com/free-online-tools/what-version-of-macos-do-i-have/) - Tells the macOS version you are using
+- [What version of Java is installed?](https://www.testmuai.com/free-online-tools/what-version-of-java-is-installed/) - Checks if Java is installed for the browser or not and tells its version
+- [What Is My Local IP Address](https://www.testmuai.com/free-online-tools/what-is-my-local-ip-address/) - Shows the local IP address of the user
+- [What is my Browser](https://www.testmuai.com/free-online-tools/what-is-my-browser/) - This free tool helps to instantly check your browser version
+- [Is JavaScript Enabled?](https://www.testmuai.com/free-online-tools/is-javascript-enabled/) - Checks if JavaScript is enabled for the browser or not
+
+## Random & Test Data Generators
+
+- [AI Code Generator](https://www.testmuai.com/free-online-tools/ai-code-generator/) - Generate code in any popular language from a plain-English prompt
+- [AI Email Writer](https://www.testmuai.com/free-online-tools/ai-email-writer/) - Write emails with AI
+- [AI Theme Generator](https://www.testmuai.com/free-online-tools/theme-generator/) - Generate creative themes with AI
+- [Packgod Roast Generator](https://www.testmuai.com/free-online-tools/packgod-roast-generator/) - Turn a prompt into a fast, funny AI roast
+- [Gitignore Generator](https://www.testmuai.com/free-online-tools/gitignore-generator/) - Generate.gitignore files instantly for any tech stack
+- [README Generator](https://www.testmuai.com/free-online-tools/readme-generator/) - Generate professional README.md files for your projects using AI
+- [Crontab Generator](https://www.testmuai.com/free-online-tools/crontab-generator/) - Generate crontab with ease
+- [Random Location Generator](https://www.testmuai.com/free-online-tools/random-location-generator/) - Generate random places and cities worldwide, or filter by continent,…
+- [JSON Schema Generator](https://www.testmuai.com/free-online-tools/json-schema-generator/) - A JSON Schema Generator tool automatically creates a structured JSON…
+- [JSON Generator](https://www.testmuai.com/free-online-tools/json-generator/) - This free tool allows you generate JSON effortlessly, from random data
+- [Email Subject Line Generator](https://www.testmuai.com/free-online-tools/email-subject-line-generator/) - A tool that quickly generates catchy email subject lines based on your…
+- [OG Tag Generator](https://www.testmuai.com/free-online-tools/og-tag-generator/) - Generate Open Graph Meta tags quickly and easily to ensure your website…
+- [Loading GIF Generator](https://www.testmuai.com/free-online-tools/loading-gif-generator/) - A Loading GIF Generator is a tool that lets users create and customize…
+- [HTML Resume Builder](https://www.testmuai.com/free-online-tools/html-resume/) - Create and download professional HTML resumes instantly
+- [Fake Detail Generator](https://www.testmuai.com/free-online-tools/fake-detail-generator/) - Quickly generate realistic, randomly created fake identities and user details
+- [Random Country Generator](https://www.testmuai.com/free-online-tools/random-country-generator/) - Generate random countries with capital, population, area, currency,…
+- [Random JSON Generator](https://www.testmuai.com/free-online-tools/random-json-generator/) - Generate a random JSON file with any number of values
+- [Random XML Generator](https://www.testmuai.com/free-online-tools/random-xml-generator/) - Generate XML code based on XML template
+- [Random CSV Generator](https://www.testmuai.com/free-online-tools/random-csv-generator/) - Generate random IP addresses conveniently
+- [Random YAML Generator](https://www.testmuai.com/free-online-tools/random-yaml-generator/) - Generate random YAML
+- [Random Years generator](https://www.testmuai.com/free-online-tools/random-year-generator/) - Generate random years
+- [Placeholder Image Generator](https://www.testmuai.com/free-online-tools/placeholder-image-generator/) - Generate a placeholder image of desired dimensions
+- [Random Binary Generator](https://www.testmuai.com/free-online-tools/random-binary-generator/) - Generate random binary numbers or digits
+- [Random Character Generator](https://www.testmuai.com/free-online-tools/random-character-generator/) - Generate random characters
+- [Random Color Generator](https://www.testmuai.com/free-online-tools/random-color-generator/) - Generate random color
+- [Random Date Generator](https://www.testmuai.com/free-online-tools/random-date-generator/) - Generate random calendar dates
+- [Random Decimal Fraction Generator](https://www.testmuai.com/free-online-tools/random-decimal-fraction-generator/) - Generate random Decimal Fraction
+- [Random Decimal Generator](https://www.testmuai.com/free-online-tools/random-decimal-generator/) - Generate random Decimal value
+- [Random GUID Generator](https://www.testmuai.com/free-online-tools/random-guid-generator/) - Generate random GUID Value
+- [Aesthetic Generator](https://www.testmuai.com/free-online-tools/aesthetic-generator/) - Generate random two-word aesthetics
+- [Random Hex Generator](https://www.testmuai.com/free-online-tools/random-hex-generator/) - Generate random Hex values
+- [Random Octal Generator](https://www.testmuai.com/free-online-tools/random-octal-generator/) - Random Octal Generator
+- [Random IP Generator](https://www.testmuai.com/free-online-tools/random-ip-generator/) - Generate random IP values
+- [Random MAC Generator](https://www.testmuai.com/free-online-tools/random-mac-generator/) - Generate random MAC addresses
+- [Random Number Generator](https://www.testmuai.com/free-online-tools/random-number-generator/) - Generate random number values
+- [Random Paragraph Generator](https://www.testmuai.com/free-online-tools/random-paragraph-generator/) - Generate random text paragraphs
+- [Random Password Generator](https://www.testmuai.com/free-online-tools/random-password-generator/) - Generate random passwords
+- [Random Time Generator](https://www.testmuai.com/free-online-tools/random-time-generator/) - Generate random time values
+- [Random UUID Generator](https://www.testmuai.com/free-online-tools/random-uuid-generator/) - Generate random UUID values
+- [Random Sentence Generator](https://www.testmuai.com/free-online-tools/random-sentence-generator/) - Generate random text sentence
+- [Random String Generator](https://www.testmuai.com/free-online-tools/random-string-generator/) - Generate random string value
+- [Random Word Generator](https://www.testmuai.com/free-online-tools/random-word-generator/) - Generate random word strings
+- [Random Emoji Generator](https://www.testmuai.com/free-online-tools/random-emoji-generator/) - Generate random emoji
+- [Random Text from RegEx](https://www.testmuai.com/free-online-tools/random-data-from-regexp/) - Random Text from RegEX
+- [Test Data Generator](https://www.testmuai.com/free-online-tools/test-data-generator/) - Generate test Data
+- [Lorem Ipsum Generator](https://www.testmuai.com/free-online-tools/lorem-ipsum-generator/) - Generate random Lorem Ipsum text
+- [Credit Card Number Generator](https://www.testmuai.com/free-online-tools/credit-card-number-generator/) - Generate random and realistic credit card numbers
+- [QR Code Generator](https://www.testmuai.com/free-online-tools/qr-code-generator/) - Generate random QR codes
+- [Random Byte Generator](https://www.testmuai.com/free-online-tools/random-byte-generator/) - Generate a random byte output
+- [Random Username Generator](https://www.testmuai.com/free-online-tools/random-username-generator/) - Generate a random user name output
+- [Random Unicode Generator](https://www.testmuai.com/free-online-tools/random-unicode-generator/) - Generate a random unicode output
+- [Random Base64 Generator](https://www.testmuai.com/free-online-tools/random-base64-generator/) - Generate a random base64 output
+- [Random ISBN Generator](https://www.testmuai.com/free-online-tools/random-isbn-generator/) - Generate a random ISBN 10/13 Number
+- [Barcode Generator](https://www.testmuai.com/free-online-tools/barcode-generator/) - Generate Barcode
+- [Random name Generator](https://www.testmuai.com/free-online-tools/random-name-generator/) - Generate random names
+- [Girl Name Generator](https://www.testmuai.com/free-online-tools/girl-name-generator/) - Generate girl names with optional surnames and variants
+- [Boy Name Generator](https://www.testmuai.com/free-online-tools/boy-name-generator/) - Generate random boy names
+- [Last Name Generator](https://www.testmuai.com/free-online-tools/last-name-generator/) - Generate random last names
+- [Random State Generator](https://www.testmuai.com/free-online-tools/random-state-generator/) - Generate random state names
+- [Random Address Generator](https://www.testmuai.com/free-online-tools/random-address-generator/) - Generate random address
+- [Random TSV Generator](https://www.testmuai.com/free-online-tools/random-tsv-generator/) - Generate TSV
+- [Random Bitmap Generator](https://www.testmuai.com/free-online-tools/random-bitmap-generator/) - Random bitmap
+- [Random UTF8 Generator](https://www.testmuai.com/free-online-tools/random-utf8-generator/) - Random UTF8 Generator
+- [Test Case Generator](https://www.testmuai.com/free-online-tools/test-case-generator/) - Effortlessly Generate Test Cases
+- [HTML Code Generator](https://www.testmuai.com/free-online-tools/html-code-generator/) - HTML Code Generator Adapts To Your All Preferred Frameworks & CSS Libraries
+- [Routing Number Generator](https://www.testmuai.com/free-online-tools/routing-number-generator/) - Generate valid-format U.S
+- [IMEI Generator](https://www.testmuai.com/free-online-tools/imei-generator/) - S help generate the International Mobile Equipment Identity (IMEI) is a…
+- [Tweet Generator](https://www.testmuai.com/free-online-tools/tweet-generator/) - Generate tweet
+- [API Key Generator](https://www.testmuai.com/free-online-tools/api-key-generator/) - Create secure, random API tokens instantly with the API Key Generator
+- [Hyperlink Generator](https://www.testmuai.com/free-online-tools/hyperlink-generator/) - A Hyperlink Generator is a tool that creates HTML links, helping users…
+- [MySQL Password Generator](https://www.testmuai.com/free-online-tools/mysql-password-generator/) - Protect your MySQL database with a strong, secure password generated by…
+- [Phone Number Generator](https://www.testmuai.com/free-online-tools/phone-number-generator/) - Generate random phone numbers with proper formatting for testing and…
+- [Katalon Automation Capabilities Generator](https://www.testmuai.com/free-online-tools/katalon-automation-capabilities-generator/) - Accelerate your testing with our AI Katalon test case generator
+- [Zipcode Generator](https://www.testmuai.com/free-online-tools/zipcode-generator/) - The Random ZipCode tool helps to explore and know about zip codes of the US
+- [URL Slug Generator](https://www.testmuai.com/free-online-tools/url-slug-generator/) - A URL slug is a part that comes at the very end of a URL and is the exact…
+- [Email Generator](https://www.testmuai.com/free-online-tools/email-generator/) - The Email Generator instantly gives you unique email addresses with…
+- [MATLAB Code Generator](https://www.testmuai.com/free-online-tools/matlab-code-generator/) - An AI-powered tool that converts user prompts into accurate, ready-to-use…
+- [Word Combiner](https://www.testmuai.com/free-online-tools/word-combiner/) - A Word Combiner tool quickly generates all possible word combinations for…
+- [Token Generator](https://www.testmuai.com/free-online-tools/token-generator/) - Generate random string with the chars you want, uppercase or lowercase…
+- [Random Birthday Generator](https://www.testmuai.com/free-online-tools/random-birthday-generator/) - Generate random birthdays by age range or birth year
+- [Random NBA Player Generator](https://www.testmuai.com/free-online-tools/random-nba-player-generator/) - Generate random NBA players filtered by team and position
+- [Image to Text](https://www.testmuai.com/free-online-tools/image-to-text/) - Extract text from Image
+- [Bar Graph Maker](https://www.testmuai.com/free-online-tools/bar-graph-maker/) - Create and customize bar graphs online for free
+- [YouTube Tag Extractor](https://www.testmuai.com/free-online-tools/youtube-tag-extractor/) - Extract YouTube video tags, title, thumbnail, and channel details from a…
+- [R Code Generator](https://www.testmuai.com/free-online-tools/r-code-generator/) - Generate R code from plain-English prompts
+- [Random Flag Generator](https://www.testmuai.com/free-online-tools/random-flag-generator/) - Generate random country flags
+- [Random City Generator](https://www.testmuai.com/free-online-tools/random-city-generator/) - Generate random city
+- [Random Thing Generator](https://www.testmuai.com/free-online-tools/random-thing-generator/) - Generate random records from curated datasets
+- [Nationality Generator](https://www.testmuai.com/free-online-tools/nationality-generator/) - Generate random nationalities instantly online for free
+- [Splash Screen Generator](https://www.testmuai.com/free-online-tools/splash-screen-generator/) - Generate iOS and Android splash screens from a logo
+- [Random Letter Generator](https://www.testmuai.com/free-online-tools/random-letter-generator/) - The Random Letter Generator is a free online tool that allows you to…
+
+## Security & Hashing
+
+- [Bcrypt Generator](https://www.testmuai.com/free-online-tools/bcrypt-generator/) - Bcrypt Generator is a free online developer tool to securely generate a…
+- [AES Decryption Online](https://www.testmuai.com/free-online-tools/aes-decryption-online/) - Advanced Encryption Standard(AES) is a symmetric encryption algorithm
+- [DES Caluculator](https://www.testmuai.com/free-online-tools/des-calculator/) - Encrypt and decrypt text using DES (Data Encryption Standard) algorithm
+- [SWIFT Code Checker](https://www.testmuai.com/free-online-tools/swift-code-checker/) - Validate and analyze SWIFT/BIC codes
+- [Hash Calculator](https://www.testmuai.com/free-online-tools/hash-calculator/) - Create a hash of each input attribute
+- [HMAC Generator](https://www.testmuai.com/free-online-tools/hmac-generator/) - Generate HMAC signatures from message and secret key
+- [CSR Decoder](https://www.testmuai.com/free-online-tools/csr-decoder/) - Decode and inspect PEM-encoded Certificate Signing Requests
+- [CRC32 Hash Calculator](https://www.testmuai.com/free-online-tools/crc32-hash-calculator/) - Calculate CRC32 Hash
+- [CRC32B Hash Calculator](https://www.testmuai.com/free-online-tools/crc32b-hash-calculator/) - Calculate CRC32B Hash
+- [RIPEMD128 Hash Calculator](https://www.testmuai.com/free-online-tools/ripemd128-hash-calculator/) - Compute RIPEMD128 hash
+- [RIPEMD160 Hash Calculator](https://www.testmuai.com/free-online-tools/ripemd160-hash-calculator/) - Compute RIPEMD160 hash
+- [RIPEMD256 Hash Calculator](https://www.testmuai.com/free-online-tools/ripemd256-hash-calculator/) - Compute RIPEMD256 hash
+- [RIPEMD320 Hash Calculator](https://www.testmuai.com/free-online-tools/ripemd320-hash-calculator/) - Compute RIPEMD320 hash
+- [MD2 Hash Calculator](https://www.testmuai.com/free-online-tools/md2-hash-calculator/) - Computes MD2 hash of text and strings
+- [MD4 Hash Calculator](https://www.testmuai.com/free-online-tools/md4-hash-calculator/) - Computes MD4 hash of text and strings
+- [ADLER32 Hash Calculator](https://www.testmuai.com/free-online-tools/adler32-hash-calculator/) - Calculate ADLER32 Hash
+- [Gost Hash Calculator](https://www.testmuai.com/free-online-tools/gost-hash-calculator/) - Calculate and validate Gost Hash online
+- [Whirlpool Hash Calculator](https://www.testmuai.com/free-online-tools/whirlpool-hash-calculator/) - Compute Whirlpool hash
+- [MD5 Hash Calculator](https://www.testmuai.com/free-online-tools/md5-hash-calculator/) - Computes MD5 hash of text and strings
+- [MD5 Encrypt and Decrypt](https://www.testmuai.com/free-online-tools/md5-encrypt-decrypt/) - Generate and verify MD5 hashes
+- [MD5 Reverse Lookup](https://www.testmuai.com/free-online-tools/md5-reverse/) - Reverse lookup short MD5 hashes or generate MD5 hashes from text
+- [SHA1 Hash Calculator](https://www.testmuai.com/free-online-tools/sha1-hash-calculator/) - Compute SHA1 hash
+- [SHA256 Hash Calculator](https://www.testmuai.com/free-online-tools/sha256-hash-calculator/) - Compute SHA256 hash
+- [SHA384 Hash Calculator](https://www.testmuai.com/free-online-tools/sha384-hash-calculator/) - Compute SHA384 hash
+- [SHA512 Hash Calculator](https://www.testmuai.com/free-online-tools/sha512-hash-calculator/) - Compute SHA512 hash
+- [NTLM Hash Generator](https://www.testmuai.com/free-online-tools/ntlm-hash-generator/) - Compute NTLM Hash
+- [Shake 256 Hash Generator](https://www.testmuai.com/free-online-tools/shake256-hash-generator/) - Compute SHake 256 Hash
+- [All Hash Generator](https://www.testmuai.com/free-online-tools/all-hash-generator/) - World's simplest online hash calculator for web developers and programmers
+
 ## License
+
 This awesome list is licensed under the [CC0 1.0 Universal](LICENSE) license.
+
