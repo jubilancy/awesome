@@ -1,6 +1,6 @@
 # ✦ awesome-eliana ✦
 
-> a curated list of tools, resources, and rabbit holes — personal, opinionated, and actually useful.
+> a curated list of tools, resources, and rabbit holes — personal, opinionated, and actually useful!
 
 <!--ts-->
 <!--te-->
