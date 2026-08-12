@@ -1,23 +1,6 @@
-# ✦ awesome-eliana
+# ✦ awesome-eliana ✦
 
 > a curated list of tools, resources, and rabbit holes — personal, opinionated, and actually useful.
-
----
-
-## contents
-
-- [✦ awesome-eliana](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-awesome-eliana)
-    - [contents](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#contents)
-    - [🛠 tools & utilities](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-tools--utilities)
-    - [🐙 github-powered & self-hostable](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-github-powered--self-hostable)
-    - [🎨 design & typography](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-design--typography)
-    - [🎵 music & audio](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-music--audio)
-    - [🧠 knowledge management & note-taking](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-knowledge-management--note-taking)
-    - [🌐 indie web & personal sites](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-indie-web--personal-sites)
-    - [💻 web dev resources](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-web-dev-resources)
-    - [✨ creative coding & generative art](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-creative-coding--generative-art)
-    - [⬛ monospace & terminal aesthetic](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-monospace--terminal-aesthetic)
-    - [⚙ github actions recipes](https://claude.ai/chat/bf712e22-d25d-40c2-95bb-118205ddbfcd#-github-actions-recipes)
 
 ---
 
