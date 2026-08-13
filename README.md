@@ -2040,6 +2040,550 @@ _the look you clearly have taste for_
 - [Shake 256 Hash Generator](https://www.testmuai.com/free-online-tools/shake256-hash-generator/) - Compute SHake 256 Hash
 - [All Hash Generator](https://www.testmuai.com/free-online-tools/all-hash-generator/) - World's simplest online hash calculator for web developers and programmers
 
+# Awesome Tools
+> A curated list of self-hosted dashboards, book-tracking utilities, dithering and image-processing resources, design plugins, and developer tooling
+## Dashboards & Widgets
+- [Glance](https://github.com/glanceapp/) - Self-hosted dashboard that puts all your feeds in one place
+- [Community Widgets](https://github.com/glanceapp/community-widgets/blob/main/widgets/latest-community-widgets/README.md) - Feed of the newest community-built Glance widgets
+- [forgejo-repos](https://github.com/glanceapp/community-widgets/blob/main/widgets/forgejo-repos/README.md) - Show Forgejo repository activity on your dashboard
+- [cloudflared-tunnels](https://github.com/glanceapp/community-widgets/blob/main/widgets/cloudflared-tunnels/README.md) - Monitor the status of your Cloudflare tunnels
+- [github-actions-status](https://github.com/glanceapp/community-widgets/blob/main/widgets/github-actions-status/README.md) - Track GitHub Actions workflow runs at a glance
+- [github-notifications](https://github.com/glanceapp/community-widgets/blob/main/widgets/github-notifications/README.md) - Surface unread GitHub notifications
+- [github-personal-repos](https://github.com/glanceapp/community-widgets/blob/main/widgets/github-personal-repos/README.md) - List your own repositories and their activity
+- [trending-github-repositories](https://github.com/glanceapp/community-widgets/blob/main/widgets/trending-github-repositories/README.md) - Daily trending repos pulled into your dashboard
+- [grafana](https://github.com/glanceapp/community-widgets/blob/main/widgets/grafana/README.md) - Embed Grafana panels and alerts
+- [should-i-deploy-today](https://github.com/glanceapp/community-widgets/blob/main/widgets/should-i-deploy-today/README.md) - Novelty widget answering the eternal Friday question
+- [slack-status](https://github.com/glanceapp/community-widgets/blob/main/widgets/slack-status/README.md) - Display and update your current Slack status
+- [hardcover-currently-reading](https://github.com/glanceapp/community-widgets/blob/main/widgets/hardcover-currently-reading/README.md) - Show what you're reading from Hardcover
+- [linkwarden-latest-bookmarks](https://github.com/glanceapp/community-widgets/blob/main/widgets/linkwarden-latest-bookmarks/README.md) - Latest bookmarks saved to Linkwarden
+- [raindrop-latest-links](https://github.com/glanceapp/community-widgets/blob/main/widgets/raindrop-latest-links/README.md) - Latest links saved to Raindrop.io
+- [lastfm-recent-tracks](https://github.com/glanceapp/community-widgets/blob/main/widgets/lastfm-recent-tracks/README.md) - Recently scrobbled tracks from Last.fm
+- [spotify-player](https://github.com/glanceapp/community-widgets/blob/main/widgets/spotify-player/README.md) - Embedded Spotify player widget
+- [spotify-now-playing](https://github.com/glanceapp/community-widgets/blob/main/widgets/spotify-now-playing/README.md) - Show the track currently playing on Spotify
+- [trakt](https://github.com/glanceapp/community-widgets/blob/main/widgets/trakt/README.md) - Track watched shows and movies via Trakt
+- [steam-user](https://github.com/glanceapp/community-widgets/blob/main/widgets/steam-user/README.md) - Steam profile, playtime, and library stats
+- [youtube-embedded-player](https://github.com/glanceapp/community-widgets/blob/main/widgets/youtube-embedded-player/README.md) - Embed a YouTube player directly in the dashboard
+- [trending-mastodon-links](https://github.com/glanceapp/community-widgets/blob/main/widgets/trending-mastodon-links/README.md) - Links trending across the Mastodon fediverse
+- [time-bar](https://github.com/glanceapp/community-widgets/blob/main/widgets/time-bar/README.md) - Visual bar showing progress through the day or year
+- [xkcd-widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/xkcd-widget/README.md) - Latest xkcd comic on your dashboard
+- [Glance-iCal-Events](https://github.com/AWildLeon/Glance-iCal-Events) - iCal event list extension for Glance
+- [linktiles](https://github.com/haondt/linktiles/) - View linkding bookmarks as a configurable mosaic of tiles
+- [awesome-selfhosted](https://awesome-selfhosted.net/) - Directory of free, self-hostable software
+- [selfh.st Apps](https://selfh.st/apps/) - Browsable catalog of self-hosted apps by tag
+- [Maxun](https://www.maxun.dev/) - Open-source no-code web data extraction platform
+## Discord Customization
+- [BetterDiscord Themes](https://betterdiscord.app/themes) - Official theme index for BetterDiscord
+- [Discord Themes on GitHub](https://github.com/topics/discord-theme) - Community theme repositories by topic tag
+- [BD Editor](https://bdeditor.dev/) - Browser-based editor for BetterDiscord themes
+- [Discohook](https://discohook.app/) - Build and send rich Discord embeds via webhook
+- [Embed Creator](https://embed.dan.onl/) - Lightweight alternative embed generator
+- [Embed Generator](https://message.style/) - Design embeds with a visual editor and save them
+- [Overlayed](https://overlayed.dev/) - Alternative Discord voice overlay
+- [Overlayed (source)](https://github.com/overlayeddev/overlayed) - Source code for the Overlayed client
+- [Orbolay](https://github.com/SpikeHD/Orbolay) - Minimal open-source Discord overlay replacement
+- [Coloured Text Generator](https://rebane2001.com/discord-colored-text-generator/) - Produce ANSI-colored text for Discord messages
+- [Auto Creavite](https://auto.creavite.co/icons) - Generate animated server icons and banners
+- [Discord Avatar Maker](https://discord-avatar-maker.app/) - Create custom Discord profile avatars
+- [Better Default Discord](https://better-default-discord.netlify.app/) - Improved versions of the default avatars
+- [Pfps.gg](https://pfps.gg/) - Searchable library of profile pictures
+- [USRBG](https://github.com/Discord-Custom-Covers/usrbg) - Custom profile background database for client mods
+- [Emoji List](https://discords.com/emoji-list) - Large searchable index of custom Discord emojis
+- [emoji.gg](https://emoji.gg/) - Community emoji and sticker directory
+- [Discadia Emojis](https://discadia.com/emojis/) - Browse emojis by category and popularity
+- [Slackmoji](https://github.com/seanprashad/slackmoji) - Emoji pack usable in Slack and Discord
+- [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Bulk download emojis from a server
+- [ImageClipboard](https://imageclipboard.com/) - Use custom emojis without Nitro
+- [Discord Text to Emoji](https://jtprince.com/discord/) - Convert plain text into emoji lettering
+- [Stickers.gg](https://stickers.gg/) - Free sticker packs for Discord
+- [Snowsgiving Icons & Emotes](https://web.archive.org/web/20230729100139/https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Archived Snowsgiving event icon and emoji pack
+## Discord Rich Presence
+- [CustomRP](https://www.customrp.xyz/) - Set a fully customizable rich presence status
+- [CustomRP (source)](https://github.com/maximmax42/Discord-CustomRP) - Source code and releases for CustomRP
+- [geetRPCS](https://geetrpcs.vercel.app/) - Web-based custom rich presence configurator
+- [geetRPCS (source)](https://github.com/makcrtve/geetRPCS) - Source code for geetRPCS
+- [PreMiD](https://premid.app/) - Show web browsing activity in your Discord status
+- [PreMiD (source)](https://github.com/PreMiD/PreMiD) - Source code and presence store for PreMiD
+- [Music Presence](https://musicpresence.app/) - Rich presence for desktop audio players
+- [Music Presence (source)](https://github.com/ungive/discord-music-presence) - Source code for the Music Presence app
+- [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Display Jellyfin playback in Discord
+- [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Show which Adobe app you're working in
+- [PS3 Rich Presence](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - Broadcast PS3 game activity to Discord
+- [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - Rich presence for Visual Studio Code
+- [discord-vscode (source)](https://github.com/iCrawl/discord-vscode) - Source code for the VSCode presence extension
+## Note-Taking
+- [Obsidian Help](https://help.obsidian.md/Home) - Official documentation and guides for Obsidian
+- [Obsidian Forum](https://forum.obsidian.md/) - Community support, plugin talk, and feature requests
+- [Obsidian Web Clipper](https://github.com/obsidianmd/obsidian-clipper) - Official browser extension for saving pages to Obsidian
+- [Obsidian Digital Garden](https://dg-docs.ole.dev/) - Publish selected Obsidian notes to the web
+- [Obsidian Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) - Sync a vault through Google Drive
+- [AppFlowy](https://appflowy.com/) - Open-source Notion alternative for all platforms
+- [AppFlowy (source)](https://github.com/AppFlowy-IO) - Source repositories for AppFlowy
+- [Notesnook](https://notesnook.com/) - End-to-end encrypted note-taking across platforms
+- [Notesnook (source)](https://github.com/streetwriters/notesnook) - Source code for the Notesnook apps
+- [AFFiNE](https://affine.pro/) - Notes, whiteboard, and databases in one workspace
+- [AFFiNE (source)](https://github.com/toeverything/AFFiNE) - Source code for AFFiNE
+- [Notion](https://www.notion.com/) - Docs, wikis, and databases in a single workspace
+- [Notion Web Clipper](https://www.notion.com/web-clipper) - Save web pages straight into a Notion database
+- [Notion Everything](https://www.notioneverything.com/notion-world) - Directory of Notion templates and resources
+- [200 Notion Resources](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) - Large community-compiled resource list
+- [Notion Beginner to Advanced](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) - Free structured course for learning Notion
+- [Notion Convert](https://notionconvert.com/) - Extract Notion pages as clean Markdown
+- [Joplin](https://joplinapp.org/) - Open-source encrypted notes with sync and clipper
+- [Joplin (source)](https://github.com/laurent22/joplin) - Source code for Joplin
+- [Standard Notes](https://standardnotes.com/) - Long-term, end-to-end encrypted note storage
+- [Standard Notes (source)](https://github.com/standardnotes/app) - Source code for the Standard Notes app
+- [Flotes](https://flotes.app/) - Markdown note-taking in the browser
+- [Papers.IM](https://papers.im/) - Minimal web-based note-taking app
+- [MicroPad](https://getmicropad.com/) - Notepad app with a notebook-and-section structure
+- [Google Keep](https://keep.google.com/) - Simple synced notes and checklists
+- [Obsidian: Convert from Wikimedia](https://forum.obsidian.md/t/conversion-from-wikimedia/71932/3) - Thread on importing MediaWiki content into Obsidian
+## Book Tracking & Goodreads Alternatives
+- [Hardcover](https://hardcover.app/browse/tags/mood) - Modern book tracker with mood-based browsing
+- [Hardcover Imports](https://hardcover.app/account/imports) - Import your existing library into Hardcover
+- [Hardcover CSV Import Format](https://docs.google.com/spreadsheets/d/1mKPgGG2mzrOET6SGjRf22pG0WeMBskbY8EpciAljF_o/edit?gid=0#gid=0) - Reference sheet for the expected import columns
+- [Hardcover RSS/ActivityPub Request](https://roadmap.hardcover.app/feature-requests/posts/rss-activitypub-for-public-posts) - Open feature request for public feed support
+- [StoryGraph vs. Goodreads](https://astropad.com/blog/storygraph-vs-goodreads/) - Side-by-side comparison of the two platforms
+- [21 Goodreads Alternatives](https://www.goodgoodgood.co/articles/goodreads-alternatives) - Roundup focused on ethical book tracking
+- [7 Best Reading Tracker Apps](https://habitbox.app/blog/reading-tracker-app) - Comparison of apps for building a reading habit
+- [Self-Hosted Book Tracker](https://www.xda-developers.com/forget-goodreads-use-self-hosted-book-tracker/) - Walkthrough of replacing Goodreads with self-hosting
+- [Goodreads Bookshelf Viewer](https://screvi.com/tools/goodreads-rss-viewer) - Browse any public Goodreads shelf via its RSS feed
+- [The Need for a Better Goodreads Alternative](https://creativerly.com/there-is-still-the-need-for-a-better-goodreads-alternative/amp) - Essay on the gaps left by existing trackers
+- [I Tried Every Book Platform](https://www.youtube.com/watch?v=D9_4B-o_TRM) - Video comparison of current book-tracking services
+- [r/RSbookclub: A New Goodreads?](https://www.reddit.com/r/RSbookclub/comments/1t6t7cr/is_there_any_interest_in_a_new_version_of/) - Discussion of what a replacement should look like
+- [Web Tools for Great Reads (PDF)](https://www.midlibrary.org/portals/0/webtoolsforgreatreads.pdf) - Librarian-oriented handout of reader's advisory tools
+## Goodreads Data, APIs & Scraping
+- [Hardcover Book API](https://www.emgoto.com/hardcover-book-api/) - Guide to using Hardcover as a Goodreads API replacement
+- [Goodreads Read + Write Skill](https://skywork.ai/skillhub/goodreads-read-write/) - Agent skill for reading and updating Goodreads data
+- [Goodreads Book & Author Lookup](https://browse.sh/skills/goodreads.com/find-book-nycdz1) - Hosted skill for looking up books and authors
+- [goodreads-scraper](https://github.com/maria-antoniak/goodreads-scraper) - Python scraper for Goodreads books and reviews
+- [How to Scrape Goodreads in 2026](https://dev.to/agenthustler/how-to-scrape-goodreads-in-2026-books-reviews-author-profiles-and-ratings-15e) - Current techniques for books, reviews, and ratings
+- [Crawling Goodreads in Node.js](https://www.leohuynh.dev/blog/crawling-goodreads-books-data) - Building a Node crawler for book data
+- [Goodreads Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets/goodreads.html) - UCSD research datasets of books, reviews, and ratings
+- [r/SideProject: Goodreads API Alternatives](https://www.reddit.com/r/SideProject/comments/17o1yen/hi_any_good_alternatives_to_goodreads_api_they/) - Thread on options after developer keys were shut off
+- [r/webscraping Wiki](https://www.reddit.com/r/webscraping/wiki/index/) - Community rules and scraping resource index
+- [Open Library Search by Goodreads ID](https://openlibrary.org/search.json?q=id_goodreads:796267) - JSON endpoint mapping a Goodreads ID to book records
+- [Goodreads Work ID (Wikidata)](https://www.wikidata.org/wiki/Property:P8383) - Wikidata property linking works to Goodreads
+- [Librarian Manual: ISBN & ASIN](https://help.goodreads.com/s/article/Librarian-Manual-ISBN-10-ISBN-13-and-ASINS) - How Goodreads handles ISBN-10, ISBN-13, and ASINs
+- [Finding ISBNs on Goodreads](https://literature.stackexchange.com/questions/24015/finding-isbn-of-books-on-goodreads) - Stack Exchange answers on locating a book's ISBN
+- [goodreads (npm)](https://www.npmjs.com/package/goodreads) - Node client library for the Goodreads API
+- [Export Goodreads to Handy Library](https://www.primasoft.com/librarymanager/export-book-data-from-goodreads-and-import-it-into-handy-library-manager.htm) - Migrating exported book data into a desktop manager
+- [Extracting a Reading List with AI](https://daveschumaker.net/using-ai-extracting-reading-list-from-goodreads/) - Using an LLM to pull structured data from Goodreads
+## Goodreads on Your Own Site
+- [goodreads-tools](https://github.com/cruftbox/goodreads-tools) - Year in Books generator and StoryGraph rating sync
+- [Year in Books Tool](https://cruftbox.com/2026/05/11/year-in-books-goodreads-tool/) - Author's write-up of the Year in Books generator
+- [Goodreads Data in Astro](https://sadman.ca/blog/how-to-use-goodreads-data-in-astro/) - Pulling shelves into an Astro site
+- [r/astrojs: Astro Content Loader Guide](https://www.reddit.com/r/astrojs/comments/1ilh840/a_guide_on_how_to_use_goodreads_data_in_astro/) - Discussion of the Content Loader API approach
+- [Goodreads Data in Eleventy](https://www.raymondcamden.com/2023/06/08/using-goodreads-data-in-eleventy-update) - Updated approach for 11ty sites
+- [Self-Hosted Book Site with Eleventy](https://hidde.blog/how-i-turned-my-goodreads-data-into-a-self-hosted-website-with-eleventy/) - Turning a Goodreads export into a static site
+- [My Reading Dashboard](https://nheer.com/posts/2025/11/2025-11-29_reading-page-hardcover/) - Building a reading page powered by Hardcover
+- [nheer.io](https://github.com/niklas-heer/nheer.io) - Source for the site behind that reading dashboard
+- [ReadingProgress.astro](https://github.com/niklas-heer/nheer.io/blob/main/src/components/ReadingProgress.astro) - Astro component rendering reading progress
+- [nheer.com/reading](https://nheer.com/reading) - The finished reading page in production
+- [react-goodreads-shelf](https://www.npmjs.com/package/react-goodreads-shelf) - React component for embedding a Goodreads shelf
+- [react-goodreads-shelf Demo](https://kylekarpack.com/portfolio/react-goodreads-shelf) - Live example of the shelf component
+- [Custom RSS Feeds for Sites Without One](https://blog.nicolasjengler.com.ar/fun/2023/10/18/goodreads-custom-rss-feed.html) - Building a Goodreads feed from scratch
+- [Goodreads RSS to Google Sheets](https://www.andrewheiss.com/blog/2024/01/12/diy-api-plumber-quarto-ojs/_book/rss-googlesheets.html) - DIY API piping shelf data into a spreadsheet
+- [WordPress Social Media Plugins](https://instawp.com/wordpress-social-media-plugins/) - Roundup of plugins for embedding social feeds
+## Dithering
+- [Dithermark](https://www.dithermark.com/) - Browser-based image dithering and color reduction app
+- [Dithermark App](https://app.dithermark.com/) - Launch the editor directly
+- [Dithermark FAQ](https://www.dithermark.com/faq) - Usage questions and general project information
+- [Dithermark Resources](https://www.dithermark.com/resources) - Curated technical reading behind the project
+- [Dithermark (source)](https://github.com/allen-garvey/dithermark/) - Complete source code for Dithermark
+- [Eleven Algorithms and Source Code](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/) - The classic survey of image dithering algorithms
+- [Ditherpunk](https://surma.dev/things/ditherpunk/) - Deep dive into monochrome dithering, blue noise included
+- [DITHER.TXT](http://www.efg2.com/Lab/Library/ImageProcessing/DHALF.TXT) - One of the original references for image dithering
+- [ImageMagick Quantization and Dithering](http://www.imagemagick.org/Usage/quantize/) - Practical examples of reducing colors and dithering
+- [Libcaca Study](http://caca.zoy.org/study/index.html) - Thorough chapters on the science of colour ASCII art
+- [a dither](http://pippin.gimp.org/a_dither/) - The basis for arithmetic dithering methods
+- [FFmpeg Spatially Stable Dithers](https://lists.ffmpeg.org/pipermail/ffmpeg-cvslog/2014-March/075712.html) - Commit adding stable dithering, with rationale
+- [Riemersma Dither](https://www.compuphase.com/riemer.htm) - Error diffusion along a Hilbert curve
+- [Code Golf: Dither a Grayscale Image](https://codegolf.stackexchange.com/questions/26554/dither-a-grayscale-image/26572) - Unusual and creative dithering approaches
+- [Artistic Dithering with Textures](https://www.visgraf.impa.br/Courses/ip00/proj/Dithering1/) - Turning textures into dither matrices
+- [OpenCV: Image Thresholding](https://docs.opencv.org/3.4.0/d7/d4d/tutorial_py_thresholding.html) - Adaptive versus classical thresholding compared
+- [Dither Stabilization](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) - How Return of the Obra Dinn kept dithering stable
+- [Return of the Obra Dinn](http://dukope.com/) - The game whose 1-bit look drove that technique
+- [Free Blue Noise Textures](https://momentsingraphics.de/BlueNoise.html) - Blue noise explained, with downloadable textures
+## Ordered Dithering
+- [Ordered Dithering (Wikipedia)](https://en.wikipedia.org/wiki/Ordered_dithering) - Introduction with Bayer matrix examples and formulas
+- [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - Source of the hue-lightness dithering algorithm
+- [Yliluoma's Positional Dithering](https://bisqwit.iki.fi/story/howto/dither/jy/) - Arbitrary-palette ordered dithering with better fidelity
+- [BayerMatrix](https://github.com/tromero/BayerMatrix) - Python code for generating Bayer matrices
+- [Uncharted 4 Brain Dump](http://allenchou.net/2016/05/a-brain-dump-of-what-i-worked-on-for-uncharted-4/) - Dithering used to fake semi-transparent foliage
+- [UW-Madison Halftoning Lecture](http://research.cs.wisc.edu/graphics/Courses/559-f2004/lectures/cs559-5.ppt) - Basis for the clustered ordered dithering matrix
+- [Clustered-Dot Ordered Dither](http://weber.itn.liu.se/~sasgo26/Digital_Halftoning/Thanh.ppt) - Spiral matrix examples and digital halftoning
+## Color & Color Quantization
+- [Color Difference (Wikipedia)](https://en.wikipedia.org/wiki/Color_difference) - Overview of the ways colors can be compared
+- [Seven Grayscale Conversion Algorithms](http://www.tannerhelland.com/3643/grayscale-image-algorithm-vb6/) - Why black-and-white conversion isn't simple
+- [Color Cycling in Pixel Art](https://blog.prototypr.io/color-cycling-in-pixel-art-c8f20e61b4c4) - Introduction to color cycling with examples
+- [Old School Color Cycling with HTML5](http://www.effectgames.com/effect/article-Old_School_Color_Cycling_with_HTML5.html) - Mark J. Ferrari's cycling artwork in the browser
+- [Overview of Color Quantization Techniques](https://web.cs.wpi.edu/~matt/courses/cs563/talks/color_quant/CQindex.html) - Solid general introduction to the field
+- [UW-Madison Quantization Lecture](http://research.cs.wisc.edu/graphics/Courses/559-f2002/lectures/cs559-5.ppt) - Visual comparison of quantization algorithms
+- [Color Quantization Using K-Means](https://lmcaraig.com/color-quantization-using-k-means/) - K-means explained with Python sample code
+- [Improving K-Means for Color Quantization](https://arxiv.org/abs/1101.0395) - Paper on accuracy and performance improvements
+- [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - JavaScript implementation of the RGB Quant algorithm
+- [Octree Quantization (PDF)](https://pdfs.semanticscholar.org/deaf/dd9782adb4f9211bf9743d5cc1bdad3753d2.pdf) - The original octree quantization paper
+- [Octree-Based Self-Organizing Maps](https://www.hindawi.com/journals/cin/2016/5302957/) - Neural networks applied to octree quantization
+- [Octree Color Quantizer in Python](https://delimitry.blogspot.com/2016/02/octree-color-quantizer-in-python.html) - Readable implementation of octree palette building
+- [Leptonica Color Quantization](http://www.leptonica.com/color-quantization.html) - Variations on median cut and octree methods
+- [scolorq](https://people.eecs.berkeley.edu/~dcoetzee/downloads/scolorq/) - Spatial color quantization tuned for small palettes
+- [A Powerful Palette Quantizer in C#](https://www.codeproject.com/Articles/66341/A-Simple-Yet-Quite-Powerful-Palette-Quantizer-in-C) - Original algorithm plus comparisons with others
+- [High Quality GIF with FFmpeg (HN)](https://news.ycombinator.com/item?id=9213461) - Discussion full of quantization recommendations
+## Image Filters
+- [Non-linear Filters & Compression (PDF)](http://www.robots.ox.ac.uk/~az/lectures/ia/lect4.pdf) - Median versus bilateral filtering and denoising
+- [Smoothing Operations](http://www.mif.vu.lt/atpazinimas/dip/FIP/fip-Smoothin.html#Heading89) - Chart comparing filters and their time complexity
+- [OpenGL Kuwahara Filter](https://stackoverflow.com/questions/5830139/how-can-i-do-these-image-processing-tasks-using-opengl-es-2-0-shaders?noredirect=1&lq=1) - Shader source for the Kuwahara smoothing filter
+- [Post Processing: Pixelation](http://genericgamedev.com/effects/post-processing-pixelation/) - Creative uses of pixelation as an effect
+## Canvas & WebGL
+- [Optimizing Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Optimizing_canvas) - MDN guide to canvas performance
+- [WebGL Fundamentals](https://webglfundamentals.org/webgl/lessons/webgl-2d-drawimage.html) - Learning WebGL, including recreating drawImage
+- [GLSL Data Types and Variables](http://learnwebgl.brown37.net/12_shader_language/glsl_data_types.html) - Value ranges and precision pitfalls on mobile
+- [WebGL GLSL Built-in Functions](https://www.khronos.org/registry/OpenGL-Refpages/gl4/index.php) - Khronos reference pages for shader functions
+- [WebGL Stats](https://webglstats.com/) - Support and extension data across real devices
+- [Can I use…](https://caniuse.com/) - Browser support tables for web platform features
+- [Improving the GLSL rand() One-Liner](http://byteblacksmith.com/improvements-to-the-canonical-one-liner-glsl-rand-for-opengl-es-2-0/) - A more reliable random function for shaders
+- [WebGL Bitwise Functions](https://gist.github.com/EliCDavis/f35a9e4afb8e1c9ae94cce8f3c2c9b9a) - Bitwise operations for GLSL ES 2.0
+- [glfx.js](https://github.com/evanw/glfx.js) - WebGL image filter library with many effects
+- [Made by Evan](http://madebyevan.com/) - Collection of experimental WebGL projects
+## Pixel Art & Dithering Apps
+- [PixaTool](https://kronbits.itch.io/pixatool) - Turn images into pixel art game assets
+- [Pixelator](http://pixelatorapp.com/) - Desktop app for converting photos to pixel art
+- [Halftone Pro](https://halftonepro.com/app) - Web app for generating halftone patterns
+- [webgl-filter](http://evanw.github.io/webgl-filter/) - In-browser editor showcasing glfx.js filters
+## Figma Plugins
+- [Pinterest Plugin Search](https://www.figma.com/community/search?query=pinterest&resource_type=plugins) - Community search results this section was drawn from
+- [Pinterest Importer](https://www.figma.com/community/plugin/1414676079568412945/pinterest-importer) - Pull Pinterest pins directly into a Figma file
+- [Pinterest Importer (alt)](https://www.figma.com/community/plugin/1626195890583668065/pinterest-importer) - Alternative importer with its own layout options
+- [Pinner](https://www.figma.com/community/plugin/1486976746516404498/pinner-pinterest-importer) - Import boards and pins into the canvas
+- [SuperPin](https://www.figma.com/community/plugin/1652608689215355897/superpin-import-pinterest-boards) - Bulk import entire Pinterest boards
+- [PinGrabber](https://www.figma.com/community/plugin/1616875067715764764/pingrabber-for-figma-import-pinterest-boards-instantly) - Instant board import for moodboarding
+- [Pinboard](https://www.figma.com/community/plugin/1553106608061816240/pinboard-pinterest-downloader) - Download pins and drop them into Figma
+- [PinPasta](https://www.figma.com/community/plugin/1374467167583603153/pinpasta-create-moodboards-from-your-pins) - Build moodboards out of your saved pins
+- [Pinora](https://www.figma.com/community/plugin/1631524015982038346/pinora-create-moodboards-from-your-pinterest-pins) - Moodboard generator sourced from Pinterest
+- [Moodboard 3000](https://www.figma.com/community/plugin/1616902199522165388/moodboard-3000) - Assemble moodboards from mixed image sources
+- [Inspiration by Vasa Works](https://www.figma.com/community/plugin/1654365943838432267/inspiration-by-vasa-works) - Browse design inspiration inside Figma
+- [Reframe](https://www.figma.com/community/plugin/1640018286046091812/reframe-design-inspiration) - Reference imagery and layout inspiration
+- [Inspowire](https://www.figma.com/community/plugin/1575263272214525167/inspowire) - Inspiration feed plugin for the canvas
+- [Magical Graphics](https://www.figma.com/community/plugin/1134718403981449347/magical-graphics) - Generate decorative graphics and illustrations
+- [Social Media Images Size](https://www.figma.com/community/plugin/750116735703341112/social-media-images-size) - Frame presets for every social platform
+- [Social Resizer](https://www.figma.com/community/plugin/1639904164676097386/social-resizer) - Resize a design across social formats at once
+- [Social Size Creator](https://www.figma.com/community/plugin/1533721515051636312/social-size-creator-all-platform-image-sizes-for-figma) - All-platform image size generator
+- [Exacto](https://www.figma.com/community/plugin/1134091253154887126/exacto-social-media-frameworks) - Social media framework and template sets
+- [UH Retail Social Posts Resizer](https://www.figma.com/community/plugin/1615035701202949895/uh-retail-social-posts-resizer) - Retail-focused batch resizing for social posts
+- [HyperCrop](https://www.figma.com/community/plugin/818960915730257192/hypercrop-batch-image-resizer) - Batch image resizing and cropping
+- [Smart Crop AI](https://www.figma.com/community/plugin/1532248874243765476/smart-crop-ai) - Content-aware cropping powered by AI
+- [Focal Crop](https://www.figma.com/community/plugin/1628044855160968832/focal-crop) - Crop around a detected focal point
+- [Focal AI](https://www.figma.com/community/plugin/1651583678533726308/focal-ai) - AI-assisted focal point detection for images
+- [Split Image](https://www.figma.com/community/plugin/1629024319853210677/split-image) - Slice an image into a grid of frames
+- [ImageFlow Studio](https://www.figma.com/community/plugin/1654177931654513276/imageflow-studio) - Batch image processing workflows in Figma
+- [Thumblisher](https://www.figma.com/community/plugin/1037826586645134259/thumblisher) - Generate thumbnails from your frames
+- [Cover Frame](https://www.figma.com/community/plugin/1647507913533021830/cover-frame) - Create file cover art for Figma projects
+- [Masonry Grid Layout](https://www.figma.com/community/plugin/1595782934604266640/masonry-grid-layout) - Arrange images into a Pinterest-style masonry grid
+- [Laymage](https://www.figma.com/community/plugin/1623281861916243504/laymage-organize-elements) - Auto-organize elements on the canvas
+- [Smart Organizer Trax](https://www.figma.com/community/plugin/1554121061939735578/smart-organizer-trax) - Tidy and group layers automatically
+- [Frames to Auto Layout](https://www.figma.com/community/plugin/1494897659658233185/frames-to-auto-layout) - Convert static frames into auto layout
+- [Adaptative Ratios](https://www.figma.com/community/plugin/1638068768704856507/adaptativeratiosbyaleugeeennie) - Apply adaptive aspect ratios to frames
+- [BGWizard](https://www.figma.com/community/plugin/1395784607055265027/bgwizard-elevate-your-designs-with-colorful-backgrounds) - Generate colorful backgrounds for designs
+- [Pigment Pilot](https://www.figma.com/community/plugin/1488679113723155321/pigment-pilot) - Palette exploration and color assistance
+- [Circular Text](https://www.figma.com/community/plugin/1567873825359624301/circular-text) - Set type along a circular path
+- [UIcon](https://www.figma.com/community/plugin/1210657620919675496/uicon-v1-1) - Icon library and insertion plugin
+- [Glo Res Hub](https://www.figma.com/community/plugin/1616376907787229607/glo-res-hub-ultimate-resolution-library) - Resolution and device size reference library
+- [Design System AI](https://www.figma.com/community/plugin/1518864076543910996/design-system-ai) - Generate and audit design system tokens
+- [Replicape AI Design Studio](https://www.figma.com/community/plugin/1612288336348874542/replicape-ai-design-studio-generate-images-social-content-240-templates) - AI image and social content templates
+- [Ad Copy Iterator](https://www.figma.com/community/plugin/1611848728843036594/ad-copy-iterator) - Generate and swap ad copy variations
+- [Neurons AI](https://www.figma.com/community/plugin/1158782771898008510/neurons-ai) - Predict visual attention on a design
+- [Click Depth](https://www.figma.com/community/plugin/1396537528642649465/click-depth) - Measure how deep screens sit in a flow
+- [Follow the Path](https://www.figma.com/community/plugin/1486069202909351758/follow-the-path) - Trace and visualize user paths through prototypes
+- [Flow](https://www.figma.com/community/plugin/1601971802628422745/flow) - Build and document user flows
+- [Flow Frame](https://www.figma.com/community/plugin/1636080651461286250/flow-frame) - Frame-based flow diagramming
+- [Figma Network](https://www.figma.com/community/plugin/1442060499926309393/figma-network) - Visualize relationships between frames
+- [Export Prototype to GIF/Video](https://www.figma.com/community/plugin/1401122004632179064/export-prototype-to-gif-video) - Record prototypes as shareable clips
+- [TomTom Maps Generator](https://www.figma.com/community/plugin/1316378980458531468/tomtom-maps-generator) - Insert real map tiles into designs
+- [Meta Tags Orbit](https://www.figma.com/community/plugin/1591565795247530775/meta-tags-orbit) - Preview how pages appear as link cards
+- [SimCube](https://www.figma.com/community/plugin/1565454360180768277/simcube) - 3D mockup and perspective simulation
+- [MarketProvider PIM](https://www.figma.com/community/plugin/1270149005340464491/marketprovider-pim) - Pull product information into designs
+- [WN Helper](https://www.figma.com/community/plugin/1148585045876852078/wn-helper-v1-0-release-version) - Workflow helper utilities for Figma
+## GitHub Actions & Marketplace
+- [GitHub Marketplace](https://github.com/marketplace/new) - Publish and browse apps and actions
+- [GitHub Models](https://github.com/marketplace/models) - Try hosted AI models directly from GitHub
+- [DeepSeek-V3-0324](https://github.com/marketplace/models/azureml-deepseek/DeepSeek-V3-0324) - DeepSeek model listing in GitHub Models
+- [Phi-4-reasoning](https://github.com/marketplace/models/azureml/Phi-4-reasoning) - Microsoft's reasoning-tuned Phi-4 model
+- [Marketplace: Docker](https://github.com/marketplace?query=docker) - Docker-related actions and apps
+- [Marketplace: Scraping](https://github.com/marketplace?query=scrape) - Scraping-related actions and apps
+- [Layer CI](https://github.com/marketplace/layer-ci) - Ephemeral full-stack environments per pull request
+- [Honeybadger](https://github.com/marketplace/honeybadger-io) - Error and uptime monitoring integration
+- [Archethic Web](https://github.com/marketplace/actions/archethic-web) - Deploy web content to the Archethic network
+- [Web Minifier](https://github.com/marketplace/actions/web-minifier) - Minify HTML, CSS, and JS in CI
+- [Web Request](https://github.com/marketplace/actions/web-request) - Make arbitrary HTTP requests from a workflow
+- [Webhook Actions](https://github.com/marketplace/webhook-actions) - Trigger and receive webhooks in workflows
+- [Azure Web App Deploy](https://github.com/marketplace/actions/azure-webapp) - Deploy to Azure App Service
+- [Azure Static Web Apps Deploy](https://github.com/marketplace/actions/azure-static-web-apps-deploy) - Publish static sites to Azure
+- [Web Deploy Action](https://github.com/marketplace/actions/web-deploy-action) - Deploy build output over FTP or SFTP
+- [Simply Web Restart](https://github.com/marketplace/actions/simply-web-restart) - Restart a hosted web service from CI
+- [Transform Web.config](https://github.com/marketplace/actions/transform-web-config) - Apply config transforms during deployment
+- [Setup gRPC-Web](https://github.com/marketplace/actions/setup-grpc-web) - Install the gRPC-Web toolchain in a runner
+- [SecureStack Web Vulnerability Analysis](https://github.com/marketplace/actions/securestack-web-vulnerability-analysis) - Scan web apps for vulnerabilities
+- [Test Web Accessibility](https://github.com/marketplace/actions/test-web-accessibility) - Run automated accessibility checks
+- [Image Actions](https://github.com/marketplace/actions/image-actions) - Losslessly compress images on pull requests
+- [Try in Web IDE](https://github.com/marketplace/actions/try-in-web-ide) - Add a one-click web IDE link to PRs
+- [DashGen Web App](https://github.com/marketplace/dashgen-web-app) - Generate dashboards from repository data
+- [Vue Play Studio](https://github.com/marketplace/vue-play-studio) - Interactive playground for Vue components
+- [Notion Clipper Archiver](https://github.com/marketplace/actions/notion-clipper-archiver) - Archive clipped pages into Notion
+- [Wayback Archiver Distributor](https://github.com/marketplace/actions/wayback-archiver-distributor) - Submit URLs to the Wayback Machine in bulk
+- [Jekyll Blog Archive](https://github.com/marketplace/actions/jekyll-blog-archive) - Generate archive pages for Jekyll blogs
+- [Obsidian Site](https://github.com/marketplace/actions/obsidian-site) - Publish an Obsidian vault as a website
+- [Py Obsidian Parser](https://github.com/marketplace/actions/py-obsidian-parser) - Parse Obsidian Markdown from Python in CI
+- [Code Clips](https://github.com/marketplace/code-clips) - Save and reuse snippets across repositories
+- [Code Expander](https://github.com/marketplace/code-expander) - Expand snippet shortcuts while writing code
+- [Snippie for macOS](https://github.com/marketplace/snippie-for-macos) - Snippet manager that syncs with GitHub
+- [Deploy Cloudflare Snippets](https://github.com/marketplace/actions/deploy-cloudflare-snippets) - Ship Cloudflare Snippets from a workflow
+- [Snippet Permalink Updater](https://github.com/marketplace/actions/snippet-permalink-updater) - Keep embedded code permalinks current
+- [ScrapingAnt Web Scrape](https://github.com/marketplace/actions/scrapingant-web-scrape) - Run hosted scraping jobs from CI
+- [DocSearch Scraper](https://github.com/marketplace/actions/docsearch-scraper) - Index documentation sites for search
+- [DocSearch Scraper Action](https://github.com/marketplace/actions/docsearch-scraper-action) - Alternative DocSearch crawling action
+- [Typesense DocSearch Scraper](https://github.com/marketplace/actions/run-typesense-docsearch-scraper) - Build a Typesense index from docs
+- [Release Notes Scraper](https://github.com/marketplace/actions/release-notes-scraper) - Collect release notes from upstream projects
+- [Browserless Action Runner](https://github.com/marketplace/actions/browserless-action-runner) - Run headless browser tasks in workflows
+- [Load Dependents Count](https://github.com/marketplace/actions/load-dependents-count) - Fetch how many repos depend on yours
+- [Most Followed Followers](https://github.com/marketplace/actions/most-followed-followers-action) - Surface your most-followed GitHub followers
+- [Fetch Credly Badges](https://github.com/marketplace/actions/fetch-credly-badges) - Pull earned Credly badges into a profile
+- [Fetch Microsoft Learn Badges](https://github.com/marketplace/actions/fetch-microsoft-learn-badges) - Sync Microsoft Learn achievements
+- [Ingest Resources to Credential Registry](https://github.com/marketplace/actions/ingest-resources-to-the-credential-registry) - Publish credential data automatically
+- [Telegram Sender Extension](https://github.com/marketplace/telegram-sender-extension) - Send workflow notifications to Telegram
+- [GoCreative AI Agent API](https://github.com/marketplace/actions/gocreative-ai-agent-api) - Call an AI agent API from a workflow
+- [Current GitHub](https://github.com/marketplace/current-github) - Track current repository activity
+- [SliteTeam](https://github.com/marketplace/sliteteam) - Connect Slite documentation to GitHub
+- [GitHub (Wikipedia)](https://en.wikipedia.org/wiki/GitHub) - Background on the platform, its archive program, and controversies
+## Sitemaps & Site Data
+- [llms.txt Generator](https://llm-txt-one.vercel.app/) - Create an llms.txt AI sitemap for any website
+- [Octopus.do Sitemap Generator](https://octopus.do/sitemap/generator) - Build a visual sitemap from a URL or XML file
+- [Sitemap URL Extractor](https://sitegpt.ai/tools/sitemap-url-extractor) - Pull every URL out of an XML sitemap
+- [Convert XML to Markdown](https://sitegpt.ai/tools/convert-xml-to-markdown) - Turn XML feeds and sitemaps into Markdown
+- [AI Chat with Your Website Data](https://sitegpt.ai/tools/ai-chat-with-your-website-data) - Query your own site content conversationally
+## Wiki Tools
+- [Portal: Toolforge](https://wikitech.wikimedia.org/wiki/Portal:Toolforge) - Entry point for Wikimedia's hosting environment
+- [Help: Toolforge](https://wikitech.wikimedia.org/wiki/Help:Toolforge) - Documentation for building and deploying tools
+- [Toolforge Tools Category](https://wikitech.wikimedia.org/wiki/Category:Toolforge_tools) - Index of tools running on Toolforge
+- [Wikimedia Cloud Services on Diff](https://diff.wikimedia.org/category/wmcs/) - Blog posts and updates from the WMCS team
+- [MediaWiki Export Help](https://www.mediawiki.org/wiki/Help:Export) - How to export pages and revision history as XML
+## Tag & Hashtag Generators
+- [NoteVocal Blog Tag Generator](https://www.notevocal.com/tools/blog-tag-generator) - Free tag suggestions for blog posts
+- [Shop Startup Blog Post Tag Generator](https://shopstartup.co.uk/blog-post-tag-generator/) - Generate tags from a post title or topic
+- [RapidTags](https://rapidtags.io/generator) - Keyword-driven tag generator aimed at video
+- [Zazzle Tag Generator](https://auuptools.com/zazzle-tag-generator) - Trending keywords pulled from top Zazzle designs
+- [RankHero Etsy Tag Generator](https://www.rankhero.com/tools/etsy/tag-generator) - Find and analyze Etsy listing tags
+- [VEED Hashtag Generator](https://www.veed.io/tools/script-generator/hashtag-generator) - Suggest hashtags for social posts
+## AI APIs & Playgrounds
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat) - Prototype prompts and models in the browser
+- [AWS AI](https://aws.amazon.com/ai/) - Overview of Amazon's AI and ML service lineup
+- [Free Unlimited OpenAI API](https://developer.puter.com/tutorials/free-unlimited-openai-api/) - Puter tutorial for calling OpenAI models client-side
+- [FREE-openai-api-keys](https://github.com/dan1471/FREE-openai-api-keys) - Community list of shared keys; use with caution
+## Developer Utilities
+- [ray.so](https://ray.so/) - Collection of web tools built by Raycast
+- [Code Images](https://github.com/raycast/ray-so/blob/main/app/%28navigation%29/%28code%29) - Create presentable images of source code
+- [Icon Maker](https://github.com/raycast/ray-so/blob/main/app/%28navigation%29/icon) - Design icons for Raycast extensions
+- [Prompt Explorer](https://github.com/raycast/ray-so/blob/main/app/%28navigation%29/prompts) - Browse AI prompts built for Raycast
+- [Preset Explorer](https://github.com/raycast/ray-so/blob/main/app/%28navigation%29/presets) - Explore reusable AI presets
+- [Quicklink Explorer](https://github.com/raycast/ray-so/blob/main/app/%28navigation%29/quicklinks) - Browse and import Raycast quicklinks
+- [Snippet Explorer](https://github.com/raycast/ray-so/blob/main/app/%28navigation%29/snippets) - Browse and import Raycast snippets
+- [Theme Explorer](https://github.com/raycast/ray-so/blob/main/app/%28navigation%29/themes) - Browse and import Raycast themes
+- [Raycast](https://raycast.com/) - Extensible launcher and productivity tool for macOS
+- [StackEdit](https://stackedit.io/app) - In-browser Markdown editor with live preview
+- [Val Town](https://www.val.town/) - Write and host small serverless functions in the browser
+
+## Online Tool Collections
+
+- [10015.io](https://10015.io/) - All online tools in one box; over 10,000 tools organized
+- [IT Tools](https://it-tools.tech/) - Handy online tools for developers
+- [Online Tools](https://onlinetools.com/) - Quick tools for getting things done
+- [FreeTools.org](https://www.freetools.org/) - Free tools for text, image, AI and more
+- [Online Tools Forge](https://onlinetoolsforge.com/en/) - 200+ free online tools, instant and no signup
+- [60tools](https://60tools.com/en) - Online tools and generators from 60tools
+- [All Online Tools Hub](https://allonlinetoolshub.com/) - 327 free online tools; image, PDF, text, code
+- [Online Quick Tools](https://onlinequicktools.com/) - Free AI, PDF, image, social, developer tools
+- [TinyWow](https://tinywow.com/) - Free AI writing, PDF, image, and online tools
+- [National Archives Research Tools](https://www.archives.gov/research/start/online-tools) - Online research tools and aids
+- [Acalytica Toolkit](https://acalytica.com/blog/100-free-online-tools-in-one-place-discover-acalytica-s-comprehensive-toolkit) - 100+ free online tools in one place
+- [Gillmeister Online Tools](https://www.gillmeister-software.com/online-tools/start.aspx) - Many useful online tool helpers
+
+## Tool Aggregators & Reviews
+
+- [Top 100 Tools for Learning 2025](https://toptools4learning.com/) - Results of the 19th annual survey
+- [22 Free Online Tools Every Remote Worker Needs](https://whereintheworldisnina.com/free-online-tools/) - 2026 roundup for remote work
+- [Free Online Tools for Everyday Needs](https://vocal.media/01/100-best-free-online-tools-for-everyday-needs) - 100 best tools ranked
+- [r/webdev: Building 200+ Free Online Tools](https://www.reddit.com/r/webdev/comments/1m9k4hv/building_200_free_online_tools_no_login_clean_ui/) - Community discussion on no-login tools
+
+## Bookmark Managers
+
+- [Best Bookmark Managers 2026](https://bookmarker.cc/blog/best-bookmark-managers-2026) - Comparison of leading managers
+- [Best Bookmark Managers](https://tixio.io/blog/weve-found-the-best-bookmark-managers-online-that-will-help-you-organize-links-and-share-your-favourite-content) - Curated list for saving and organizing
+- [8 Popular Ways to Save Links for Later](https://www.bookmarkify.io/blog/8-popular-ways-to-save-links-for-later) - Methods and tools overview
+- [Top 9 Browser-Independent Bookmark Managers](https://getdewey.co/blog/browser-independent-bookmark-manager/) - Dewey's comparison guide
+- [Web-Based Bookmarking Tools](https://workfromcoffee.com/blog/web-based-bookmark-tools-2025) - Tools requiring no installation
+- [AI-Powered Bookmark Managers](https://viasocket.com/discovery/blog/qaw7b4/bookmark-managers/8-ai-bookmark-managers-for-fast-retrieval-and-smart-tagging) - Smart tagging and retrieval
+- [Visual Bookmarking Tools](https://www.gooddesign.tools/category/visual-bookmarking-tools) - 10+ tools for visual bookmarking
+- [Best Bookmark Organizer](https://kk.org/cooltools/best-bookmark-o/) - Cool Tools recommendation
+- [Social Bookmarking Tools](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/social-bookmarking-tools) - University of Waterloo guide
+- [r/macapps: Best Bookmark Managers](https://www.reddit.com/r/macapps/comments/yvixpf/which_bookmark_manager_do_you_use_and_what_do_you/) - macOS user discussion
+- [r/Hookmark: Favorite Bookmarking Tools](https://discourse.hookproductivity.com/t/what-are-your-favorite-bookmarking-tools-for-the-mac/9185) - Mac productivity tools
+- [Webtag — Plain-Text Bookmarking](https://www.trendhunter.com/trends/bookmarking-tools) - Tagging and privacy-focused tool
+- [Tinderbox Forum: Web Bookmark Tools](https://forum.eastgate.com/t/web-bookmark-tools/6573) - Community discussion
+
+## Google Workspace Converters
+
+- [Pandoc](https://pandoc.org/) - Universal document converter with many formats
+- [Google Docs to HTML Converter](https://docswrite.com/tools/google-docs-to-html) - Online conversion tool
+- [How To Embed HTML Into a Google Doc](https://helpdeskgeek.com/how-to-embed-html-into-a-google-doc/) - Guide for embedding HTML
+
+## AI & Knowledge Tools
+
+- [Google NotebookLM](https://notebooklm.google/) - AI research tool and thinking partner
+- [H5P](https://h5p.org/) - Create and share rich HTML5 content and applications
+
+## oEmbed & Link Embedding
+
+- [Iframely](https://iframely.com/) - URL embed management and preview service
+- [oEmbed Link Viewer](https://oembed.link/) - View oEmbed data for any URL
+- [Microlink Embed](https://microlink.io/embed) - Rich link embeds as a service
+- [oEmbed Official Spec](https://oembed.com/) - Official oEmbed specification
+- [oEmbed Google Group](http://groups.google.com/group/oembed/) - Community discussion
+- [Announcing oEmbed](https://blog.leahculver.com/2008/05/announcing-oembed-an-open-standard-for-embedded-content.html) - Original launch post
+- [Get Started with oEmbed](https://web.archive.org/web/20150318024249/https://www.wired.com/2010/02/get_started_with_oembed/) - Archived Wired guide
+- [oEmbed Makes Embedding Easy](http://ajaxian.com/archives/oembed-makes-embedding-third-party-videos-and-images-a-breeze) - Ajaxian overview
+- [iamcal/oembed](https://github.com/iamcal/oembed) - oEmbed reference implementation
+
+## oEmbed Libraries
+
+### PHP Libraries
+
+- [php-oembed](http://code.google.com/p/php-oembed/) - oEmbed consumer in PHP
+- [Services_oEmbed](http://pear.php.net/package/Services_oEmbed) - PEAR package for oEmbed
+- [Essence](https://github.com/felixgirault/essence) - PHP library for metadata extraction
+- [Embera](https://github.com/mpratt/Embera) - Simple oEmbed consumer
+
+### Ruby Libraries
+
+- [oembed_links](http://github.com/netshade/oembed_links) - Ruby oEmbed support
+
+### Python Libraries
+
+- [pyoembed](http://github.com/rafaelmartins/pyoembed/) - Python oEmbed consumer
+- [PyEmbed](http://pyembed.github.io/) - Comprehensive Python oEmbed library
+- [python-oembed](https://github.com/abarmat/python-oembed) - Pure Python implementation
+
+### Perl Libraries
+
+- [Web-oEmbed](http://search.cpan.org/~miyagawa/Web-oEmbed/) - Perl oEmbed module
+
+### Django & Java
+
+- [micawber](https://github.com/coleifer/micawber) - Django oEmbed consumer
+- [java-oembed](https://github.com/michael-simons/java-oembed) - Java oEmbed support
+
+### .NET & JavaScript
+
+- [oEmbed API Wrapper (.NET)](http://oembed.codeplex.com/) - .NET implementation
+- [jQuery oEmbed All](https://github.com/starfishmod/jquery-oembed-all) - jQuery plugin
+
+### Node.js & Elixir
+
+- [Iframely (Node.js)](https://github.com/itteco/iframely) - oEmbed API gateway and parser
+- [furlex](https://github.com/claytongentry/furlex) - Elixir metadata scraper
+- [elixir-oembed](https://github.com/r8/elixir-oembed) - Elixir oEmbed consumer
+
+### AWS & Other
+
+- [Serverless oEmbed Provider](https://github.com/aws-samples/sample-serverless-oembed) - AWS Lambda oEmbed service
+
+## LLM-Friendly Markdown Tools
+
+- [llms.txt](https://llmstxt.org/) - The /llms.txt file specification for LLM docs
+- [llm-docs-builder](https://github.com/mensfeld/llm-docs-builder) - Transform markdown for LLMs and RAG systems
+- [AnythingMD](https://anythingmd.com/) - Document to Markdown converter
+- [llmfood](https://www.reddit.com/r/Docusaurus/comments/1s8luru/i_built_llmfood_that_you_can_use_to_generate/) - Generate LLM-friendly Markdown for docs
+- [r/LocalLLaMA: Local LLM Tools](https://www.reddit.com/r/LocalLLaMA/comments/1oe8rtd/looking_for_local_llm_with_tools_to_analyze_local/) - Community discussion on local LLM markdown
+- [Nano-Collective: HTML to Markdown](https://github.com/Nano-Collective/organisation/discussions/3) - Lightweight HTML to Markdown for LLMs
+
+## Browser-Based AI & LLMs
+
+- [Transformers.js](https://cdn.jsdelivr.net/npm/@huggingface/transformers@3/+esm) - Whisper, translation, sentiment, summarization, and small LLMs from Hugging Face
+- [WebLLM](https://esm.run/@mlc-ai/web-llm) - Run Llama, Phi, Mistral in browser with WebGPU support
+
+## Audio & Media Processing
+
+- [FFmpeg.wasm](https://unpkg.com/@ffmpeg/ffmpeg@0.12/dist/esm/index.js) - Full FFmpeg in browser; video/audio convert, trim, extract
+- [Tone.js](https://tone.js.org/) - Web audio synthesizers, sequencers, and effect chains
+- [Lite YouTube Embed](https://cdnjs.com/libraries/lite-youtube-embed) - Lightweight YouTube player embed
+- [Vimeo Player](https://cdnjs.com/libraries/vimeo-player) - Official Vimeo player library
+- [SoundPlayer Widget](https://cdnjs.com/libraries/soundplayer-widget) - Audio player embed
+- [Gitter Sidecar](https://cdnjs.com/libraries/gitter-sidecar) - Gitter chat embed widget
+
+## Document Processing
+
+- [PDF.js](https://mozilla.github.io/pdf.js/) - Mozilla's PDF renderer and parser; render PDFs client-side
+- [Mammoth.js](https://github.com/mwilson/mammoth.js) - Convert .docx Word files to HTML in-browser
+- [SheetJS](https://sheetjs.com/) - Read and write Excel files entirely client-side
+- [jExcel](https://cdnjs.com/libraries/jexcel) - Spreadsheet component for the web
+
+## Geospatial & Data Analysis
+
+- [DuckDB-WASM](https://duckdb.org/docs/api/wasm.html) - Run SQL queries on local files in browser
+- [Turf.js](https://turfjs.org/) - Geospatial analysis; buffers, intersections, measurements
+- [Lowdb](https://cdnjs.com/libraries/lowdb) - Lightweight JSON database for the browser
+
+## Cryptography & Security
+
+- [libsodium.js](https://github.com/jedisct1/libsodium.js) - Modern crypto library compiled to WASM
+- [OpenPGP.js](https://openpgpjs.org/) - End-to-end encrypted messaging without a server
+
+## Image Processing & Vision
+
+- [Jimp](https://github.com/jimp-dev/jimp) - Image manipulation; resize, crop, filters in JS/WASM
+- [face-api.js](https://github.com/vladmandic/face-api) - Face detection and recognition from webcam
+- [TensorFlow Body Segmentation](https://github.com/tensorflow/tfjs-models/tree/master/body-segmentation) - Background removal and live body detection
+- [Tesseract.js](https://tesseract.projectnaptha.com/) - OCR in-browser; read text from images in 100+ languages
+- [Medium Editor Insert Plugin](https://cdnjs.com/libraries/medium-editor-insert-plugin) - Rich media insertion for editors
+- [Embed.js](https://cdnjs.com/libraries/embed-js) - Embed media from URLs in your content
+- [Embedly jQuery](https://cdnjs.com/libraries/embedly-jquery) - Embedly embeds via jQuery
+
+## Niche & Experimental WASM
+
+- [Pyodide](https://cdn.jsdelivr.net/pyodide/v0.27.0/full/pyodide.js) - Full Python runtime in-browser; run NumPy, Pandas, matplotlib
+- [SQLite WASM](https://sqlite.org/wasm/) - Official SQLite running in-browser with persistent storage
+- [Ember.js](https://cdnjs.com/libraries/ember.js) - JavaScript framework for ambitious web applications
+- [Ember Data.js](https://cdnjs.com/libraries/ember-data.js) - ORM for Ember applications
+- [Ember Simple Auth](https://cdnjs.com/libraries/ember-simple-auth) - Authentication for Ember apps
+- [Ember Charts](https://cdnjs.com/libraries/ember-charts) - Charting library for Ember
+- [Ember i18n](https://cdnjs.com/libraries/ember-i18n) - Internationalization for Ember
+- [Ember Local Storage Adapter](https://cdnjs.com/libraries/ember-localstorage-adapter) - Persist data locally
+- [Ember Dialog](https://cdnjs.com/libraries/ember-dialog) - Modal dialog component
+- [Ember Computed Reverse](https://cdnjs.com/libraries/ember-computed-reverse) - Reverse computed property
+- [EmberFire](https://cdnjs.com/libraries/emberFire) - Firebase binding for Ember
+- [Reframe.js](https://cdnjs.com/libraries/reframe.js) - Automatically make embeds responsive
+- [FitVids](https://cdnjs.com/libraries/fitvids) - Responsive video container helper
+- [Emblem](https://cdnjs.com/libraries/emblem) - Handlebars template language for Ember
+- [Vega Embed](https://cdnjs.com/libraries/vega-embed) - Embed Vega visualizations
+- [Embed Box](https://cdnjs.com/libraries/embed-box) - Simple embed container
+- [ng-embed](https://cdnjs.com/libraries/ng-embed) - Angular embedding utilities
+- [Gist Embed](https://cdnjs.com/libraries/gist-embed) - Embed GitHub gists easily
+- [GitHub Calendar](https://cdnjs.com/libraries/github-calendar) - Embed GitHub contribution graph
+- [Embedo](https://cdnjs.com/libraries/embedo) - Multi-platform embed management
+- [Embed Box](https://cdnjs.com/libraries/embed-box) - Generic embed container
+- [swfobject](https://cdnjs.com/libraries/swfobject) - Embed Flash objects (legacy)
+- [js-data](https://cdnjs.com/libraries/js-data) - Datastore and ORM for JavaScript
+- [Repo.js](https://cdnjs.com/libraries/repo.js) - GitHub repository API client
+- [ngAnalytics](https://cdnjs.com/libraries/ngAnalytics) - Analytics for Angular apps
+- [PowerBI Client](https://cdnjs.com/libraries/powerbi-client) - Embed Power BI reports
+- [Embetty](https://cdnjs.com/libraries/Embetty) - Privacy-friendly social media embeds
+
+## Design & Web Tools
+
+- [Design Systems & CSS Worth Bookmarking](https://mohitphogat.medium.com/design-systems-and-css-tools-worth-bookmarking-part-3-3-6d12a6b9df74) - Curated design tools article
+
+## License
+
+This awesome list is licensed under the [CC0 1.0 Universal](https://claude.ai/chat/LICENSE) license.
+
 ## License
 
 This awesome list is licensed under the [CC0 1.0 Universal](LICENSE) license.
