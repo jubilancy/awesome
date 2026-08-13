@@ -1,0 +1,705 @@
+# Awesome T.LY Tools
+
+> A curated collection of free, browser-based web tools for developers, marketers, and content creators
+
+
+## Contents
+
+- [Domain Tools](#domain-tools)
+- [Link Tools](#link-tools)
+- [Marketing Tools](#marketing-tools)
+- [Programming Tools](#programming-tools)
+- [QR Codes](#qr-codes)
+- [Random Generators](#random-generators)
+- [Security Tools](#security-tools)
+- [Text Tools](#text-tools)
+- [URL Tools](#url-tools)
+- [Utilities](#utilities)
+- [Website Tools](#website-tools)
+- [AI & LLMs](#ai--llms)
+- [JavaScript & TypeScript](#javascript--typescript)
+- [Tailwind CSS](#tailwind-css)
+- [CSS & HTML](#css--html)
+- [Git](#git)
+- [Node.js & Backend](#nodejs--backend)
+- [Databases](#databases)
+- [React, Next.js, Astro & AHA](#react-nextjs-astro--aha)
+- [Web Platform & Networking](#web-platform--networking)
+- [Hosting & Deployment](#hosting--deployment)
+- [Business & Writing](#business--writing)
+- [Dev Utilities & Fun](#dev-utilities--fun)
+- [License](#license)
+
+
+## Domain Tools
+
+- [BIMI Lookup](https://t.ly/tools/bimi-lookup) - Check for BIMI TXT records and parse logo and certificate tags. Works with any domain and selector.
+- [DKIM Record Checker](https://t.ly/tools/dkim-record-checker) - Look up DKIM TXT records for any selector and domain. Parse key tags and copy the record instantly.
+- [DMARC Record Checker](https://t.ly/tools/dmarc-record-checker) - Look up a domain’s DMARC record, parse key tags, and surface issues before they impact email deliverability.
+- [DNS Lookup](https://t.ly/tools/dns-lookup) - Perform DNS lookups for A, MX, CNAME, TXT, and more, then compare answers from public DNS providers around the world.
+- [Email Domain Readiness Report](https://t.ly/tools/email-domain-readiness-report) - Run an email domain health check for MX, SPF, DKIM, DMARC, BIMI, and MTA-STS records from a single report.
+- [IP Address Lookup](https://t.ly/tools/ip-address-lookup) - Use our IP Address Lookup tool to find detailed information about any IP address, including geolocation, ISP, and more.
+- [MTA-STS Checker](https://t.ly/tools/mta-sts-checker) - Check whether a domain publishes an MTA-STS TXT record, parse tags, and link to the policy file.
+- [MX Record Lookup](https://t.ly/tools/mx-lookup) - Query MX DNS records through Google or Cloudflare resolvers to verify mail routing, SPF setups, and email deliverability.
+- [NS Record Lookup](https://t.ly/tools/ns-lookup) - Retrieve NS DNS records to confirm which name servers control a domain. Helpful for migrations, audits, and delegation checks.
+- [Port Checker](https://t.ly/tools/port-checker) - Use our Port Checker tool to test if a specific port is open or closed on a server. Ideal for network administrators and security testing.
+- [SPF Explainer](https://t.ly/tools/spf-explainer) - Look up a domain SPF record, break down each mechanism, and verify whether an IP is authorized to send mail.
+- [Short Domain Finder](https://t.ly/tools/short-domain-finder) - Browse short domain names across popular TLDs with instant filters, sorting, and availability + pricing.
+- [URL to Domain Extractor Tool](https://t.ly/tools/domain-extractor) - Paste any text with links and instantly extract domains. Options include keeping subdomains, removing duplicates, lowercasing, sorting A–Z, and adding an https:// prefix. Perfect for SEO, security allow/deny lists, and data cleanup.
+- [What Is My ISP](https://t.ly/tools/what-is-my-isp) - Answer the question "What is my ISP?" instantly. See your internet service provider, public IP, and network details in seconds.
+- [WhoIs Lookup](https://t.ly/tools/who-is-lookup) - Use our WhoIs Lookup tool to find detailed information about the ownership of any domain name or IP address.
+
+## Link Tools
+
+- [Bulk HTTP to HTTPS Converter](https://t.ly/tools/bulk-http-to-https-converter) - Paste a list of URLs and instantly convert http:// links to https:// in bulk. Copy the secure list in one click.
+- [Bulk Redirect Checker](https://t.ly/tools/bulk-redirect-checker) - Analyze redirect chains for up to 20 URLs. See every hop, HTTP status code, and final destination in one report.
+- [Bulk URL Cleaner](https://t.ly/tools/bulk-url-cleaner) - Paste a list of URLs and remove UTM parameters, FBCLID, GCLID, and other tracking junk in bulk. Copy the cleaned URLs instantly.
+- [Bulk URL Expander](https://t.ly/tools/bulk-url-expander) - Paste up to 20 short URLs and instantly reveal each final destination, redirect count, and full redirect chain in one batch report.
+- [Bulk URL Shortener](https://t.ly/tools/bulk-url-shortener) - Paste any block of text and instantly shorten all links with T.LY. Supports custom domains, batch processing, live preview, and one-click copy.
+- [Clean URL](https://t.ly/tools/remove-tracking-from-url) - Use our Clean URL tool to strip out UTM, GCLID, FBCLID, and other tracking parameters. Generate a concise, shareable link in seconds.
+- [Deep Link Validator](https://t.ly/tools/deep-link-validator) - Check Apple app-site-association, Android assetlinks.json, and page-level app metadata to validate deep-link setup.
+- [Extract Links From PDF](https://t.ly/tools/extract-links-from-pdf) - Upload any PDF and instantly list every link it contains. Export or copy the URLs for audits, QA, and research.
+- [Extract URLs From HTML](https://t.ly/tools/extract-urls-from-html) - Paste raw HTML to instantly list every URL it references. Ideal for debugging, audits, and content cleanups.
+- [Extract URLs From Webpage](https://t.ly/tools/extract-urls-from-url) - Paste a page URL to crawl and export every link it contains. Perfect for SEO audits, QA, and content research.
+- [Favicon Downloader](https://t.ly/tools/favicon-downloader) - Use our Favicon Downloader to quickly retrieve and download the favicon (site icon) from any website URL.
+- [HTTP Header Checker](https://t.ly/tools/header-checker) - Use our HTTP Header Checker to quickly fetch and display all response headers for any website URL.
+- [Mailto Link Generator](https://t.ly/tools/mailto-link-generator) - Create a mailto link with recipients, subject, body, and CC or BCC. Perfect for buttons, forms, and QR codes.
+- [Redirect Checker](https://t.ly/tools/redirect-checker) - Use our Redirect Checker to trace and analyze the full redirect chain of any URL. Identify intermediate and final destinations, and ensure link safety.
+- [Redirect Migration QA](https://t.ly/tools/redirect-migration-qa) - Paste source and expected destination URLs to audit redirect mappings during site migrations, replatforms, or domain changes.
+- [SMS Link Generator](https://t.ly/tools/sms-link-generator) - Create an SMS link with a phone number and message. Works on mobile devices and can be shared or turned into a QR code.
+- [Short URL Expander](https://t.ly/tools/link-expander) - Use our free URL Expander and redirect checker to trace link redirects, check URL redirects, and reveal the final destination behind any short URL
+- [Shortener CSV Import Mapper](https://t.ly/tools/shortener-csv-import-mapper) - Convert CSV exports from Bitly, Rebrandly, Short.io, TinyURL, or generic link spreadsheets into a T.LY bulk import CSV with LongUrl, Backhalf, Password, and Description columns.
+- [URL Shortener Bookmarklet](https://t.ly/tools/url-shortener-bookmarklet) - Save a T.LY bookmarklet in your browser. Click it to open T.LY with the current page URL ready to shorten.
+- [WhatsApp Link Generator](https://t.ly/tools/whatsapp-link-generator) - Generate a WhatsApp click-to-chat link with a phone number and optional message. Copy, shorten, or turn into a QR code.
+
+## Marketing Tools
+
+- [AVIF Converter](https://t.ly/tools/avif-converter) - Convert JPG, PNG, or WebP images to AVIF and back with quality controls. Fast, private, and in-browser.
+- [Add Rainbow Filter to Image](https://t.ly/tools/add-rainbow-filter-to-image) - Upload a photo and add an adjustable rainbow gradient overlay entirely in your browser.
+- [Add Text to Photo](https://t.ly/tools/add-text-to-photo) - Upload a photo, layer on custom text, choose fonts, colors, backgrounds, and drag each caption into place. Everything renders locally for instant, private results.
+- [Base64 to ASCII Converter](https://t.ly/tools/base64-to-ascii) - Decode Base64 strings into ASCII text instantly. Inspect payloads, debug headers, and export results to text files.
+- [Base64 to Audio Converter](https://t.ly/tools/base64-to-audio) - Convert Base64 audio strings into playable audio files. Supports MP3, WAV, OGG and lets you listen, validate, and download instantly.
+- [Base64 to File Converter](https://t.ly/tools/base64-to-file) - Decode Base64 data into a downloadable file. Auto-detects MIME type and lets you copy or download your file instantly.
+- [Base64 to Hex Converter](https://t.ly/tools/base64-to-hex) - Convert Base64 into a detailed hex dump with ASCII gutter for low-level inspection of binary data, headers, and file signatures.
+- [Base64 to Image Converter](https://t.ly/tools/base64-to-image) - Easily convert Base64 strings or data URIs into images online. Supports PNG, JPG, GIF, WebP with instant preview, zoom, metadata, copy, and download.
+- [Base64 to PDF Converter](https://t.ly/tools/base64-to-pdf) - Convert Base64 to PDF and view directly in your browser. Instantly preview, validate, and download Base64-encoded PDF documents.
+- [Base64 to Text Converter](https://t.ly/tools/base64-to-text) - Quickly decode Base64 into human-readable UTF-8 text. Useful for JSON, HTML, logs, and debugging Base64 data.
+- [Base64 to Video Converter](https://t.ly/tools/base64-to-video) - Paste Base64 encoded video or data URI and play it instantly in your browser. Supports MP4, WebM, and more with download options.
+- [Bulk Image Resizer](https://t.ly/tools/bulk-image-resizer) - Resize many images at once directly in your browser. Set target dimensions, keep aspect ratios, pick the output format, and download a ZIP with the resized files.
+- [CMYK To Pantone](https://t.ly/tools/cmyk-to-pantone) - Easily convert CMYK color codes to Pantone values with our free online tool. Perfect for designers and color matching in branding or printing projects.
+- [CTR Calculator](https://t.ly/tools/ctr-calculator) - Calculate click-through rate quickly. Enter clicks and impressions to get an accurate CTR percentage.
+- [Canonical URL Checker](https://t.ly/tools/canonical-url-checker) - Check a page canonical tag, compare duplicate URLs, and review redirect plus noindex signals to make sure SEO value consolidates correctly.
+- [Change Horizontal Image to Vertical](https://t.ly/tools/change-horizontal-image-to-vertical-image) - Upload an image and rotate it 90 degrees to switch from horizontal to vertical instantly in your browser.
+- [Change Vertical Image to Horizontal](https://t.ly/tools/change-vertical-image-to-horizontal-image) - Turn upright photos sideways for banners and thumbnails with a one-click rotation in your browser.
+- [Color Converter (HEX/RGB/HSL)](https://t.ly/tools/color-converter) - Convert between HEX, RGB, and HSL with synchronized inputs and live preview. Handy for developers and designers.
+- [Color Palette Generator](https://t.ly/tools/color-palette-generator) - Use our free Color Palette Generator to instantly create beautiful and random color palettes. Perfect for designers, artists, and creatives.
+- [Color Picker From Image](https://t.ly/tools/color-picker-from-image) - Easily pick and identify exact colors from images. Perfect for designers, artists, and developers.
+- [Conversion Rate Calculator](https://t.ly/tools/conversion-rate-calculator) - Calculate conversion rate from conversions and visitors or clicks. Useful for landing pages, funnels, and campaigns.
+- [Convert Image to Polaroid](https://t.ly/tools/convert-image-to-polaroid) - Upload an image, add a caption, and download a polaroid-style PNG with a white frame and subtle shadow.
+- [Email Checker](https://t.ly/tools/email-checker) - Validate email addresses in bulk to ensure accuracy and deliverability. Identify valid and invalid emails with detailed reasoning.
+- [Email Signature Generator](https://t.ly/tools/email-signature-generator) - Create a clean email signature with logo, socials, CTA, and tracking. Copy HTML, plain text, or download the .html file.
+- [Facebook Unfriend Checker](https://t.ly/tools/facebook-unfriend-checker) - Upload Facebook export ZIP files to compare friend and follower snapshots privately in your browser. No password, no scraping, and no app login required.
+- [Favicon Generator](https://t.ly/tools/favicon-generator) - Use our Favicon Generator to transform your images into professional favicons and generate the corresponding HTML markup for your website.
+- [Google Maps Embed Generator](https://t.ly/tools/google-maps-embed-generator) - Generate customizable Google Maps embed codes for your website with our free and easy-to-use tool. Preview and copy your map embed code effortlessly.
+- [Google Review Link Generator](https://t.ly/tools/google-review-link-generator) - Generate a Google review link using a Place ID. Copy, shorten, or turn it into a QR code for fast customer feedback.
+- [HEIC To Jpeg Converter](https://t.ly/tools/heic-to-jpeg-converter) - Convert your HEIC images to JPEG effortlessly. Ensure compatibility across devices and platforms with our high-quality converter.
+- [HEIC To PNG Converter](https://t.ly/tools/heic-to-png-converter) - Convert your HEIC images to PNG effortlessly. Ensure compatibility across devices and platforms with our high-quality converter.
+- [Hex To Pantone](https://t.ly/tools/hex-to-pantone) - Easily convert Hex color codes to Pantone values with our free online tool. Perfect for designers and color matching in branding or printing projects.
+- [Hreflang Tag Generator](https://t.ly/tools/hreflang-tag-generator) - Generate correct <link rel="alternate" hreflang="..."> tags for multilingual and multi‑regional sites, including x‑default.
+- [Image Background Remover](https://t.ly/tools/image-background-remover) - Remove backgrounds from images instantly with our free, browser-based background remover. Works securely on your device — no uploads, no watermarks.
+- [Image Compressor](https://t.ly/tools/image-compressor) - Compress batches of images like TinyPNG without uploading them anywhere. Optimise JPEG, PNG, and WebP files entirely in your browser.
+- [Image Converter](https://t.ly/tools/image-converter) - Use our free Image Converter to transform one or more images between PNG, JPG, and WebP formats with quality control options. Fast, secure, and easy to use.
+- [Image Cropper](https://t.ly/tools/image-cropper) - Use our free Image Cropper tool to easily crop and download images. Perfect for resizing and optimizing images for various needs.
+- [Image Downloader from URL](https://t.ly/tools/image-extractor-from-url) - Paste a URL and instantly collect every image on the page. See file names, formats, sizes, and download links for fast creative audits or QA.
+- [Image Resizer Online](https://t.ly/tools/image-resizer) - Resize images to exact dimensions in your browser. Maintain aspect ratio, pick an output format, and download optimized files in seconds.
+- [Image to Base64 Converter](https://t.ly/tools/base64-image-converter) - Easily convert images to Base64 with our free online tool. Supports drag-and-drop, file selection, and generates Base64 strings for CSS, HTML, and more.
+- [Instagram Unfollowers Checker](https://t.ly/tools/instagram-unfollowers-checker) - Upload your Instagram export ZIP to see who does not follow you back and compare two exports to find recent unfollowers. Browser-only, private, and password-free.
+- [JPG to WebP Converter](https://t.ly/tools/jpg-to-webp) - Convert JPG/JPEG images to WebP locally in your browser. Control quality and shrink file sizes for the web.
+- [Landing Page Share & SEO Audit](https://t.ly/tools/landing-page-share-seo-audit) - Check a landing page for title and meta length, canonical tags, robots directives, redirect hops, Open Graph tags, Twitter cards, schema, and hreflang.
+- [LinkedIn Bold & Italic Text](https://t.ly/tools/linkedin-bold-italic-text-generator) - Style your LinkedIn post text using Unicode bold and italic variants. Copy and paste into your posts or comments.
+- [LinkedIn Photo Resizer](https://t.ly/tools/linkedin-photo-resizer) - Upload an image and resize to LinkedIn-friendly dimensions like 1200x627 (post), 400x400 (profile), and 1584x396 (cover).
+- [Marketing CSV Cleaner](https://t.ly/tools/marketing-csv-cleaner) - Upload a leads CSV to trim, normalize, split names, dedupe by email/phone, validate emails, and export a clean file. Runs entirely in your browser.
+- [Meta Tag Generator](https://t.ly/tools/meta-tag-generator) - Quickly generate SEO meta tags, Open Graph, and Twitter card tags for your pages. Copy the snippet and validate social previews.
+- [Open Graph Image Preview](https://t.ly/tools/og-image-snapshot) - Fetch social metadata on demand, compare it with the previous snapshot, and confirm the right image ships to every network.
+- [PNG to WebP Converter](https://t.ly/tools/png-to-webp) - Convert PNG images to WebP in your browser. Reduce file size while keeping transparency and sharpness.
+- [Photo Collage Maker](https://t.ly/tools/photo-collage-maker) - Upload several photos, choose a layout, tweak borders, spacing, and focus, then export a crisp collage without leaving your browser.
+- [Photo Grayscale Converter](https://t.ly/tools/photo-grayscale-converter) - Convert pictures to grayscale instantly, adjust strength, contrast, and brightness, then download the black-and-white version. 100% client-side.
+- [Photo Watermarker](https://t.ly/tools/photo-watermarker) - Protect your photos by overlaying customizable text watermarks. Adjust size, position, color, and opacity—everything is processed locally for privacy.
+- [Pinterest Photo Resizer](https://t.ly/tools/pinterest-photo-resizer) - Upload an image and export Pinterest-optimized sizes like 1000x1500 (standard), 1000x1000 (square) or 1000x2100 (long).
+- [Pixelate Image](https://t.ly/tools/pixelate-image) - Upload an image and apply adjustable pixelation entirely in your browser, perfect for quick redactions or retro effects.
+- [Placeholder Image URL](https://t.ly/tools/placeholder-image-url-generator) - Generate placeholder image URLs for mockups using placehold.co, via.placeholder.com, or dummyimage.com with custom size, colors, text, and format.
+- [QR Code Image Analyzer](https://t.ly/tools/qr-print-risk-checker) - Upload a QR code image and check scan risk for flyers, screens, video, bus ads, billboards, digital signs, and more. Decode the URL, review UTMs, scan distance, QR size, contrast, quiet zone, URL density, and editability.
+- [QR Placement Size Calculator](https://t.ly/tools/print-size-calculator) - Calculate the minimum QR code print size for posters, business cards, and billboards based on scan distance. Includes recommended error correction.
+- [ROAS Calculator](https://t.ly/tools/roas-calculator) - Calculate ROAS from ad spend and revenue. Instantly see the ratio, percentage return, and net revenue.
+- [Remove Specific Color from Image](https://t.ly/tools/remove-specific-color-from-image) - Select any color in your image and turn it transparent with adjustable tolerance, right in the browser.
+- [Replace Image Color](https://t.ly/tools/replace-image-color) - Pick a target color, choose a replacement, and recolor matching pixels instantly without uploading to a server.
+- [Robots.txt Generator](https://t.ly/tools/robots-txt-generator) - Generate and parse robots.txt files with our user-friendly tool. Customize directives for search engines and quickly copy your output.
+- [Robots.txt Tester](https://t.ly/tools/robots-txt-tester) - Test a URL against robots.txt rules for any user-agent. Paste a file or fetch robots.txt and verify allow/disallow decisions.
+- [SEO Snippet Preview](https://t.ly/tools/seo-snippet-preview) - Preview Google search snippets with title and meta description length checks. Optimize click‑through with a realistic SERP view.
+- [SVG to PNG Converter](https://t.ly/tools/svg-to-png) - Use our free online tool to convert your SVG files to PNG format. Customize the output size for perfect results every time.
+- [Sitemap Finder & Checker](https://t.ly/tools/sitemap-finder-checker) - Discover sitemap.xml URLs from robots.txt and common paths, then check status codes and validate basic sitemap structure.
+- [Sitemap Generator](https://t.ly/tools/sitemap-generator) - Generate sitemap.xml from a URL list with optional lastmod, changefreq, and priority fields.
+- [Sitemap Parser](https://t.ly/tools/sitemap-parser) - Parse sitemap.xml or a sitemap index, list URLs and last modified dates, and export to CSV for analysis.
+- [Sitemap Split / Merger](https://t.ly/tools/sitemap-split-merger) - Split a sitemap into multiple smaller files (with optional sitemap index), or merge multiple sitemap URLs into a combined sitemap.
+- [Sitemap URLs Comparison](https://t.ly/tools/sitemap-urls-comparison) - Compare URLs from two sitemaps (or URL lists). Get Only A, Only B, and In Both sets with copy-ready output.
+- [Sitemap Validator](https://t.ly/tools/sitemap-validator) - Validate sitemap.xml or sitemap index XML, check for missing/invalid `<loc>` and `<lastmod>`, and get warnings for over-limit sitemaps.
+- [Social Share Preview](https://t.ly/tools/social-share-preview) - Preview how links render on X (Twitter), Facebook, LinkedIn, Google, Pinterest, Slack, Discord, WhatsApp, Telegram, Reddit, iMessage, and Mastodon.
+- [Split Image](https://t.ly/tools/split-image) - Upload a photo, choose rows and columns, and download each slice as PNG or JPEG—or grab them all in one ZIP.
+- [Square An Image](https://t.ly/tools/square-an-image) - Use our free tool to quickly square your images by adding padding. Choose from standard background colors or use a custom color. Ideal for social media posts, profile pictures, and marketing materials.
+- [Structured Data Markup Generator](https://t.ly/tools/structured-data-markup-generator) - Generate comprehensive and customizable JSON‑LD structured data markup for your website. Enhance your SEO and improve your search presence with our free and easy-to-use tool.
+- [Test Page Title & Meta Description Length](https://t.ly/tools/test-google-title-meta-description-lengths) - Test your page title and meta description length with character and pixel counters plus a live Google-style SERP preview.
+- [Text to Base64 Converter](https://t.ly/tools/text-to-base64) - Convert UTF-8 text into Base64, Base64URL, or data URL output. Copy or download the encoded result instantly.
+- [Twitter Photo Resizer](https://t.ly/tools/twitter-photo-resizer) - Upload an image and resize to Twitter-friendly dimensions like 1200x675 (post), 400x400 (profile), and 1500x500 (header).
+- [Twitter Thread Maker](https://t.ly/tools/twitter-thread-maker) - Paste long text and split into tweet-sized parts with optional 1/N numbering. Accounts for URLs counting as 23.
+- [UTM Builder](https://t.ly/tools/utm-url-builder) - Fill in source, medium, campaign, term, and content to get a consistent UTM link for ads, emails, or posts.
+- [UTM Naming Linter](https://t.ly/tools/utm-naming-linter) - Check URLs for missing UTM parameters, inconsistent casing, spaces, unknown UTM keys, and extra click IDs.
+- [Video to Base64 Converter](https://t.ly/tools/video-to-base64) - Convert MP4, WebM, MOV, and other video files to Base64 strings or data URLs locally in your browser. Copy or download the encoded output instantly.
+- [WCAG Color Contrast Checker](https://t.ly/tools/wcag-color-contrast-checker) - Check foreground/background contrast for WCAG AA/AAA, get nearest compliant color suggestions, and export CSS variables.
+- [WebP to JPG Converter](https://t.ly/tools/webp-to-jpg) - Convert WebP files to JPG in your browser with quality control. Great for tools or platforms that do not support WebP.
+- [WebP to PNG Converter](https://t.ly/tools/webp-to-png) - Convert WebP images to lossless PNGs in your browser. Keep transparency, batch convert, and download instantly.
+- [X (Twitter) Character Counter](https://t.ly/tools/twitter-character-counter) - Count characters for tweets with accurate URL handling (URLs count as 23). See remaining characters and avoid truncation.
+
+## Programming Tools
+
+- [Add Page Numbers To PDF](https://t.ly/tools/add-page-numbers-to-pdf) - Add page numbers to your PDF files with our free and easy-to-use tool. Customize numbering for better organization and readability.
+- [Anchor Tag Generator](https://t.ly/tools/anchor-generator) - Use our free Anchor Tag Generator to create and customize HTML `<a>` tags with href, link text, and any custom attributes—no coding required.
+- [Base Number Converter](https://t.ly/tools/base-number-converter) - Type a number in any base and instantly see the equivalent binary, decimal, hexadecimal, and octal values. Ideal for debugging and CS education.
+- [Base32 Encoder/Decoder](https://t.ly/tools/base32-encoder-decoder) - Encode text to Base32 (RFC 4648) or decode Base32 back to UTF-8 text and hex bytes. Optional padding support. Runs locally.
+- [Binary to Decimal Converter](https://t.ly/tools/bin-to-dec) - Paste a binary value and instantly view the decimal representation. Clean whitespace automatically for fast conversions.
+- [Binary to Hex Converter](https://t.ly/tools/bin-to-hex) - Paste binary digits and convert them to hexadecimal instantly. Padding and validation happen in the browser for quick checks.
+- [Border Radius Generator](https://t.ly/tools/border-radius-generator) - Generate CSS border-radius values with a live preview. Link corners, create elliptical blob shapes, and copy the CSS instantly.
+- [Box Shadow Generator](https://t.ly/tools/box-shadow-generator) - Create CSS box-shadow values with a live preview. Adjust offset, blur, spread, inset, opacity, and multiple layers, then copy the code.
+- [CSS Beautifier](https://t.ly/tools/css-beautifier) - Beautify CSS with indentation controls. Paste CSS, format it instantly, and copy or download the result.
+- [CSS Gradient Generator](https://t.ly/tools/css-gradient-generator) - Create CSS gradients with draggable color stops, angle controls, and instant copy. Export a PNG preview and share a link to your gradient.
+- [CSS Minifier](https://t.ly/tools/css-minifier) - Minify CSS with optional rule restructuring and comment handling. Reduce payload size in seconds.
+- [CSV To JSON](https://t.ly/tools/csv-to-json) - Easily convert comma-separated values (CSV) files into JSON objects. Perfect for developers, data analysts, and students.
+- [CSV Transpose](https://t.ly/tools/csv-transpose) - Transpose CSV data in your browser. Paste a table, flip rows and columns, then copy or download the new layout instantly.
+- [CSV to Markdown Table](https://t.ly/tools/csv-to-markdown-table) - Paste CSV and instantly get a Markdown table with headers, alignment row, and copy-ready output.
+- [CSV to SQL Converter](https://t.ly/tools/csv-to-sql-converter) - Paste CSV data, choose a table name, and download ready-to-run SQL INSERT statements in seconds.
+- [Compress PDF](https://t.ly/tools/compress-pdf) - Compress your PDF files with our free online tool. Reduce file size while maintaining quality for easy sharing and storage.
+- [Convert ASCII to Hex](https://t.ly/tools/convert-ascii-to-hex) - Convert any ASCII text to hex values with optional delimiters, fully client-side.
+- [Convert Hex to ASCII](https://t.ly/tools/convert-hex-to-ascii) - Paste hex values and instantly view the decoded ASCII text inside your browser.
+- [Convert JSON to Text](https://t.ly/tools/convert-json-to-text) - Turn structured JSON into key/value text lines for notes, tickets, or documentation.
+- [Convert Text to CSV](https://t.ly/tools/convert-text-to-csv) - Paste text separated by spaces, tabs, or commas and export a clean CSV you can copy or download.
+- [Cron Expression Generator](https://t.ly/tools/cron-generator) - Generate and understand cron expressions with ease using our free online tool. Perfect for scheduling tasks with detailed explanations.
+- [Cron Humanizer](https://t.ly/tools/cron-humanizer) - Paste any cron expression to see a plain-language description, next run times, and a per-field breakdown.
+- [Decimal to Binary Converter](https://t.ly/tools/dec-to-bin) - Enter a decimal integer and get the binary representation instantly. Ideal for working with bitmasks, flags, and low-level code.
+- [Decimal to Hex Converter](https://t.ly/tools/dec-to-hex) - Convert decimal integers into uppercase hexadecimal strings in seconds. Perfect for color codes, memory addresses, and more.
+- [Decimal to Roman Converter](https://t.ly/tools/decimal-to-roman) - Convert decimal integers into Roman numerals without leaving your browser. Copy the result in one click for presentations or worksheets.
+- [Delete Pages From PDF](https://t.ly/tools/delete-pages-from-pdf) - Delete pages from a PDF in your browser. Remove blank, duplicate, or unwanted pages by number or range and download privately with no uploads.
+- [EXIF Remover](https://t.ly/tools/exif-remover) - Easily view and remove EXIF data (GPS, timestamps, device info) from your photos. Works directly in your browser—preview images, see removed metadata, copy or download details, and export clean JPEGs instantly.
+- [EXIF Viewer](https://t.ly/tools/exif-viewer) - View EXIF data from photos without uploading to a server. Perfect for analyzing camera details, GPS data, and more.
+- [Extract PDF Pages](https://t.ly/tools/extract-pdf-pages) - Extract specific pages from a PDF right in your browser. Choose page ranges, then download a single PDF or a ZIP of individual pages. No server uploads.
+- [Glob ToolTest](https://t.ly/tools/glob-tooltest) - Quickly verify which strings match your glob patterns with support for *, **, ?, character classes, and simple braces.
+- [HAR File Analyzer](https://t.ly/tools/har-file-analyzer) - Analyze HAR files locally to see waterfalls, TTFB vs download time, largest assets, and third-party domain costs. Export findings to CSV or JSON.
+- [HTML Beautifier](https://t.ly/tools/html-beautifier) - Use our free HTML Beautifier tool to format and beautify your HTML code quickly and easily. Perfect for developers and web designers.
+- [HTML Minifier](https://t.ly/tools/html-minifier) - Minify HTML to reduce file size. Remove comments, collapse whitespace, and download the compact output.
+- [HTML Viewer](https://t.ly/tools/html-viewer) - Use our free HTML Viewer tool to instantly render and inspect HTML code in a clean and interactive interface. Perfect for developers and designers.
+- [HTML to Google Docs Converter](https://t.ly/tools/html-to-google-docs-converter) - Convert HTML into a Google Docs-ready .doc file in your browser. Download and upload to Google Docs in seconds.
+- [HTML to Markdown Converter](https://t.ly/tools/html-to-markdown-converter) - Paste HTML and convert it into GitHub-ready Markdown with headings, lists, links, images, and code preserved.
+- [Hex to Binary Converter](https://t.ly/tools/hex-to-bin) - Enter hexadecimal values and see the binary representation grouped nibble by nibble. Copy results without leaving your browser.
+- [Hex to Decimal Converter](https://t.ly/tools/hex-to-dec) - Paste hex digits and get the decimal representation instantly. Works with uppercase, lowercase, and spaced input.
+- [Hex to Text Converter](https://t.ly/tools/convert-hex-to-text) - Easily convert hexadecimal values to human-readable text using our free Hex to Text Converter. Perfect for developers, students, and IT professionals.
+- [Htaccess Redirect Generator](https://t.ly/tools/htaccess-redirect-generator) - Create single or bulk 301/302 redirects for Apache .htaccess. Paste mappings and copy ready‑to‑use RewriteRules.
+- [ICS File Generator](https://t.ly/tools/ics-file-generator) - Generate .ics calendar event files by filling in essential details like title, date, and location. Perfect for scheduling and sharing events.
+- [IP Range Calculator](https://t.ly/tools/ip-range-calculator) - Use our IP Range Calculator to determine the network address, broadcast address, first host, last host, and total number of usable hosts from an IP address in CIDR notation.
+- [Image to PDF Converter](https://t.ly/tools/image-to-pdf-converter) - Convert JPG, PNG, WebP, and other images into one PDF in your browser. Choose page size and fit mode, then download privately with no uploads.
+- [JSON Beautifier](https://t.ly/tools/json-beautifier) - Use our free JSON Beautifier tool to format and beautify your JSON data quickly and easily. Perfect for developers and data analysts.
+- [JSON To CSV](https://t.ly/tools/json-to-csv) - Quickly convert JSON arrays into CSV files for spreadsheets, data analysis, or importing. Completely client-side.
+- [JSON to .env Converter](https://t.ly/tools/json-to-env) - Paste JSON and convert it into .env KEY=VALUE lines. Useful for app config, CI variables, and local development.
+- [JSON to JSON Schema](https://t.ly/tools/json-to-json-schema) - Paste JSON to generate a JSON Schema with required field detection, enum discovery, type inference, and draft version selection.
+- [JSON to Java Converter](https://t.ly/tools/json-to-java-converter) - Create Java classes with getters and setters that mirror your JSON payloads. Perfect for DTOs, models, and API clients.
+- [JSON to SQL Converter](https://t.ly/tools/json-to-sql-converter) - Paste JSON and download SQL INSERT statements ready for seed data, migrations, or debugging.
+- [JSON to YAML Converter](https://t.ly/tools/json-to-yaml-converter) - Translate JSON into YAML for docs, configuration files, or human-readable exports with one click.
+- [JSON to YAML Converter](https://t.ly/tools/json-to-yaml) - Translate JSON into YAML for docs, configuration files, or human-readable exports with one click.
+- [JWT Decoder](https://t.ly/tools/jwt-decoder) - A simple tool to decode and view the header, payload, and signature of your JWTs. Ideal for debugging and verifying token data.
+- [JWT Generator](https://t.ly/tools/jwt-generator) - Generate JWTs for authentication and secure data exchange. Configure headers, payload, and signatures in a matter of seconds.
+- [Java to JSON Converter](https://t.ly/tools/java-to-json-converter) - Paste Java POJOs to quickly produce representative JSON structures for documentation, mocks, or client work.
+- [JavaScript Beautifier](https://t.ly/tools/javascript-beautifier) - Format JavaScript instantly with indentation controls. Clean up messy JS for readability and reviews.
+- [JavaScript Minify Tool](https://t.ly/tools/javascript-minifier) - Paste JavaScript to minify it instantly with compression, mangling, and console stripping options.
+- [Markdown Preview](https://t.ly/tools/markdown-preview) - Paste Markdown and instantly preview the rendered output. Copy or download the generated HTML.
+- [Markdown to Google Docs Converter](https://t.ly/tools/markdown-to-google-docs-converter) - Convert Markdown into a Google Docs-ready .doc file in your browser. Download and upload to Google Docs in seconds.
+- [Markdown to HTML Converter](https://t.ly/tools/markdown-to-html-converter) - Convert Markdown to HTML with headings, lists, links, images, and code blocks preserved. Everything runs in your browser.
+- [Minify JSON](https://t.ly/tools/minify-json) - Remove whitespace from JSON and create compact payloads for embeds, storage, or transport.
+- [OpenAPI Viewer](https://t.ly/tools/openapi-viewer) - Paste OpenAPI YAML or JSON to render interactive docs with search, parameter tables, schemas, and a downloadable HTML doc page.
+- [Organize PDF](https://t.ly/tools/organize-pdf) - Organize PDF pages in your browser. Reorder, add, insert, replace, rotate, or delete pages, then download the updated PDF with no uploads.
+- [PDF Compare](https://t.ly/tools/pdf-compare) - Compare two PDFs page by page in your browser. Highlight visual differences, adjust tolerance, and review drafts privately with no uploads.
+- [PDF Merger](https://t.ly/tools/pdf-merger) - Use our free PDF Merger to quickly combine multiple PDF files into one. No installation, no server uploads—entirely client-side.
+- [PDF Splitter](https://t.ly/tools/pdf-splitter) - Split a PDF into separate page files in your browser. Download pages as a ZIP, keep files private, and avoid server uploads.
+- [PDF Watermarker](https://t.ly/tools/pdf-watermarker) - Add text watermarks to a PDF in your browser. Mark drafts, confidential files, or branded documents privately with no uploads.
+- [PDF to Excel Converter](https://t.ly/tools/pdf-to-excel) - Convert text-based PDF tables into an Excel spreadsheet in your browser. Extract rows, choose delimiters, and download XLSX privately with no uploads.
+- [PDF to JPG Converter](https://t.ly/tools/pdf-to-jpg-converter) - Convert each page of your PDF into high-quality JPG images entirely in your browser. Download individual pages or save everything as a ZIP archive.
+- [PDF to PNG Converter](https://t.ly/tools/pdf-to-png-converter) - Convert PDF pages to crisp PNG images in your browser. Preview pages, download single PNG files, or export every page in one ZIP with no uploads.
+- [PDF to Text Converter](https://t.ly/tools/pdf-to-text-converter) - Extract text from PDFs in your browser and download as .txt. Fast, private, and no uploads required.
+- [PDF to Word Converter](https://t.ly/tools/pdf-to-word) - Turn text-based PDFs into Word-compatible .doc files in your browser. Fast, private, and perfect for quick edits.
+- [Password Strength Checker](https://t.ly/tools/password-strength-checker) - Use our free Password Strength Checker to evaluate and improve your passwords. Get instant feedback and suggestions for stronger, more secure passwords.
+- [Protect PDF](https://t.ly/tools/protect-pdf) - Add a password to a PDF in your browser. Protect one or multiple PDFs, download the secured files, and keep documents private with no uploads.
+- [Regex Match Extractor](https://t.ly/tools/regex-extract-matches) - Extract every match from a block of text using regular expressions. Optionally include capture groups and export the results.
+- [Regex Replace Tool](https://t.ly/tools/regex-replace) - Paste text, enter a regex, and instantly run replacements with capture group support. Copy or download the updated output.
+- [Regex Tester](https://t.ly/tools/regex-tester) - Test and debug your regex expressions instantly. Perfect for developers and data analysts.
+- [Roman to Decimal Converter](https://t.ly/tools/roman-to-decimal) - Enter any valid Roman numeral and instantly see the decimal value. Perfect for proofreading outlines or reading historical references.
+- [Rotate PDF](https://t.ly/tools/rotate-pdf) - Rotate PDF pages left, right, or 180 degrees in your browser. Fix sideways scans, rotate selected pages, and download privately with no uploads.
+- [SQL Beautifier](https://t.ly/tools/sql-beautifier) - Use our free SQL Beautifier tool to format and beautify your SQL queries quickly and easily. Perfect for developers and database administrators.
+- [SQL Statistics Parser](https://t.ly/tools/sql-statistics-parser) - Paste SQL Server STATISTICS IO/TIME output to get clean per-table and per-statement totals, optional LOB merging, and one-click CSV/JSON export. Runs in your browser.
+- [SQL to CSV Converter](https://t.ly/tools/sql-to-csv-converter) - Paste SQL INSERT statements and instantly copy or download the equivalent CSV output for analytics tools and spreadsheets.
+- [SQL to JSON Converter](https://t.ly/tools/sql-to-json-converter) - Paste SQL INSERT batches and instantly obtain formatted JSON arrays for APIs, mocks, or documentation.
+- [SVG Optimizer](https://t.ly/tools/svg-optimizer) - Optimize SVG files in your browser with options to remove metadata, collapse groups, convert shapes, and strip hidden layers. See byte savings instantly.
+- [Sign PDF](https://t.ly/tools/sign-pdf) - Draw or upload a signature, place it on a PDF page, and download the signed file. Everything runs locally in your browser with no uploads.
+- [Stringify JSON](https://t.ly/tools/stringify-json) - Convert JSON objects into escaped string literals for embeds, environment variables, or code samples.
+- [UUID v7 Generator](https://t.ly/tools/uuid-v7-generator) - Generate UUID v7 (time-ordered) and UUID v4 values in bulk, and inspect UUIDs to see version, variant, and v7 timestamp. Runs locally.
+- [Unstringify JSON](https://t.ly/tools/unstringify-json) - Paste a JSON string literal and instantly view the parsed, formatted JSON for debugging and API tests.
+- [View Page Source](https://t.ly/tools/view-page-source) - View the HTML source of any webpage. Fetch, copy, and download raw HTML with word wrap and syntax highlighting.
+- [Webcam Tester](https://t.ly/tools/webcam-tester) - A tool to test your webcam. Select your device, view video streams, and access detailed device specifications.
+- [Webpage to Markdown](https://t.ly/tools/webpage-to-markdown) - Enter a webpage URL, fetch the HTML source, and convert it to clean Markdown with optional absolute links.
+- [Word to PDF Converter](https://t.ly/tools/word-to-pdf) - Convert DOCX files to PDF locally in your browser. Fast, private, and ideal for sharing drafts and reports.
+- [XML Formatter & Validator](https://t.ly/tools/xml-formatter-validator) - Instantly format and validate XML data with our free online tool. Ensure well-formed XML for your projects.
+- [XML Minifier](https://t.ly/tools/xml-minifier) - Minify XML documents to reduce payload size before transport or storage. Paste XML, remove whitespace, and copy the compact output instantly.
+- [XML to YAML Converter](https://t.ly/tools/xml-to-yaml-converter) - Paste XML and immediately receive a YAML representation for easier reading and editing.
+- [XML to YAML Converter](https://t.ly/tools/xml-to-yaml) - Paste XML and immediately receive a YAML representation for easier reading and editing.
+- [YAML Validator](https://t.ly/tools/yaml-validator) - Paste YAML and validate it instantly. Get helpful error messages and preview the parsed output as JSON.
+- [YAML to JSON Converter](https://t.ly/tools/yaml-to-json-converter) - Paste YAML data and receive ready-to-use JSON for APIs, infrastructure tools, or documentation.
+- [YAML to JSON Converter](https://t.ly/tools/yaml-to-json) - Paste YAML data and receive ready-to-use JSON for APIs, infrastructure tools, or documentation.
+- [YAML to XML Converter](https://t.ly/tools/yaml-to-xml-converter) - Convert YAML into XML on the fly, perfect for legacy integrations and interoperability testing.
+- [YAML to XML Converter](https://t.ly/tools/yaml-to-xml) - Convert YAML into XML on the fly, perfect for legacy integrations and interoperability testing.
+- [cURL Command Generator](https://t.ly/tools/curl-command-generator) - Create curl commands with a guided form for methods, headers, auth, body, cookies, and advanced options. Copy a ready-to-run command instantly.
+- [cURL Converter](https://t.ly/tools/curl-converter) - Paste a curl command to instantly generate snippets for JavaScript fetch, Axios, Node undici, Python requests, Go net/http, and PHP cURL.
+
+## QR Codes
+
+- [2D Bar Code Generator](https://t.ly/tools/gs1-bar-code-generator) - Create GS1 QR Codes with support for GTIN, expiration date, batch/lot number, serial number, and extended data. Perfect for product labeling, compliance, and supply chain tracking.
+- [App QR Code Generator](https://t.ly/tools/app-qr-code-generator) - Build QR codes that open App Store or Google Play listings, making it effortless to install your mobile app.
+- [Apple Music Link QR Code Generator](https://t.ly/tools/apple-music-link-qr-code-generator) - Generate QR codes for Apple Music content so listeners can stream with one scan.
+- [Attendance QR Code Generator](https://t.ly/tools/attendance-qr-code-generator) - Create QR codes that capture event names, times, and locations so attendees can check in effortlessly.
+- [Bar Code Generator](https://t.ly/tools/bar-code-generator) - Our Bar Code Generator provides robust validation and support for Code 128, EAN-13, UPC-A, and Code 39 formats. Generate, download, and share barcodes with confidence.
+- [Bitcoin QR Code Generator](https://t.ly/tools/bitcoin-qr-code-generator) - Create a Bitcoin URI QR code with an optional amount. Perfect for merchants, donations, or peer-to-peer transfers.
+- [Bulk QR Code Generator](https://t.ly/tools/bulk-qr-code-generator) - Create multiple QR codes at once with our Bulk QR Code Generator. Perfect for businesses, events, and marketing campaigns. No limits, no costs.
+- [Business Card QR Code Generator](https://t.ly/tools/business-card-qr-code-generator) - Create business card QR codes that save your name, title, phone, email, and address in one scan.
+- [Coupon QR Code Generator](https://t.ly/tools/coupon-qr-code-generator) - Build QR codes that show promo codes, discounts, expiration dates, and redemption URLs.
+- [Detail QR Code Generator](https://t.ly/tools/detail-qr-code-generator) - Create QR codes that display titled information blocks—perfect for exhibits, showrooms, and packaging.
+- [Discord QR Code Generator](https://t.ly/tools/discord-qr-code-generator) - Create QR codes that open Discord invite links so communities can join quickly.
+- [Dropbox QR Code Generator](https://t.ly/tools/dropbox-qr-code-generator) - Create QR codes that open Dropbox file and folder links for quick downloads or collaboration.
+- [E-Address QR Code Generator](https://t.ly/tools/e-address-qr-code-generator) - Create QR codes for electronic addresses, ENS names, or profile links with optional notes.
+- [Email QR Code Generator](https://t.ly/tools/email-qr-code-generator) - Generate a QR code that launches a mailto link with recipient, subject, and body pre-filled. Perfect for marketing campaigns, RSVPs, and contact forms.
+- [Event QR Code Generator](https://t.ly/tools/event-qr-code-generator) - Generate QR codes that produce downloadable ICS calendar events with title, time, and location.
+- [Eventbrite QR Code Generator](https://t.ly/tools/eventbrite-qr-code-generator) - Build QR codes that open your Eventbrite listing so people can register or buy tickets with ease.
+- [Facebook QR Code Generator](https://t.ly/tools/facebook-qr-code-generator) - Turn Facebook page URLs into QR codes for faster follows and engagement.
+- [File QR Code Generator](https://t.ly/tools/file-qr-code-generator) - Turn any hosted document into a QR code so people can download or view files immediately on their phones.
+- [Form QR Code Generator](https://t.ly/tools/form-qr-code-generator) - Create QR codes that open registration, feedback, or waiver forms immediately. Works with any URL.
+- [Free QR Code Generator](https://t.ly/tools/qr-code-generator) - Generate custom, trackable QR codes quickly and easily with our free QR Code Generator. Create, customize, and download high-quality QR codes today!
+- [Google Form QR Code Generator](https://t.ly/tools/g-form-qr-code-generator) - Create QR codes that open Google Forms for surveys, quizzes, or registrations.
+- [Instagram QR Code Generator](https://t.ly/tools/instagram-qr-code-generator) - Generate QR codes that open your Instagram profile instantly. Ideal for retail, events, and creator merch.
+- [LinkedIn QR Code Generator](https://t.ly/tools/linkedin-qr-code-generator) - Create QR codes that open your LinkedIn profile or company page. Ideal for networking events and resumes.
+- [Location QR Code Generator](https://t.ly/tools/location-qr-code-generator) - Build QR codes that open map apps with your latitude, longitude, and optional label.
+- [Newsletter QR Code Generator](https://t.ly/tools/newsletter-qr-code-generator) - Convert foot traffic into subscribers using QR codes that link to newsletter forms or landing pages.
+- [PayPal QR Code Generator](https://t.ly/tools/paypal-qr-code-generator) - Create QR codes that open your PayPal.me link with optional amount and note fields.
+- [Phone QR Code Generator](https://t.ly/tools/phone-qr-code-generator) - Generate a phone call QR code so scanners can dial your number immediately. Perfect for sales teams, support desks, and printed ads.
+- [Plain Text QR Code Generator](https://t.ly/tools/plain-text-qr-code-generator) - Create QR codes that display plain text, instructions, or welcome messages instantly. Ideal for signage, kiosks, and onboarding guides.
+- [Random QR Code Generator](https://t.ly/tools/random-qr-code-generator) - Create random QR codes for testing, educational purposes, or design exploration with this free and simple tool.
+- [Review QR Code Generator](https://t.ly/tools/review-qr-code-generator) - Link to Google, Yelp, or custom review pages so customers can leave feedback faster.
+- [SMS QR Code Generator](https://t.ly/tools/sms-qr-code-generator) - Create QR codes that open the messaging app with your phone number and message already filled in.
+- [Scan a QR Code](https://t.ly/tools/qr-code-scanner) - Scan QR codes directly from images with our easy-to-use online QR Code Scanner. Upload your image and decode QR content instantly.
+- [Snapchat QR Code Generator](https://t.ly/tools/snapchat-qr-code-generator) - Create QR codes that open your Snapchat profile instantly. Perfect for creator merch, packaging, and event signage.
+- [Social Link QR Code Generator](https://t.ly/tools/social-link-qr-code-generator) - Create QR codes for Instagram, TikTok, LinkedIn, and other social profiles with ease.
+- [Spotify QR Code Generator](https://t.ly/tools/spotify-qr-code-generator) - Create QR codes for Spotify URLs or URIs so listeners can play music, podcasts, or playlists instantly.
+- [Telegram QR Code Generator](https://t.ly/tools/telegram-qr-code-generator) - Generate QR codes that open Telegram profiles, channels, or bots with optional start parameters.
+- [TikTok QR Code Generator](https://t.ly/tools/tiktok-qr-code-generator) - Create QR codes that open your TikTok profile instantly. Perfect for creator merch and storefront displays.
+- [UPI QR Code Generator](https://t.ly/tools/upi-qr-code-generator) - Build UPI payment QR codes with recipient name, amount, and notes. Ideal for Indian businesses, creators, and fundraisers.
+- [Venmo QR Code Generator](https://t.ly/tools/venmo-qr-code-generator) - Generate QR codes that open Venmo with your username, amount, and optional note pre-filled.
+- [Vimeo QR Code Generator](https://t.ly/tools/vimeo-qr-code-generator) - Generate QR codes that link to Vimeo videos, showreels, or portfolios in seconds.
+- [WhatsApp QR Code Generator](https://t.ly/tools/whatsapp-qr-code-generator) - Build QR codes that open WhatsApp with your number and optional templated message.
+- [WiFi QR Code Generator](https://t.ly/tools/wifi-qr-code-generator) - Easily generate a WiFi QR code to let others connect to your network without typing passwords. Perfect for homes, businesses, cafés, and events.
+- [X (Twitter) QR Code Generator](https://t.ly/tools/x-qr-code-generator) - Generate QR codes that open your X (Twitter) profile or handle for immediate follows.
+- [YouTube QR Code Generator](https://t.ly/tools/youtube-qr-code-generator) - Create QR codes that open YouTube videos, channels, or playlists with one scan.
+- [Zelle QR Code Generator](https://t.ly/tools/zelle-qr-code-generator) - Create QR codes that display the email or phone number required to send you money via Zelle.
+- [Zoom QR Code Generator](https://t.ly/tools/zoom-qr-code-generator) - Create QR codes that open Zoom meetings or webinars. Include the meeting ID, passcode, or deep link.
+- [vCard QR Code Generator](https://t.ly/tools/vcard-qr-code-generator) - Easily generate a vCard QR code that adds your name, phone, email, and address to any contact list with a scan.
+
+## Random Generators
+
+- [2D Random Point Generator](https://t.ly/tools/random-2d-points-generator) - Generate random 2D points within any X and Y range. Copy results or preview the scatter plot.
+- [Calendar Date Generator](https://t.ly/tools/calendar-date-generator) - Generate random calendar dates between any start and end date. Copy results in ISO or long format.
+- [Clock Time Generator](https://t.ly/tools/clock-time-generator) - Generate random clock times between any start and end time, with 12-hour or 24-hour output.
+- [Coin Flip](https://t.ly/tools/coin-flip) - Flip one or many coins instantly with this free online coin toss tool. View results, track stats, see history, and clear totals—perfect for games, decisions, and experiments.
+- [Dice Roller](https://t.ly/tools/dice-roller) - Roll one or many dice with any number of sides. Get totals, copy results, and reroll in a click.
+- [Gaussian Random Number Generator](https://t.ly/tools/gaussian-random-number-generator) - Generate normally distributed random numbers with custom mean, standard deviation, and optional clamping.
+- [Keno Quick Pick](https://t.ly/tools/keno-quick-pick) - Generate Keno quick pick numbers with customizable ticket counts and sorted output.
+- [Lottery Quick Pick](https://t.ly/tools/lottery-quick-pick) - Create quick-pick lottery numbers with presets for major games or custom ranges. Generate multiple tickets at once.
+- [Name Picker Wheel](https://t.ly/tools/name-picker-wheel) - Use this free name picker wheel to enter names, spin, pick a random winner, remove winners, track history, and share a custom wheel link.
+- [Random Bitmap Generator](https://t.ly/tools/random-bitmap-generator) - Generate random bitmap images with adjustable size and scale. Download as a PNG in one click.
+- [Random Color Generator](https://t.ly/tools/random-color-generator) - Generate random colors for design inspiration, color palettes, or fun. Easily create vibrant color schemes with our free online tool.
+- [Random Country Generator](https://t.ly/tools/random-country-generator) - Use our Free Random Country Generator to discover countries around the globe for learning, fun, or creative projects. Quick, easy, and unlimited.
+- [Random Decimal Fraction Generator](https://t.ly/tools/random-decimal-fraction-generator) - Generate random decimal fractions between any minimum and maximum values with custom precision.
+- [Random Email Generator](https://t.ly/tools/random-email-generator) - Use our Free Random Email Generator to quickly create random email addresses for testing, mock data, or privacy purposes. Fast, easy, and completely free.
+- [Random Emoji Generator](https://t.ly/tools/random-emoji-generator) - Create random emojis for fun, design inspiration, or social media posts with this free and simple tool.
+- [Random Flag Generator](https://t.ly/tools/random-flag-generator) - Use our Free Random Flag Generator to create realistic flag designs for testing, education, or fun. Quick, easy, and unlimited.
+- [Random Geographic Coordinates](https://t.ly/tools/random-geographic-coordinates) - Generate random GPS coordinates anywhere in the world or within custom latitude and longitude ranges.
+- [Random Guid Generator](https://t.ly/tools/guid-generator) - Use our free GUID Generator to quickly create random GUIDs for unique identifiers in software development and database management.
+- [Random Hex Color Generator](https://t.ly/tools/random-hex-color-generator) - Generate random hex color codes for design, UI mockups, or creative inspiration.
+- [Random IP Generator](https://t.ly/tools/random-ip-generator) - Use our Free Random IP Generator to quickly create IPv4 and IPv6 addresses. Perfect for developers, testers, and network admins. No limits, no costs.
+- [Random Integer Generator](https://t.ly/tools/random-integer-generator) - Generate random integers between any minimum and maximum values. Great for games, simulations, and quick picks.
+- [Random Integer Set Generator](https://t.ly/tools/random-integer-set-generator) - Create a set of unique random integers with no duplicates. Ideal for draws, picks, and sampling.
+- [Random Letter Generator](https://t.ly/tools/random-letter-generator) - Generate random letters (A–Z) with uppercase, lowercase, or mixed case. Exclude specific characters, prevent duplicates, copy results, or download them.
+- [Random Mac Address Generator](https://t.ly/tools/random-mac-address) - Generate random MAC addresses quickly and easily. Choose between colon or dash separators and copy results to your clipboard.
+- [Random Number Generator](https://t.ly/tools/random-number-generator) - Use our free Random Number Generator to instantly create random numbers for games, simulations, or statistical analysis.
+- [Random Phone Number Generator](https://t.ly/tools/random-phone-number) - Use our Free Random Phone Number Generator to create realistic, fake phone numbers for testing and development. No limits, no costs, and customizable formats.
+- [Random Sequence Generator](https://t.ly/tools/random-sequence-generator) - Generate random sequences (permutations) of integers with no repeats, optional sorting, and copy-ready output.
+- [Random String Generator](https://t.ly/tools/random-string-generator) - Use our free Random String Generator to instantly create random strings for games, simulations, or statistical analysis.
+- [Random Word Generator](https://t.ly/tools/random-word-generator) - Use our free Random Word Generator to quickly generate random words for brainstorming, writing, or improving creativity.
+- [Random Year Generator](https://t.ly/tools/random-year-generator) - Quickly generate random years for trivia, education, or creative projects. Free and easy to use!
+- [Yes Or No Wheel](https://t.ly/tools/yes-or-no-wheel) - Use the Yes Or No Wheel to make instant decisions. Perfect for fun, group activities, or quick personal choices.
+
+## Security Tools
+
+- [Bcrypt Hash Generator](https://t.ly/tools/bcrypt-hash-generator) - Hash strings with bcrypt and verify hashes client‑side. Configure salt rounds for desired cost.
+- [Bcrypt Verify](https://t.ly/tools/bcrypt-verify) - Verify whether a given text matches an existing bcrypt hash. Useful for debugging and testing auth flows.
+- [CSP Header Generator](https://t.ly/tools/csp-header-generator) - Generate a Content-Security-Policy (CSP) header or meta tag from common directives like default-src, script-src, and img-src. Copy-ready output.
+- [HMAC Generator & Verifier](https://t.ly/tools/hmac-generator) - Generate HMAC signatures (hex, base64, base64url) using SHA-256 or SHA-512. Verify signatures for webhook payloads. Runs locally in your browser.
+- [Link Checker](https://t.ly/tools/link-checker) - Check if a URL is safe before you visit it. Detect malware, fake websites, and phishing attacks.
+- [Link Shield](https://linkshieldapi.com/) - Protect your users and systems with Link Shield, an AI-powered API that detects and blocks malicious URLs, ensuring secure online browsing and safe link sharing.
+- [MD5 Hash Generator](https://t.ly/tools/md5-hash-generator) - Generate secure MD5 hashes for any text instantly with our MD5 Hash Generator. Try it now for free and ensure data integrity!
+- [PDF Metadata Scrubber](https://t.ly/tools/pdf-metadata-scrubber) - Remove identifying metadata from PDF files locally. No uploads required—everything happens in your browser.
+- [Password Generator](https://t.ly/tools/password-generator) - Use our free Password Generator to create strong and random passwords for your online accounts, ensuring maximum security and peace of mind.
+- [Random Bytes Generator](https://t.ly/tools/random-bytes) - Generate cryptographically strong random bytes using the Web Crypto API. Output in hex or Base64 for keys, tokens, and seeds.
+- [SHA1 Hash Generator](https://t.ly/tools/sha1-hash-generator) - Generate SHA-1 hash values for any text. Useful for legacy systems, checksums, and quick comparisons.
+- [SHA256 Hash Generator](https://t.ly/tools/sha256-hash-generator) - Generate secure SHA256 hash values for any text. Perfect for data integrity and encryption tasks.
+- [SHA512 Hash Generator](https://t.ly/tools/sha512-hash-generator) - Generate SHA-512 hash values for any text. Ideal for strong integrity checks and cryptographic workflows.
+- [SPF Record Flattener](https://t.ly/tools/spf-record-flattener) - Flatten SPF records by expanding include chains, reviewing DNS lookups, and exporting a simplified policy.
+- [SRI Hash Generator](https://t.ly/tools/sri-hash-generator) - Generate Subresource Integrity (SRI) hashes (sha256/sha384/sha512) for scripts and stylesheets. Outputs integrity="sha384-..." ready to paste.
+- [SSL Checker](https://t.ly/tools/ssl-checker) - Check your website's SSL certificate for expiration dates, common name, and validity. Ensure a secure and trusted experience for your users.
+
+## Text Tools
+
+- [Binary To Text](https://t.ly/tools/binary-to-text) - Use our free Binary to Text Converter to quickly and accurately decode binary numbers into readable text. Perfect for decoding and understanding binary data.
+- [Case Converter](https://t.ly/tools/case-converter) - Paste text and flip between sentence, title, upper, lower, camel, snake, kebab, and other cases without retyping.
+- [Character Counter](https://t.ly/tools/character-count) - Use our free Character Counter to quickly count characters, words, and lines in any text. Perfect for writers, students, and anyone needing quick text metrics.
+- [Count Letter Frequency](https://t.ly/tools/letter-frequency) - Easily calculate the frequency of letters in any text. Ideal for writers, educators, and anyone analyzing text patterns.
+- [Delete All Whitespace Characters](https://t.ly/tools/remove-all-whitespace) - Efficiently remove all whitespace characters including spaces, tabs, and line breaks from your text with our free online tool.
+- [Delete Whitespace Characters](https://t.ly/tools/delete-whitespace-characters) - Choose which whitespace characters to delete or keep. Remove spaces, tabs, newlines, non-breaking spaces, and more in one pass.
+- [Extract Emails From Text](https://t.ly/tools/extract-emails-from-text) - Use our Extract Emails From Text tool to instantly find and extract all email addresses from a block of text.
+- [Extract URLs From Text](https://t.ly/tools/extract-urls-from-text) - Use our Extract URLs From Text tool to instantly find and extract all URLs from a block of text. Perfect for data extraction and link analysis.
+- [Fancy Text Generators](https://t.ly/tools/fancy-text-generators) - Transform text into playful Unicode styles including upside-down, bubble letters, zalgo, and fancy script. Copy each style instantly.
+- [Find And Replace](https://t.ly/tools/find-and-replace) - Quickly find and replace words or phrases in text with our easy-to-use tool. Ideal for making bulk text edits effortlessly.
+- [Invert Case Tool](https://t.ly/tools/text-invert-case) - Invert the letter case of any text block. Great for fixing accidental caps lock or crafting playful copy.
+- [Line Counter](https://t.ly/tools/line-count) - Paste text and instantly see line counts, empty vs. non-empty lines, and average length. No downloads or scripts needed.
+- [List Randomizer](https://t.ly/tools/list-randomizer) - Free list randomizer (list ramdomizer) to shuffle entries, pick winners, remove duplicates, and copy a fair order in seconds.
+- [Lorem Ipsum Generator](https://t.ly/tools/lorem-ipsum-generator) - Generate lorem ipsum paragraphs for website mockups, design placeholders, or general text filler with just one click.
+- [Lowercase Text Converter](https://t.ly/tools/text-lowercase) - Convert any text to lowercase in the browser. Perfect for normalizing usernames, slugs, or casual copy.
+- [Morse Code Translator](https://t.ly/tools/morse-code-translator) - Quickly translate text to Morse code and decode Morse code back to text with our simple Morse Code Translator tool.
+- [Number to Words Converter](https://t.ly/tools/number-to-words-converter) - Convert integers or decimals into English words. Useful for finance, legal, voice scripts, and accessibility prompts.
+- [ROT13 Converter](https://t.ly/tools/rot13) - Transform text with the ROT13 cipher directly in your browser. Paste text, see the converted result, and copy it in one click.
+- [ROT47 Converter](https://t.ly/tools/rot47) - Convert text with the ROT47 cipher. Supports all printable ASCII characters for quick obfuscation or decoding tasks.
+- [Readability Score Analyzer](https://t.ly/tools/readability-score-analyzer) - Paste content to calculate Flesch Reading Ease, grade levels, and complexity stats for instant editing guidance.
+- [Remove Duplicate Keywords](https://t.ly/tools/remove-duplicate-keywords) - Easily remove duplicate keywords from your lists to improve organization and SEO performance.
+- [Remove Duplicate Lines](https://t.ly/tools/remove-duplicate-lines) - Remove duplicate entries from your lists quickly and efficiently with the Remove Duplicate Lines Tool.
+- [Remove Extra Spaces](https://t.ly/tools/remove-extra-spaces) - Quickly remove extra spaces from text with our easy-to-use tool. Perfect for cleaning up formatting and improving readability.
+- [Remove Line Breaks](https://t.ly/tools/remove-line-breaks) - Use our Remove Line Breaks tool to instantly clean up your text by removing unwanted line breaks
+- [Remove Lines Containing](https://t.ly/tools/remove-lines-containing) - Quickly clean your lists or documents by removing lines containing specific keywords or phrases with this free tool.
+- [Remove Special Characters](https://t.ly/tools/remove-special-characters) - Remove special characters instantly with this tool. Clean your text by eliminating symbols, punctuation, and other non-alphanumeric characters.
+- [SRT to VTT Converter](https://t.ly/tools/srt-to-vtt) - Convert SRT subtitle files to WEBVTT format in seconds. Paste or upload captions and download a ready-to-use .vtt file.
+- [Sentence Counter](https://t.ly/tools/sentence-counter) - Use our Sentence Counter tool to accurately count the number of sentences in any text. Ideal for writers, students, and professionals.
+- [Shuffle Letters](https://t.ly/tools/shuffle-letters) - Randomly reorder characters in each line of text to create playful scrambled strings.
+- [Shuffle Words](https://t.ly/tools/shuffle-words) - Paste text and instantly shuffle the word order for creative writing, testing, or fun prompts.
+- [String and Text Repeater](https://t.ly/tools/text-repeat) - Quickly repeat text or strings multiple times with options for formatting, including line breaks. Perfect for developers, writers, and data preparation.
+- [Text Compare](https://t.ly/tools/text-diff-checker) - Compare text online with a GitHub-style diff viewer. Paste text or drop a file to highlight added, removed, and changed lines.
+- [Text Length Calculator](https://t.ly/tools/text-length) - Accurately calculate the character, word, and line count in your text using our Text Length tool. Perfect for writers, developers, and students.
+- [Text Reverser](https://t.ly/tools/text-reverse) - Reverse your text instantly with the Text Reverser tool. Simply enter your text and see the reversed output.
+- [Text To Binary](https://t.ly/tools/text-to-binary) - Use our free Text to Binary Converter to quickly and accurately encode text into binary format.
+- [Text to ASCII Converter](https://t.ly/tools/text-to-ascii) - Convert any text or string into ASCII values with this simple and free Text to ASCII Converter tool. Perfect for developers, students, and data analysis.
+- [Title Case Converter](https://t.ly/tools/text-titlecase) - Convert sentences to Title Case (aka headline case) right in your browser. Copy the formatted output in a click.
+- [Trim Whitespace Tool](https://t.ly/tools/text-trim) - Trim whitespace from text, optionally per line, and collapse blank lines. Perfect for preparing content before sharing or importing.
+- [Uppercase Text Converter](https://t.ly/tools/text-uppercase) - Paste text and convert it to uppercase immediately. Copy the result to use in emails, social posts, and design mockups.
+- [VTT to SRT Converter](https://t.ly/tools/vtt-to-srt) - Convert WEBVTT subtitle files to SRT format in seconds. Paste text or upload a .vtt file and download the result.
+- [Word Cloud Generator](https://t.ly/tools/word-cloud-generator) - Generate beautiful word clouds with our free online Word Cloud Generator. Perfect for presentations, creative projects, and analyzing text data.
+- [Word Counter](https://t.ly/tools/word-counter) - Use our free Word Counter tool to quickly count the number of words in any text. Ideal for writers, students, and professionals who need accurate word counts.
+- [Words to Number Converter](https://t.ly/tools/words-to-number-converter) - Convert written-out numbers such as “forty-two point five” into digits. Great for transcription, QA, and accessibility use cases.
+
+## URL Tools
+
+- [Bulk URL Opener](https://t.ly/tools/bulk-url-opener) - Easily open multiple URLs at once using our Bulk URL Opener tool. Save time and improve efficiency with instant link launching.
+- [Slug Generator](https://t.ly/tools/slug-generator) - Quickly convert titles and text into clean, lowercase, URL‑friendly slugs. Customize delimiter, trimming, and length.
+- [URL Decoder](https://t.ly/tools/url-decoder) - Use our free online URL Decoder tool to decode percent-encoded URLs instantly. Fast, secure, and privacy-focused client-side decoding.
+- [URL Encoder](https://t.ly/tools/url-encoder) - Quickly encode text into percent-encoded URLs with our free online URL Encoder tool. Safe, secure, and privacy-focused encoding.
+- [URL Parser](https://t.ly/tools/url-parser) - Use our URL Parser tool to break down URLs into parts like protocol, hostname, port, path, query parameters, and more
+
+## Utilities
+
+- [Age Calculator](https://t.ly/tools/age-calculator) - Use our free Age Calculator to find out exactly how old you are in years, months, and days. Perfect for quick checks and birthday planning.
+- [Area Converter](https://t.ly/tools/area-converter) - Switch between square meters, square feet, acres, hectares, and more.
+- [Browser Info & Debug Tool](https://t.ly/tools/browser-info-debug) - Quickly discover user agent, screen size, cookies enabled, and other debug info about your browser. Ideal for troubleshooting and QA.
+- [Business Days Calculator](https://t.ly/tools/business-days-calculator) - Calculate business days (weekdays) between two dates, optionally excluding US federal holidays. Also add or subtract business days to find due dates.
+- [CSV to Excel Converter](https://t.ly/tools/csv-to-excel-converter) - Paste or edit CSV data and download a ready-to-share Excel workbook with custom sheet names. Everything runs in the browser.
+- [Calculate Number Sum](https://t.ly/tools/calculate-number-sum) - Paste numbers separated by commas, spaces, or new lines to get totals, averages, and quick stats in one view.
+- [Celsius To Fahrenheit Converter](https://t.ly/tools/celsius-to-fahrenheit-converter) - Convert Celsius to Fahrenheit effortlessly using our accurate and fast online converter. Ideal for travel, cooking, and scientific use.
+- [Clipboard Test](https://t.ly/tools/clipboard-test) - Test browser clipboard support, copy a sample string, and verify paste behavior in one quick utility.
+- [Cm To Feet Converter](https://t.ly/tools/cm-to-feet-converter) - Convert centimeters to feet and inches instantly with our easy-to-use converter. Perfect for height measurements and unit conversions.
+- [Date to Epoch Converter](https://t.ly/tools/date-to-epoch-converter) - Convert a local date and time into epoch seconds or milliseconds instantly.
+- [Dead Pixel Test](https://t.ly/tools/dead-pixel-test) - Run a dead pixel test in your browser. Use full screen solid colors, gradients, and patterns to find stuck or dead pixels on your display.
+- [Digital Storage Converter](https://t.ly/tools/storage-converter) - Convert digital storage sizes accurately across bits, bytes, KB, MB, GB, and TB.
+- [Duplicate Image](https://t.ly/tools/duplicate-image) - Upload an image, choose how many copies you need, and download identical files with indexed names.
+- [Epoch to Date Converter](https://t.ly/tools/epoch-to-date-converter) - Convert epoch timestamps in seconds or milliseconds to local time, UTC, and ISO 8601 formats.
+- [Excel to CSV Converter](https://t.ly/tools/excel-to-csv-converter) - Upload an Excel workbook and instantly receive a CSV export you can copy, download, or feed into automation scripts.
+- [Fahrenheit To Celsius Converter](https://t.ly/tools/fahrenheit-to-celsius-converter) - Use our Fahrenheit to Celsius converter to quickly and accurately convert temperatures. Perfect for cooking, weather, and science applications.
+- [Feet To Cm Converter](https://t.ly/tools/feet-to-cm-converter) - Convert feet to centimeters instantly with our simple converter. Ideal for height conversions and accurate unit measurements.
+- [Find Image Dimensions](https://t.ly/tools/find-image-dimensions) - Upload one or more images to see their pixel dimensions, file type, and size—all processed locally.
+- [HTML to PDF Converter](https://t.ly/tools/html-to-pdf-converter) - Convert HTML into a print-friendly PDF without external services. Control page size, margins, headings, lists, code blocks, and more.
+- [IP Subnet Calculator](https://t.ly/tools/ip-subnet-calculator) - Enter an IPv4 address with a subnet mask or CIDR and get the network address, broadcast, usable range, and host count without doing the math yourself.
+- [Keyboard Tester](https://t.ly/tools/keyboard-tester) - Test your keyboard keys in the browser. See keydown/keyup events, pressed keys, and event.code values to debug layouts and stuck keys.
+- [Length Converter](https://t.ly/tools/length-converter) - Translate distance measurements across meters, kilometers, feet, inches, miles, yards, and more in a single click.
+- [Live Speech Translator](https://t.ly/tools/speech-translator) - Translate live speech into large on-screen captions in Google Chrome. Choose spoken and display languages, use fullscreen mode, and keep everything local when supported.
+- [Microphone Tester](https://t.ly/tools/microphone-tester) - Test your microphone in the browser. View live input level and waveform, switch devices, and record a short sample locally.
+- [Mouse Tester](https://t.ly/tools/mouse-tester) - Test mouse buttons and wheel input in the browser. Track clicks, pressed buttons, pointer movement, and scroll deltas in a dedicated test area.
+- [Percentage Calculator](https://t.ly/tools/percentage-calculator) - Calculate percentages, increase, and decrease instantly. Perfect for finance, shopping, or general math tasks.
+- [Speaker Test](https://t.ly/tools/speaker-test) - Test your speakers and headphones with a browser-based tone/noise generator. Play left, right, or both channels and adjust volume.
+- [Speed Converter](https://t.ly/tools/speed-converter) - Translate between meters per second, kilometers per hour, miles per hour, and knots.
+- [Temperature Converter](https://t.ly/tools/temperature-converter) - Switch between Celsius, Fahrenheit, and Kelvin values with precise rounding.
+- [Time Converter](https://t.ly/tools/time-converter) - Convert durations across days, hours, minutes, seconds, and milliseconds.
+- [Typing Speed Test](https://t.ly/tools/typing-speed-test) - Practice and measure your typing speed (WPM) with our free online typing test. Build up your keyboarding skills.
+- [Unix Timestamp Converter](https://t.ly/tools/unix-timestamp-converter) - Convert UNIX timestamps in seconds or milliseconds to UTC/local date strings and generate epoch values from dates.
+- [Volume Converter](https://t.ly/tools/volume-converter) - Convert between liters, gallons, cups, and other common volume measurements.
+- [Web Video Player](https://t.ly/tools/simple-video-player) - Play local video files in your browser with subtitles, keyboard controls, and up to 400% volume boost. Files stay on your device.
+- [Weight Converter](https://t.ly/tools/weight-converter) - Calculate equivalents between kilograms, grams, pounds, ounces, and more with instant feedback.
+- [What Is My IP Address](https://t.ly/tools/what-is-my-ip) - Find your public IPv4 or IPv6 address instantly. See approximate location, ISP, ASN, organization, and VPN or proxy detection details.
+- [What Is My User Agent?](https://t.ly/tools/what-is-my-user-agent) - Quickly see and copy your browser's User-Agent string. Useful for debugging, support, and environment reporting.
+- [YouTube Transcript Extractor](https://t.ly/tools/youtube-transcript-extractor) - Paste a YouTube link, pick a caption language, and copy or export the transcript in seconds. Perfect for research, repurposing, and note taking.
+
+## Website Tools
+
+- [Open Graph Screenshot](https://t.ly/tools/open-graph-screenshot) - Generate a 1200x630 Open Graph share image screenshot from any URL. Download or copy the image instantly.
+- [Screenshot Website](https://t.ly/tools/screenshot-website) - Free Online website screenshot service that takes a full page screenshot. Enter any URL and receive a high-quality screenshot in seconds.
+
+## AI & LLMs
+- [LLM Tokenizer Visualizer](https://flaviocopes.com/tools/tokenizer-visualizer/) - See the real BPE tokens, token IDs, and character ratio for pasted text.
+- [MCP Config Generator](https://flaviocopes.com/tools/mcp-config-generator/) - Build Cursor and Claude MCP configurations for stdio, SSE, and HTTP servers.
+- [AGENTS.md Generator](https://flaviocopes.com/tools/agents-md-generator/) - Generate concise AGENTS.md or CLAUDE.md project instructions from a questionnaire.
+- [Inference Cost Calculator](https://flaviocopes.com/tools/inference-cost/) - Estimate your monthly LLM inference bill and compare models across OpenAI, Anthropic, Google, and more.
+- [Token Counter & Prompt Cost](https://flaviocopes.com/tools/token-cost/) - Paste a prompt, get an approximate token count and what it costs as input across every major LLM.
+- [AI Subscription vs API](https://flaviocopes.com/tools/ai-subscription-vs-api/) - Is ChatGPT Plus or Claude Pro worth it vs paying per token? Find your break-even point.
+- [Context Window Fit Checker](https://flaviocopes.com/tools/context-window-fit/) - Paste your prompt stack and see which LLMs fit — with a bar showing how much of each model’s context window you use.
+- [Prompt Cost Diff](https://flaviocopes.com/tools/prompt-cost-diff/) - Compare two prompt variants: token delta and dollar savings per model, per call and per month.
+- [Embeddings Cost Estimator](https://flaviocopes.com/tools/embeddings-cost/) - Estimate embedding API cost, chunk counts, vector storage size, and rough monthly bills for your corpus.
+- [LLM Latency Calculator](https://flaviocopes.com/tools/llm-latency/) - Estimate LLM response time by output length — compare time to first token and total wait across models.
+- [AI Agent Cost Visualizer](https://flaviocopes.com/tools/agent-cost/) - See how multi-step agent runs get expensive as context grows each step — per-step cost table with monthly totals.
+- [Model Tier Quiz](https://flaviocopes.com/tools/model-tier-quiz/) - Seven questions to pick budget, workhorse, or flagship LLM tier — with honest advice to start cheap.
+- [Fine-Tuning vs RAG vs Prompting](https://flaviocopes.com/tools/finetune-rag-prompt/) - Seven questions to pick fine-tuning, RAG, or prompt engineering — with honest cost ranges and anti-recommendations.
+- [System Prompt Linter](https://flaviocopes.com/tools/system-prompt-linter/) - Lint system prompts in your browser: contradictions, vague wording, missing format spec, wasted tokens. Rule-based, not AI.
+- [Sample App Idea Generator](https://flaviocopes.com/tools/app-idea-generator/) - Get a web app idea to build for practice or a tutorial: curated ideas with features, or generate a fresh one with AI.
+- [GPU / VRAM Calculator for Local LLMs](https://flaviocopes.com/tools/llm-vram/) - Estimate VRAM for quantized weights plus KV cache, and see which RTX cards and Apple Silicon tiers fit your model.
+- [Local LLM vs API Break-Even](https://flaviocopes.com/tools/local-vs-api/) - Buy a GPU or pay per token? Amortized hardware + electricity vs API pricing, with the break-even point in months.
+- [RAG Chunk Size Calculator](https://flaviocopes.com/tools/rag-chunks/) - Chunk count, embedding cost, vector storage size, and whether top-k retrieved chunks actually fit your context window.
+- [llms.txt Generator](https://flaviocopes.com/tools/llms-txt/) - Generate an llms.txt file for your site — a curated markdown index that helps LLMs and AI crawlers understand your content.
+## JavaScript & TypeScript
+- [JSON Tree Visualizer](https://flaviocopes.com/tools/json-visualizer/) - Explore JSON as a searchable, collapsible tree with paths, details, and statistics.
+- [Regex Tester & Explainer](https://flaviocopes.com/tools/regex-tester/) - Test regular expressions with live match highlighting and a plain-English breakdown of the pattern.
+- [JSON Formatter & Validator](https://flaviocopes.com/tools/json-formatter/) - Validate, pretty-print, and minify JSON with clear error messages. Runs entirely in your browser.
+- [JWT Decoder](https://flaviocopes.com/tools/jwt-decoder/) - Decode JSON Web Tokens client-side: header, payload, claims explained, and expiry status. Nothing leaves your browser.
+- [JSON to TypeScript](https://flaviocopes.com/tools/json-to-typescript/) - Paste JSON and generate TypeScript interfaces with nested types and optional keys — entirely in your browser.
+- [JS Date Formatter](https://flaviocopes.com/tools/js-date-format/) - Pick locale and date parts, see live Intl output, and copy snippets for Intl, date-fns, or Temporal.
+- [JS Equality Explorer](https://flaviocopes.com/tools/js-equality/) - Compare two values with ==, ===, and Object.is — see the coercion steps and classic gotcha presets.
+- [Number Format Playground](https://flaviocopes.com/tools/number-format/) - Tweak Intl.NumberFormat options for locale, currency, and notation — live output plus a copy-paste snippet.
+- [String Case Converter](https://flaviocopes.com/tools/string-case/) - Convert one string to camelCase, snake_case, kebab-case, and six more cases with copy buttons per row.
+- [URL Parser & Builder](https://flaviocopes.com/tools/url-parser/) - Paste a URL to see every part labeled — protocol, host, path, query params, hash. Edit any piece and copy the result.
+- [Encode / Decode](https://flaviocopes.com/tools/encode-decode/) - Encode or decode Base64, URL components, and HTML entities in your browser. Unicode-safe Base64 included.
+- [ID Generator](https://flaviocopes.com/tools/id-generator/) - Generate UUID v4, nanoid, or ULID strings in your browser — with collision-probability math for nanoid.
+- [Event Loop Visualizer](https://flaviocopes.com/tools/event-loop/) - Step through JavaScript event loop examples: call stack, microtask queue, macrotask queue, and console output.
+- [tsconfig.json Generator](https://flaviocopes.com/tools/tsconfig-generator/) - Answer six questions and get a commented tsconfig.json for TypeScript 5.x — browser, Node, or library setups.
+- [String Escape / Unescape](https://flaviocopes.com/tools/string-escape/) - Escape and unescape JavaScript strings, JSON strings, hex bytes, and Unicode sequences — with a swap button.
+- [String Inspector](https://flaviocopes.com/tools/string-inspector/) - Why .length lies: UTF-16 units vs code points vs graphemes vs UTF-8 bytes, plus hidden-character detection and clean copy.
+- [Number Base Converter](https://flaviocopes.com/tools/number-base/) - Live conversion between binary, octal, decimal, and hex — BigInt-backed, with two’s complement and a nibble explainer.
+- [Array Method Chooser](https://flaviocopes.com/tools/array-method-chooser/) - Pick a goal, get the right array method with a snippet, mutating badges, gotchas, and a searchable full reference.
+- [Promise Combinator Chooser](https://flaviocopes.com/tools/promise-combinators/) - Promise.all vs allSettled vs race vs any — answer three questions, then watch simulated promises settle on a timeline.
+- [Date Duration Calculator](https://flaviocopes.com/tools/date-duration/) - Diff two dates, add or subtract durations, or count down — with business days and vanilla/date-fns/Temporal snippets.
+- [Sort Comparator Builder](https://flaviocopes.com/tools/sort-comparator/) - Build multi-key JS sort comparators visually, preview on your JSON, and copy clean compare functions.
+- [UUID Inspector](https://flaviocopes.com/tools/uuid-inspector/) - Paste a UUID or ULID: version, variant, embedded timestamps decoded — and why v7 is the DB-friendly choice.
+- [JWT Generator & Signer](https://flaviocopes.com/tools/jwt-signer/) - Build and sign HS256 JWTs with Web Crypto, or verify a token against a secret. Secrets never leave your browser.
+- [JSON to Zod Schema](https://flaviocopes.com/tools/json-to-zod/) - Paste JSON, get a Zod v4 schema — nested objects, unions, nullable fields, optional email and datetime detection.
+- [JSON Schema Validator](https://flaviocopes.com/tools/json-schema-validator/) - Validate a JSON document against a JSON Schema in your browser — every error with its path, keyword, and message.
+- [TypeScript Utility Types Explorer](https://flaviocopes.com/tools/ts-utility-types/) - Partial, Pick, Omit, Record, ReturnType and friends — before/after examples, when to use each, and how they work.
+- [JSONPath Tester](https://flaviocopes.com/tools/jsonpath-tester/) - Test JSONPath expressions against your JSON — wildcards, recursive descent, slices, and filters, with matched paths shown.
+- [Keyboard Event Codes](https://flaviocopes.com/tools/keyboard-events/) - Press any key and see event.key, event.code, and modifiers live — with a reference table and copy-ready JS snippets.
+- [ESLint Flat Config Generator](https://flaviocopes.com/tools/eslint-config/) - Answer a few questions, get a commented eslint.config.js for JS or TS, React, Vue, or Astro — plus the exact install command.
+- [Vite Config Generator](https://flaviocopes.com/tools/vite-config/) - Generate a commented vite.config.ts with path aliases, dev proxy, build options, and Vitest setup for your framework.
+## Tailwind CSS
+- [Tailwind Page Layout Generator](https://flaviocopes.com/tools/tailwind-layout-templates/) - Generate responsive dashboard, marketing, split-screen, holy-grail, and centered app layouts.
+- [Tailwind Grid Builder](https://flaviocopes.com/tools/tailwind-grid-builder/) - Build responsive grids visually and copy the Tailwind classes and HTML.
+- [Tailwind Flexbox Builder](https://flaviocopes.com/tools/tailwind-flexbox-builder/) - Configure direction, wrapping, alignment, justification, and gaps with a live preview.
+- [Tailwind Container Query Builder](https://flaviocopes.com/tools/tailwind-container-queries/) - Build and preview responsive components using @container and Tailwind container variants.
+- [Tailwind v4 Theme Generator](https://flaviocopes.com/tools/tailwind-theme-generator/) - Create CSS-first @theme tokens for colors, fonts, spacing, and breakpoints.
+- [Tailwind Button Generator](https://flaviocopes.com/tools/tailwind-button-generator/) - Design accessible buttons and copy Tailwind classes with hover, focus, and disabled states.
+- [Tailwind Form Generator](https://flaviocopes.com/tools/tailwind-form-generator/) - Generate accessible Tailwind form fields with labels, help text, errors, and focus styles.
+- [Tailwind Card Generator](https://flaviocopes.com/tools/tailwind-card-generator/) - Build cards and responsive card grids with optional images, headers, bodies, and footers.
+- [Tailwind Table Generator](https://flaviocopes.com/tools/tailwind-table-generator/) - Create responsive tables with stripes, borders, compact spacing, and sticky headers.
+- [Tailwind to CSS Converter](https://flaviocopes.com/tools/tailwind-to-css/) - Translate common Tailwind utilities into CSS and flag unsupported classes.
+- [Tailwind v3 to v4 Migration Helper](https://flaviocopes.com/tools/tailwind-v3-to-v4/) - Find renamed utilities and CSS configuration patterns that need updating for Tailwind v4.
+- [Tailwind Class Sorter](https://flaviocopes.com/tools/tailwind-class-sorter/) - Sort and deduplicate Tailwind classes while spotting obvious utility conflicts.
+- [Tailwind Class Conflict Debugger](https://flaviocopes.com/tools/tailwind-class-conflicts/) - See which utilities target the same CSS property and which class wins.
+- [Tailwind Dark Mode Helper](https://flaviocopes.com/tools/tailwind-dark-mode/) - Add suggested dark: variants to common light-mode classes and preview the result.
+- [Tailwind Color Picker](https://flaviocopes.com/tools/tailwind-color-picker/) - Browse the Tailwind v4 palette or find the nearest utility for any hex color.
+- [Tailwind Shadow Generator](https://flaviocopes.com/tools/tailwind-shadow-generator/) - Build layered shadows and export arbitrary classes or Tailwind v4 theme tokens.
+- [Tailwind Typography Scale](https://flaviocopes.com/tools/tailwind-typography-scale/) - Generate a modular type scale with Tailwind v4 font-size and line-height tokens.
+- [Tailwind Spacing Scale](https://flaviocopes.com/tools/tailwind-spacing-scale/) - Look up spacing utilities visually and generate a custom Tailwind v4 spacing scale.
+- [Tailwind Breakpoint Tester](https://flaviocopes.com/tools/tailwind-breakpoint-tester/) - Test viewport widths and see which responsive Tailwind variants are active.
+- [Interactive Tailwind Cheat Sheet](https://flaviocopes.com/tools/tailwind-cheat-sheet/) - Search and filter a practical reference of common Tailwind v4 utilities.
+## CSS & HTML
+- [Favicon & App Icon Generator](https://flaviocopes.com/tools/favicon-generator/) - Turn an image, emoji, or text into PNG icons, a favicon.ico file, and manifest markup.
+- [CSS Clip-Path Generator](https://flaviocopes.com/tools/clip-path-generator/) - Draw polygons or configure circle, ellipse, and inset shapes with a live CSS preview.
+- [Open Graph Image Generator](https://flaviocopes.com/tools/og-image-generator/) - Create and download a 1200×630 social preview image entirely in your browser.
+- [CSS Filter Generator](https://flaviocopes.com/tools/css-filter-generator/) - Build filter and backdrop-filter effects using sliders, presets, and a live preview.
+- [Scroll-Driven Animation Generator](https://flaviocopes.com/tools/scroll-animations/) - Generate CSS view and scroll timeline animations with live reveal, progress, and parallax demos.
+- [JSON-LD Generator](https://flaviocopes.com/tools/json-ld-generator/) - Generate validated structured data for articles, products, courses, books, FAQs, and organizations.
+- [Flexbox Playground](https://flaviocopes.com/tools/flexbox-playground/) - Toggle flex container and item properties, see the layout update live, and copy the generated CSS.
+- [CSS Grid Generator](https://flaviocopes.com/tools/grid-generator/) - Paint named grid areas on a clickable grid, preview the layout, and copy grid-template-areas CSS plus HTML.
+- [Box Shadow & Border Radius](https://flaviocopes.com/tools/shadow-radius/) - Stack up to three box shadows, tweak border-radius per corner, preview the result, and copy the CSS.
+- [Color Converter & Contrast](https://flaviocopes.com/tools/color-converter/) - Convert CSS colors between hex, rgb, hsl, and oklch, then check WCAG 2.1 contrast ratios for text on a background.
+- [CSS Units Converter](https://flaviocopes.com/tools/css-units/) - Convert between px, rem, em, %, and pt with a configurable root font size, plus a quick px→rem reference table.
+- [clamp() Calculator](https://flaviocopes.com/tools/clamp-calculator/) - Compute fluid typography clamp() from min/max font sizes and viewport widths — with the slope math shown.
+- [CSS Specificity Calculator](https://flaviocopes.com/tools/css-specificity/) - Paste CSS selectors and get the (a, b, c) specificity triple for each — ranked so you can see which rule wins.
+- [Meta Tags Generator](https://flaviocopes.com/tools/meta-tags/) - Generate title, description, canonical, Open Graph, and Twitter Card tags — with SERP and social card previews.
+- [Favicon Checklist](https://flaviocopes.com/tools/favicon-checklist/) - Pick platforms to support and get a modern favicon file checklist plus copy-paste link tags and manifest snippet.
+- [HTML Entity Lookup](https://flaviocopes.com/tools/html-entities/) - Search common HTML entities by name, number, or character — copy named or numeric forms, or encode arbitrary text.
+- [SVG to CSS Data URI](https://flaviocopes.com/tools/svg-datauri/) - Encode SVG markup into CSS-ready data URIs — URL-encoded vs base64 byte counts, background-image and mask snippets.
+- [Easing Function Previewer](https://flaviocopes.com/tools/easing-preview/) - Compare CSS timing functions side by side with live animations and cubic-bezier curve plots — copy the one that feels right.
+- [CSS Gradient Generator](https://flaviocopes.com/tools/gradient-generator/) - Build linear, radial, and conic gradients with a stops editor and presets — copy clean, ready-to-paste CSS.
+- [srcset & sizes Generator](https://flaviocopes.com/tools/srcset-generator/) - Generate responsive srcset, sizes, and ``picture`` markup from a filename pattern — see which file the browser would pick.
+- [CSS Selector Tester](https://flaviocopes.com/tools/css-selector-tester/) - Test any selector against pasted HTML — match list, source highlighting, and specificity, all in your browser.
+- [Aspect Ratio Calculator](https://flaviocopes.com/tools/aspect-ratio/) - Convert dimensions to ratios, lock a ratio while resizing, and compute contain/cover letterbox and crop math.
+- [CSS Keyframes Generator](https://flaviocopes.com/tools/keyframes-generator/) - Build @keyframes animations step by step with a live preview and a prefers-reduced-motion wrapper included.
+- [CSS to Tailwind Converter](https://flaviocopes.com/tools/css-to-tailwind/) - Paste CSS declarations and get the matching Tailwind v4 utility classes — spacing-scale snapping and arbitrary-value fallbacks.
+- [Color Palette Scale Generator](https://flaviocopes.com/tools/color-palette/) - Turn one brand color into a full 50–950 scale using OKLCH — export as CSS variables, a Tailwind @theme block, or JSON.
+- [Media & Container Query Generator](https://flaviocopes.com/tools/media-query-generator/) - Build media query breakpoint sets and @container queries — mobile-first skeletons, preference queries, copy-ready CSS.
+- [Image Format Chooser](https://flaviocopes.com/tools/image-format-chooser/) - JPEG, PNG, WebP, AVIF, or SVG? Answer a few questions and get the right format with a fallback `picture` snippet.
+- [SVG Optimizer](https://flaviocopes.com/tools/svg-optimizer/) - Optimize SVGs with SVGO right in your browser — before/after sizes, visual preview, and your files never get uploaded.
+- [Web App Manifest Generator](https://flaviocopes.com/tools/pwa-manifest/) - Generate a manifest.json for your PWA with icons, display mode, and theme colors — plus the link tags and an install checklist.
+## Git
+- [Git Hooks Generator](https://flaviocopes.com/tools/git-hooks-generator/) - Generate plain Git hooks or Husky and lint-staged setup for pre-commit and pre-push checks.
+- [Dependabot & Renovate Config Generator](https://flaviocopes.com/tools/dependabot-config/) - Create dependency update configuration with schedules, groups, labels, and reviewers.
+- [Git Command Finder](https://flaviocopes.com/tools/git-command-finder/) - Search or browse 75+ Git commands by goal — undo commits, branches, remotes, stash — with caution notes for destructive ops.
+- [.gitignore Generator](https://flaviocopes.com/tools/gitignore-generator/) - Check your stacks (Node, macOS, VS Code, Python, Astro, env files) and copy a commented .gitignore.
+- [Git Recovery Tool](https://flaviocopes.com/tools/git-recovery/) - Answer what went wrong — wrong branch, lost commits, committed secrets — and get step-by-step recovery commands.
+- [Commit Message Builder](https://flaviocopes.com/tools/commit-message-builder/) - Build Conventional Commits messages with live validation, breaking-change footers, and copy-ready one-liners.
+- [Semver Advisor](https://flaviocopes.com/tools/semver-advisor/) - Pick what changed for the correct semver bump (including 0.x rules), plus plain-English explanations for ^ and ~ ranges.
+- [Git Branch & Rebase Visualizer](https://flaviocopes.com/tools/git-branch-visualizer/) - Step through merge, fast-forward, rebase, and cherry-pick scenarios on an animated commit graph — see what each command really does.
+## Node.js & Backend
+- [Chmod Calculator](https://flaviocopes.com/tools/chmod-calculator/) - Convert Unix permissions between rwx checkboxes, octal (755), and ls -l notation — with common presets.
+- [HTTP Status Codes](https://flaviocopes.com/tools/http-status-codes/) - Search HTTP status codes 1xx–5xx with plain-English meanings and practical when-to-use notes.
+- [.env Converter](https://flaviocopes.com/tools/env-converter/) - Convert .env files to JSON or YAML and back, in your browser — comments, quotes, and multiline values handled.
+- [Route to curl](https://flaviocopes.com/tools/route-to-curl/) - Build curl, fetch(), and httpie commands from method, URL, params, headers, and JSON body — with copy button.
+- [Bcrypt / Argon2 Cost Calculator](https://flaviocopes.com/tools/bcrypt-cost/) - Estimate bcrypt and argon2 hash times and rough offline crack timelines — educational, not a benchmark.
+- [npm Package Weight](https://flaviocopes.com/tools/package-weight/) - Compare min+gzip bundle sizes for ~40 common npm packages and see lighter alternatives.
+- [Node.js Version Features](https://flaviocopes.com/tools/node-versions/) - Pick a Node LTS version to see its features, or pick a feature to see which version you need.
+- [cURL to Code](https://flaviocopes.com/tools/curl-to-code/) - Paste a curl command and get fetch(), Node.js, or Python requests code — headers, auth, form data, and JSON bodies handled.
+- [Hash Generator](https://flaviocopes.com/tools/hash-generator/) - SHA-1/256/384/512 and MD5 digests plus HMAC signing, from text or files — hex or Base64, all in your browser.
+- [tar / find / rsync Command Builder](https://flaviocopes.com/tools/cli-builder/) - Describe what you want in plain English and get the exact tar, find, or rsync command with every flag explained.
+- [Glob Pattern Tester](https://flaviocopes.com/tools/glob-tester/) - Test glob patterns against a file list with gitignore or minimatch semantics — see exactly what matches and why.
+- [Byte Size Converter](https://flaviocopes.com/tools/byte-size/) - KB vs KiB conversions done right, plus transfer times at common connection speeds — no more 1000 vs 1024 confusion.
+## Databases
+- [Postgres EXPLAIN Visualizer](https://flaviocopes.com/tools/explain-visualizer/) - Turn EXPLAIN FORMAT JSON into a readable query-plan tree with cost and timing hotspots.
+- [Database Chooser](https://flaviocopes.com/tools/database-chooser/) - Six questions to pick SQLite vs Postgres vs KV vs columnar — with honest anti-recommendations and typical pricing.
+- [SQL Formatter](https://flaviocopes.com/tools/sql-formatter/) - Pretty-print SQL in your browser — keyword casing, clause breaks, indentation, or compact minify.
+- [Schema Converter](https://flaviocopes.com/tools/schema-converter/) - Convert a CREATE TABLE to Prisma and Drizzle — or paste Prisma or Drizzle and get SQL back.
+- [Database Index Advisor](https://flaviocopes.com/tools/index-advisor/) - Describe your query pattern and get a suggested CREATE INDEX with plain-English reasoning. Verify with EXPLAIN.
+- [Connection String Builder](https://flaviocopes.com/tools/connection-string/) - Build or parse Postgres, MySQL, and SQLite connection strings. Passwords stay in your browser.
+- [Postgres vs SQLite vs MySQL](https://flaviocopes.com/tools/postgres-sqlite-mysql/) - Head-to-head comparison of the three classic relational engines, plus a four-question helper with honest tradeoffs.
+- [CSV to SQL Converter](https://flaviocopes.com/tools/csv-to-sql/) - Paste CSV, get CREATE TABLE and INSERT statements — type inference, dialect quoting, batching, and NULL handling.
+## React, Next.js, Astro & AHA
+- [React Hook Chooser](https://flaviocopes.com/tools/react-hook-chooser/) - Pick the right React hook for your goal — with snippets and honest "you probably don’t need useEffect" notes.
+- [React Key & Re-render Quiz](https://flaviocopes.com/tools/react-key-quiz/) - Ten questions on React keys, reconciliation, and memo — instant feedback, code snippets, shareable score.
+- [Next.js Rendering Chooser](https://flaviocopes.com/tools/nextjs-rendering/) - Six questions to choose static, ISR, SSR, or client rendering in Next.js — with the exact code convention to use.
+- [Astro Islands Cost Visualizer](https://flaviocopes.com/tools/astro-islands-cost/) - Stack simulated Astro islands by framework and client:* directive — see approximate JS shipped vs a 100 KB budget.
+- [htmx Attribute Builder](https://flaviocopes.com/tools/htmx-builder/) - Build complete hx-* attributes from a form — live HTML output, plain-English readback, and copy button.
+- [Alpine.js Cheatsheet](https://flaviocopes.com/tools/alpine-cheatsheet/) - Alpine core directives with snippets and live mini-demos — this page is built with Alpine itself.
+## Web Platform & Networking
+- [HAR File Analyzer](https://flaviocopes.com/tools/har-analyzer/) - Inspect request timing, transfer sizes, domains, caching, and slow resources without uploading the HAR.
+- [TOTP / 2FA Generator](https://flaviocopes.com/tools/totp-generator/) - Generate and debug time-based one-time passwords locally with an otpauth URI and QR code.
+- [Passkey Flow Visualizer](https://flaviocopes.com/tools/passkey-flow/) - Step through WebAuthn registration and authentication across the browser, server, and authenticator.
+- [Authentication Strategy Chooser](https://flaviocopes.com/tools/auth-chooser/) - Compare sessions, JWT, OAuth, passkeys, and magic links for your application.
+- [Web Storage Chooser](https://flaviocopes.com/tools/web-storage-chooser/) - Choose between cookies, localStorage, IndexedDB, Cache API, and OPFS with security guidance.
+- [Cache-Control Builder](https://flaviocopes.com/tools/cache-control/) - Build Cache-Control headers for static assets, HTML, APIs, or private pages — with plain-English browser vs CDN readback.
+- [CORS Debugger](https://flaviocopes.com/tools/cors-debugger/) - Describe a cross-origin request and see simple vs preflight, the required response headers, and fixes for classic errors.
+- [CSP Generator](https://flaviocopes.com/tools/csp-generator/) - Compose a Content-Security-Policy header with presets, per-directive explanations, and warnings on unsafe-inline.
+- [DNS Record Explainer](https://flaviocopes.com/tools/dns-records/) - DNS record reference (A, MX, TXT, and more) plus a helper for pointing domains, email setup, and anti-spoofing.
+- [CIDR Calculator](https://flaviocopes.com/tools/cidr-calculator/) - IPv4 CIDR and netmask calculator with network/host breakdown, binary view, and a prefix finder for N hosts.
+- [WebSocket vs SSE vs Polling](https://flaviocopes.com/tools/websocket-sse-polling/) - Six questions to pick WebSocket, SSE, or HTTP polling — with a comparison table and anti-recommendations for serverless.
+- [Redirects Simulator](https://flaviocopes.com/tools/redirects-simulator/) - Paste _redirects rules, test paths, and see first-match results with splat substitution and rule-order warnings.
+- [Cron Builder & Explainer](https://flaviocopes.com/tools/cron-builder/) - Build or paste a cron expression, get a plain-English explanation, and see the next 5 run times in your timezone.
+- [Timestamp Converter](https://flaviocopes.com/tools/timestamp-converter/) - Unix timestamp to date and back — local, UTC, and any timezone, with a live clock and JS snippets.
+- [HTTP Response Headers Explainer](https://flaviocopes.com/tools/headers-explainer/) - Paste response headers and get each one explained — plus warnings for missing security headers like HSTS and CSP.
+- [Cookie Inspector & Set-Cookie Builder](https://flaviocopes.com/tools/cookie-builder/) - Paste a Cookie or Set-Cookie header to inspect it, or build a Set-Cookie line with SameSite, HttpOnly, Secure, and Partitioned — all in the browser.
+- [Security Headers Starter](https://flaviocopes.com/tools/security-headers/) - Generate a starter set of HSTS, nosniff, Referrer-Policy, Permissions-Policy, framing, COOP, and CORP headers — raw, nginx, or Cloudflare format.
+- [ETag & Conditional Request Playground](https://flaviocopes.com/tools/etag-conditional/) - Generate ETags, set If-None-Match / If-Modified-Since, and see whether the server should answer 200 or 304.
+- [Content Negotiation Helper](https://flaviocopes.com/tools/content-negotiation/) - Paste an Accept header, list what your server offers, and see which MIME type wins — plus Accept-Language and Accept-Encoding.
+- [Redirect Status Chooser](https://flaviocopes.com/tools/redirect-status/) - Permanent or temporary? Keep the method or switch to GET? Pick 301, 302, 303, 307, or 308 with a sample Location response.
+- [robots.txt Generator & Tester](https://flaviocopes.com/tools/robots-txt/) - Build robots.txt rules with AI-crawler presets, then test any path and user-agent against them before you deploy.
+- [SPF / DKIM / DMARC Generator](https://flaviocopes.com/tools/email-dns/) - Generate and explain email authentication DNS records — get your newsletter out of the spam folder.
+- [sitemap.xml Generator](https://flaviocopes.com/tools/sitemap-generator/) - Paste your URLs and get a valid sitemap.xml — lastmod, changefreq, priority, dedupe, and sitemap index support.
+- [User-Agent Parser](https://flaviocopes.com/tools/user-agent-parser/) - Paste a User-Agent string and see browser, engine, OS, device type, and bots detected — with honest caveats about UA lies.
+- [MIME Type Lookup](https://flaviocopes.com/tools/mime-types/) - Extension to MIME type and back — 150+ entries with Content-Type examples, charset notes, and gotchas.
+- [security.txt Generator](https://flaviocopes.com/tools/security-txt/) - Generate a /.well-known/security.txt per RFC 9116 — contact, expires, policy, and validation warnings included.
+- [OAuth 2.0 / PKCE Flow Visualizer](https://flaviocopes.com/tools/oauth-pkce/) - Step through the Authorization Code + PKCE flow, then generate a real code_verifier and S256 challenge with Web Crypto.
+## Hosting & Deployment
+- [Docker Run to Compose Converter](https://flaviocopes.com/tools/docker-run-to-compose/) - Convert common docker run flags, volumes, ports, and environment variables into Compose YAML.
+- [Do You Need Kubernetes?](https://flaviocopes.com/tools/do-you-need-kubernetes/) - Seven honest questions about your team, services, and traffic — verdict tiers from "No" to "Yes, you have K8s problems".
+- [Scaling Strategy Helper](https://flaviocopes.com/tools/scaling-helper/) - What’s actually slow, is it stateful, how spiky is traffic — one primary scaling strategy with honest anti-recommendations.
+- [VPS Sizing Estimator](https://flaviocopes.com/tools/vps-sizing/) - App type and daily visitors in, recommended server tier out — with the req/s and memory-budget math shown.
+- [Uptime / SLA Calculator](https://flaviocopes.com/tools/uptime-calculator/) - Turn an SLA percentage into allowed downtime per day/month/year, and see what chaining dependencies does to real availability.
+- [nginx Config Generator](https://flaviocopes.com/tools/nginx-generator/) - Generate nginx server blocks for static sites, SPAs, and Node.js reverse proxies — HTTPS with certbot, gzip, cache headers.
+- [Docker Compose Generator](https://flaviocopes.com/tools/docker-compose-generator/) - Generate a compose.yaml for your Node.js, Astro, or Next.js app with Postgres, MySQL, Redis — healthchecks wired correctly.
+- [systemd Service Generator](https://flaviocopes.com/tools/systemd-generator/) - Generate a systemd unit file to run a Node.js app as a Linux service — restart policy, boot, memory limits, hardening.
+- [GitHub Actions Deploy Generator](https://flaviocopes.com/tools/gh-actions-deploy/) - Complete deploy.yml for Cloudflare Pages, Fly.io, VPS over SSH, or npm publish — plus the exact secrets to set.
+- [SSH Hardening Checklist](https://flaviocopes.com/tools/ssh-hardening/) - Interactive SSH server hardening checklist with a live sshd_config generator — keys only, fail2ban, safe restart commands.
+- [Container Base Image Sizes](https://flaviocopes.com/tools/base-image-sizes/) - Compare Docker base images — alpine, slim, distroless, scratch — by pull size, shell, and libc, with a 3-question picker.
+- [CI Build Minutes Cost Calculator](https://flaviocopes.com/tools/ci-cost/) - Builds per day × duration → monthly CI minutes and estimated bills on GitHub Actions, GitLab CI, and CircleCI.
+- [Production Deploy Checklist](https://flaviocopes.com/tools/deploy-checklist/) - Pre-launch checklist tailored to your stack and platform — security, backups, DNS cutover, rollback — with shareable progress.
+- [Cloudflare Storage Chooser](https://flaviocopes.com/tools/cloudflare-storage-chooser/) - Five questions to pick Cloudflare KV, D1, R2, or Durable Objects — with anti-recommendations and a comparison table.
+- [Workers Cost Estimator](https://flaviocopes.com/tools/workers-cost/) - Estimate monthly Cloudflare Workers, KV, D1, R2, and Durable Objects cost with plan allowances subtracted.
+- [Bandwidth Calculator](https://flaviocopes.com/tools/bandwidth-calculator/) - Page views × page weight × cache hit rate → monthly bandwidth and what it costs on the major static hosts.
+- [Free Tier Finder](https://flaviocopes.com/tools/free-tier-finder/) - What can you run for exactly $0? Every genuinely free tier from Cloudflare, Vercel, AWS, Fly.io, and Railway, filtered by what your app needs.
+- [Caddyfile Generator](https://flaviocopes.com/tools/caddyfile-generator/) - Generate a Caddyfile for static sites, SPAs, and reverse proxies — automatic HTTPS, compression, security headers.
+## Business & Writing
+- [SaaS MRR Calculator](https://flaviocopes.com/tools/mrr-calculator/) - Project SaaS MRR over 24 months from traffic, trial conversion, churn, and visitor growth — with steady-state estimate.
+- [Freelance Rate Calculator](https://flaviocopes.com/tools/freelance-rate/) - Work out the hourly and day rate you need after tax, overhead, and business costs — with realistic personas.
+- [Rate Converter](https://flaviocopes.com/tools/rate-converter/) - Convert between hourly, day, weekly, monthly retainer, and project rates — with retainer discount math.
+- [Salary to Freelance](https://flaviocopes.com/tools/salary-to-freelance/) - What freelance revenue do you need to match an employee salary? Country presets, benefits, bench time — ballpark only.
+- [Product Pricing Calculator](https://flaviocopes.com/tools/product-pricing/) - Test a price change with elasticity presets; see projected revenue, break-even drop-off, and a price-range table.
+- [Launch Revenue Estimator](https://flaviocopes.com/tools/launch-revenue/) - Estimate course or ebook launch revenue from list size, email funnel rates, price, and launch sequence style.
+- [Payment Platform Fees](https://flaviocopes.com/tools/payment-fees/) - Compare net revenue on Paddle, Stripe, Gumroad, Polar, and Lemon Squeezy for your price and monthly volume.
+- [Newsletter Growth Projector](https://flaviocopes.com/tools/newsletter-growth/) - Project newsletter subscribers over 24 months from daily signups and churn — with 1k/10k milestone timing.
+- [Sponsorship Rate Calculator](https://flaviocopes.com/tools/sponsorship-rates/) - Estimate ad and sponsorship rates for your blog or newsletter from traffic, niche, and placement — with the CPM math shown.
+- [SEO Title Generator](https://flaviocopes.com/tools/seo-title-generator/) - Turn a blog topic into SEO title ideas, a URL slug, and a meta description skeleton — rule-based templates, no AI.
+- [Word Count Goals Planner](https://flaviocopes.com/tools/word-count-goals/) - Plan blog posts, handbooks, or books: sessions needed, finish date, and week-by-week milestones from your writing pace.
+- [Reading Time Analyzer](https://flaviocopes.com/tools/reading-time/) - Paste text for word count, reading time, speaking time, and sentence stats. Your text never leaves the browser.
+- [Slug & Headline Case Converter](https://flaviocopes.com/tools/slug-generator/) - Slugify any headline for URLs and convert between title case, sentence case, and more — AP and Chicago styles included.
+- [Character Limit Checker](https://flaviocopes.com/tools/char-limits/) - Check your text against SERP title, meta description, tweet, Open Graph, and email subject limits — all in one view.
+- [Time Zone Meeting Planner](https://flaviocopes.com/tools/timezone-planner/) - Find meeting times that work across cities with a color-coded overlap grid — working hours, early, late, or asleep.
+- [Churn / LTV Calculator](https://flaviocopes.com/tools/churn-ltv/) - Customer lifetime value from ARPU and churn, CAC payback months, and what halving churn does to your revenue.
+- [Invoice Generator](https://flaviocopes.com/tools/invoice-generator/) - Build a clean, print-friendly invoice in the browser and save it as PDF — no signup, nothing uploaded anywhere.
+- [Project Estimate Calculator](https://flaviocopes.com/tools/project-estimate/) - Break work into tasks, apply uncertainty buffers, and get a realistic range estimate instead of a single wrong number.
+- [UTM Link Builder](https://flaviocopes.com/tools/utm-builder/) - Build campaign URLs with utm_source, medium, and campaign — presets, validation warnings, and a parameter reference.
+## Dev Utilities & Fun
+- [README Generator](https://flaviocopes.com/tools/readme-generator/) - Build a practical project README with installation, usage, commands, environment variables, and badges.
+- [Dockerfile Generator](https://flaviocopes.com/tools/dockerfile-generator/) - Generate Dockerfiles for Node.js, Next.js, Astro, Bun, and static sites — with .dockerignore and build commands.
+- [Markdown Table Generator](https://flaviocopes.com/tools/markdown-table/) - Build markdown tables in an editable grid — paste from Excel or Sheets, set alignment, copy pretty-printed output.
+- [Markdown Preview](https://flaviocopes.com/tools/markdown-preview/) - Live markdown to HTML preview with GFM quirks explained — raw HTML in the input is safely escaped.
+- [Diff Checker](https://flaviocopes.com/tools/diff-checker/) - Compare two text blocks line by line — unified or side-by-side view, ignore-whitespace option, change stats.
+- [Fake Data Generator](https://flaviocopes.com/tools/fake-data/) - Generate seeded fake JSON for users, products, orders, posts, and companies — reproducible fixtures to copy or download.
+- [YAML ↔ JSON Converter](https://flaviocopes.com/tools/yaml-json/) - Convert YAML to JSON and back with indent options, line-number errors, and warnings for classic YAML gotchas.
+- [JSON ↔ CSV Converter](https://flaviocopes.com/tools/json-csv/) - JSON arrays to CSV and back — nested-object flattening, delimiter auto-detect, type inference, proper RFC 4180 quoting.
+- [Base64 Image Encoder / Decoder](https://flaviocopes.com/tools/base64-image/) - Turn images into data URIs (or decode base64 back to a preview) with HTML and CSS snippets — files never leave your browser.
+- [Code Beautifier & Minifier](https://flaviocopes.com/tools/code-beautifier/) - Format or minify HTML, CSS, and JavaScript in your browser — with before/after byte counts.
+- [HTML to JSX Converter](https://flaviocopes.com/tools/html-to-jsx/) - Paste HTML, get JSX — className, style objects, self-closed tags, SVG attributes, and comments handled.
+- [Line Sorter & Deduplicator](https://flaviocopes.com/tools/line-sorter/) - Sort, dedupe, filter, trim, and transform lines of text — operations compose, with live in/out stats.
+- [Lorem Ipsum Generator](https://flaviocopes.com/tools/lorem-ipsum/) - Classic lorem ipsum plus dev ipsum and fake commit messages — seeded and reproducible, as text, HTML, or markdown.
+- [Password Generator](https://flaviocopes.com/tools/password-generator/) - Passwords, passphrases, PINs, and random bytes via crypto.getRandomValues — with entropy bits and time-to-crack estimates.
+- [QR Code Generator](https://flaviocopes.com/tools/qr-generator/) - QR codes for URLs, text, or WiFi networks — SVG and PNG export, generated entirely in your browser.
+- [Markdown TOC Generator](https://flaviocopes.com/tools/markdown-toc/) - Paste markdown, get an anchor-linked table of contents — GitHub-style slugs, duplicate handling, indent options.
+- [Image Resizer & Compressor](https://flaviocopes.com/tools/image-resizer/) - Resize and compress images right in the browser with before/after sizes — files never get uploaded anywhere.
+- [EXIF Viewer & Stripper](https://flaviocopes.com/tools/exif-viewer/) - See what metadata your photos leak — camera, settings, GPS location — and strip it all client-side before sharing.
+- [Stack Personality Quiz](https://flaviocopes.com/tools/stack-quiz/) - What does your stack say about you? Eight questions, one archetype: Hetzner Monk, Serverless Maximalist, or worse.
+- [Markdown ↔ HTML Converter](https://flaviocopes.com/tools/markdown-html/) - Convert markdown to HTML source and HTML back to markdown — GFM tables, nested lists, code blocks, all in the browser.
+- [XML Formatter & Validator](https://flaviocopes.com/tools/xml-formatter/) - Pretty-print or minify XML and check it is well-formed — CDATA, comments, and declarations preserved exactly.
+- [Phone Number Formatter](https://flaviocopes.com/tools/phone-formatter/) - Validate any phone number and format it as E.164, international, national, or a tel: URI — powered by libphonenumber.
+- [Unicode Character Search](https://flaviocopes.com/tools/unicode-search/) - Find any character by name or paste one to decode it — code points, UTF-8 bytes, and HTML, JS, CSS escapes with copy buttons.
+- [Open Source License Chooser](https://flaviocopes.com/tools/license-chooser/) - MIT, Apache, GPL, or MPL? A short quiz plus a permissions comparison table — with full license texts ready to download.
+
+## License
+
+This awesome list is licensed under the [CC0 1.0 Universal](LICENSE) license.
